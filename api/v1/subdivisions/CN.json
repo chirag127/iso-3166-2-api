@@ -1,0 +1,211 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "CN",
+  "count": 34,
+  "subdivisions": [
+    {
+      "code": "CN-AH",
+      "name": "Anhui Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-BJ",
+      "name": "Beijing Shi",
+      "type": "Municipality",
+      "country": "CN"
+    },
+    {
+      "code": "CN-CQ",
+      "name": "Chongqing Shi",
+      "type": "Municipality",
+      "country": "CN"
+    },
+    {
+      "code": "CN-FJ",
+      "name": "Fujian Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-GD",
+      "name": "Guangdong Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-GS",
+      "name": "Gansu Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-GX",
+      "name": "Guangxi Zhuangzu Zizhiqu",
+      "type": "Autonomous region",
+      "country": "CN"
+    },
+    {
+      "code": "CN-GZ",
+      "name": "Guizhou Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-HA",
+      "name": "Henan Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-HB",
+      "name": "Hubei Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-HE",
+      "name": "Hebei Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-HI",
+      "name": "Hainan Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-HK",
+      "name": "Hong Kong SAR",
+      "type": "Special administrative region",
+      "country": "CN"
+    },
+    {
+      "code": "CN-HL",
+      "name": "Heilongjiang Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-HN",
+      "name": "Hunan Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-JL",
+      "name": "Jilin Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-JS",
+      "name": "Jiangsu Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-JX",
+      "name": "Jiangxi Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-LN",
+      "name": "Liaoning Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-MO",
+      "name": "Macao SAR",
+      "type": "Special administrative region",
+      "country": "CN"
+    },
+    {
+      "code": "CN-NM",
+      "name": "Nei Mongol Zizhiqu",
+      "type": "Autonomous region",
+      "country": "CN"
+    },
+    {
+      "code": "CN-NX",
+      "name": "Ningxia Huizu Zizhiqu",
+      "type": "Autonomous region",
+      "country": "CN"
+    },
+    {
+      "code": "CN-QH",
+      "name": "Qinghai Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-SC",
+      "name": "Sichuan Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-SD",
+      "name": "Shandong Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-SH",
+      "name": "Shanghai Shi",
+      "type": "Municipality",
+      "country": "CN"
+    },
+    {
+      "code": "CN-SN",
+      "name": "Shaanxi Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-SX",
+      "name": "Shanxi Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-TJ",
+      "name": "Tianjin Shi",
+      "type": "Municipality",
+      "country": "CN"
+    },
+    {
+      "code": "CN-TW",
+      "name": "Taiwan Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-XJ",
+      "name": "Xinjiang Uygur Zizhiqu",
+      "type": "Autonomous region",
+      "country": "CN"
+    },
+    {
+      "code": "CN-XZ",
+      "name": "Xizang Zizhiqu",
+      "type": "Autonomous region",
+      "country": "CN"
+    },
+    {
+      "code": "CN-YN",
+      "name": "Yunnan Sheng",
+      "type": "Province",
+      "country": "CN"
+    },
+    {
+      "code": "CN-ZJ",
+      "name": "Zhejiang Sheng",
+      "type": "Province",
+      "country": "CN"
+    }
+  ]
+}

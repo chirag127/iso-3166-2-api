@@ -1,0 +1,43 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "ER",
+  "count": 6,
+  "subdivisions": [
+    {
+      "code": "ER-AN",
+      "name": "Ansabā",
+      "type": "Region",
+      "country": "ER"
+    },
+    {
+      "code": "ER-DK",
+      "name": "Janūbī al Baḩrī al Aḩmar",
+      "type": "Region",
+      "country": "ER"
+    },
+    {
+      "code": "ER-DU",
+      "name": "Al Janūbī",
+      "type": "Region",
+      "country": "ER"
+    },
+    {
+      "code": "ER-GB",
+      "name": "Qāsh-Barkah",
+      "type": "Region",
+      "country": "ER"
+    },
+    {
+      "code": "ER-MA",
+      "name": "Al Awsaţ",
+      "type": "Region",
+      "country": "ER"
+    },
+    {
+      "code": "ER-SK",
+      "name": "Shimālī al Baḩrī al Aḩmar",
+      "type": "Region",
+      "country": "ER"
+    }
+  ]
+}

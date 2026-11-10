@@ -1,0 +1,31 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BN",
+  "count": 4,
+  "subdivisions": [
+    {
+      "code": "BN-BE",
+      "name": "Belait",
+      "type": "District",
+      "country": "BN"
+    },
+    {
+      "code": "BN-BM",
+      "name": "Brunei-Muara",
+      "type": "District",
+      "country": "BN"
+    },
+    {
+      "code": "BN-TE",
+      "name": "Temburong",
+      "type": "District",
+      "country": "BN"
+    },
+    {
+      "code": "BN-TU",
+      "name": "Tutong",
+      "type": "District",
+      "country": "BN"
+    }
+  ]
+}

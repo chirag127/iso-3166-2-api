@@ -1,0 +1,37 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "TJ",
+  "count": 5,
+  "subdivisions": [
+    {
+      "code": "TJ-DU",
+      "name": "Dushanbe",
+      "type": "Capital territory",
+      "country": "TJ"
+    },
+    {
+      "code": "TJ-GB",
+      "name": "Kŭhistoni Badakhshon",
+      "type": "Autonomous region",
+      "country": "TJ"
+    },
+    {
+      "code": "TJ-KT",
+      "name": "Khatlon",
+      "type": "Region",
+      "country": "TJ"
+    },
+    {
+      "code": "TJ-RA",
+      "name": "nohiyahoi tobei jumhurí",
+      "type": "Districts under republic administration",
+      "country": "TJ"
+    },
+    {
+      "code": "TJ-SU",
+      "name": "Sughd",
+      "type": "Region",
+      "country": "TJ"
+    }
+  ]
+}

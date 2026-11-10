@@ -1,0 +1,91 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "UZ",
+  "count": 14,
+  "subdivisions": [
+    {
+      "code": "UZ-AN",
+      "name": "Andijon",
+      "type": "Region",
+      "country": "UZ"
+    },
+    {
+      "code": "UZ-BU",
+      "name": "Buxoro",
+      "type": "Region",
+      "country": "UZ"
+    },
+    {
+      "code": "UZ-FA",
+      "name": "Farg‘ona",
+      "type": "Region",
+      "country": "UZ"
+    },
+    {
+      "code": "UZ-JI",
+      "name": "Jizzax",
+      "type": "Region",
+      "country": "UZ"
+    },
+    {
+      "code": "UZ-NG",
+      "name": "Namangan",
+      "type": "Region",
+      "country": "UZ"
+    },
+    {
+      "code": "UZ-NW",
+      "name": "Navoiy",
+      "type": "Region",
+      "country": "UZ"
+    },
+    {
+      "code": "UZ-QA",
+      "name": "Qashqadaryo",
+      "type": "Region",
+      "country": "UZ"
+    },
+    {
+      "code": "UZ-QR",
+      "name": "Qoraqalpog‘iston Respublikasi",
+      "type": "Republic",
+      "country": "UZ"
+    },
+    {
+      "code": "UZ-SA",
+      "name": "Samarqand",
+      "type": "Region",
+      "country": "UZ"
+    },
+    {
+      "code": "UZ-SI",
+      "name": "Sirdaryo",
+      "type": "Region",
+      "country": "UZ"
+    },
+    {
+      "code": "UZ-SU",
+      "name": "Surxondaryo",
+      "type": "Region",
+      "country": "UZ"
+    },
+    {
+      "code": "UZ-TK",
+      "name": "Toshkent",
+      "type": "City",
+      "country": "UZ"
+    },
+    {
+      "code": "UZ-TO",
+      "name": "Toshkent",
+      "type": "Region",
+      "country": "UZ"
+    },
+    {
+      "code": "UZ-XO",
+      "name": "Xorazm",
+      "type": "Region",
+      "country": "UZ"
+    }
+  ]
+}

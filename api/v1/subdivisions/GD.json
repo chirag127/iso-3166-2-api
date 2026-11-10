@@ -1,0 +1,49 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "GD",
+  "count": 7,
+  "subdivisions": [
+    {
+      "code": "GD-01",
+      "name": "Saint Andrew",
+      "type": "Parish",
+      "country": "GD"
+    },
+    {
+      "code": "GD-02",
+      "name": "Saint David",
+      "type": "Parish",
+      "country": "GD"
+    },
+    {
+      "code": "GD-03",
+      "name": "Saint George",
+      "type": "Parish",
+      "country": "GD"
+    },
+    {
+      "code": "GD-04",
+      "name": "Saint John",
+      "type": "Parish",
+      "country": "GD"
+    },
+    {
+      "code": "GD-05",
+      "name": "Saint Mark",
+      "type": "Parish",
+      "country": "GD"
+    },
+    {
+      "code": "GD-06",
+      "name": "Saint Patrick",
+      "type": "Parish",
+      "country": "GD"
+    },
+    {
+      "code": "GD-10",
+      "name": "Southern Grenadine Islands",
+      "type": "Dependency",
+      "country": "GD"
+    }
+  ]
+}

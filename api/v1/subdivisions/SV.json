@@ -1,0 +1,91 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SV",
+  "count": 14,
+  "subdivisions": [
+    {
+      "code": "SV-AH",
+      "name": "Ahuachapán",
+      "type": "Department",
+      "country": "SV"
+    },
+    {
+      "code": "SV-CA",
+      "name": "Cabañas",
+      "type": "Department",
+      "country": "SV"
+    },
+    {
+      "code": "SV-CH",
+      "name": "Chalatenango",
+      "type": "Department",
+      "country": "SV"
+    },
+    {
+      "code": "SV-CU",
+      "name": "Cuscatlán",
+      "type": "Department",
+      "country": "SV"
+    },
+    {
+      "code": "SV-LI",
+      "name": "La Libertad",
+      "type": "Department",
+      "country": "SV"
+    },
+    {
+      "code": "SV-MO",
+      "name": "Morazán",
+      "type": "Department",
+      "country": "SV"
+    },
+    {
+      "code": "SV-PA",
+      "name": "La Paz",
+      "type": "Department",
+      "country": "SV"
+    },
+    {
+      "code": "SV-SA",
+      "name": "Santa Ana",
+      "type": "Department",
+      "country": "SV"
+    },
+    {
+      "code": "SV-SM",
+      "name": "San Miguel",
+      "type": "Department",
+      "country": "SV"
+    },
+    {
+      "code": "SV-SO",
+      "name": "Sonsonate",
+      "type": "Department",
+      "country": "SV"
+    },
+    {
+      "code": "SV-SS",
+      "name": "San Salvador",
+      "type": "Department",
+      "country": "SV"
+    },
+    {
+      "code": "SV-SV",
+      "name": "San Vicente",
+      "type": "Department",
+      "country": "SV"
+    },
+    {
+      "code": "SV-UN",
+      "name": "La Unión",
+      "type": "Department",
+      "country": "SV"
+    },
+    {
+      "code": "SV-US",
+      "name": "Usulután",
+      "type": "Department",
+      "country": "SV"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "NI",
+  "count": 17,
+  "subdivisions": [
+    {
+      "code": "NI-AN",
+      "name": "Costa Caribe Norte",
+      "type": "Autonomous region",
+      "country": "NI"
+    },
+    {
+      "code": "NI-AS",
+      "name": "Costa Caribe Sur",
+      "type": "Autonomous region",
+      "country": "NI"
+    },
+    {
+      "code": "NI-BO",
+      "name": "Boaco",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-CA",
+      "name": "Carazo",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-CI",
+      "name": "Chinandega",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-CO",
+      "name": "Chontales",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-ES",
+      "name": "Estelí",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-GR",
+      "name": "Granada",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-JI",
+      "name": "Jinotega",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-LE",
+      "name": "León",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-MD",
+      "name": "Madriz",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-MN",
+      "name": "Managua",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-MS",
+      "name": "Masaya",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-MT",
+      "name": "Matagalpa",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-NS",
+      "name": "Nueva Segovia",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-RI",
+      "name": "Rivas",
+      "type": "Department",
+      "country": "NI"
+    },
+    {
+      "code": "NI-SJ",
+      "name": "Río San Juan",
+      "type": "Department",
+      "country": "NI"
+    }
+  ]
+}

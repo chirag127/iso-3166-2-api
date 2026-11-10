@@ -1,0 +1,91 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "NR",
+  "count": 14,
+  "subdivisions": [
+    {
+      "code": "NR-01",
+      "name": "Aiwo",
+      "type": "District",
+      "country": "NR"
+    },
+    {
+      "code": "NR-02",
+      "name": "Anabar",
+      "type": "District",
+      "country": "NR"
+    },
+    {
+      "code": "NR-03",
+      "name": "Anetan",
+      "type": "District",
+      "country": "NR"
+    },
+    {
+      "code": "NR-04",
+      "name": "Anibare",
+      "type": "District",
+      "country": "NR"
+    },
+    {
+      "code": "NR-05",
+      "name": "Baitsi",
+      "type": "District",
+      "country": "NR"
+    },
+    {
+      "code": "NR-06",
+      "name": "Boe",
+      "type": "District",
+      "country": "NR"
+    },
+    {
+      "code": "NR-07",
+      "name": "Buada",
+      "type": "District",
+      "country": "NR"
+    },
+    {
+      "code": "NR-08",
+      "name": "Denigomodu",
+      "type": "District",
+      "country": "NR"
+    },
+    {
+      "code": "NR-09",
+      "name": "Ewa",
+      "type": "District",
+      "country": "NR"
+    },
+    {
+      "code": "NR-10",
+      "name": "Ijuw",
+      "type": "District",
+      "country": "NR"
+    },
+    {
+      "code": "NR-11",
+      "name": "Meneng",
+      "type": "District",
+      "country": "NR"
+    },
+    {
+      "code": "NR-12",
+      "name": "Nibok",
+      "type": "District",
+      "country": "NR"
+    },
+    {
+      "code": "NR-13",
+      "name": "Uaboe",
+      "type": "District",
+      "country": "NR"
+    },
+    {
+      "code": "NR-14",
+      "name": "Yaren",
+      "type": "District",
+      "country": "NR"
+    }
+  ]
+}

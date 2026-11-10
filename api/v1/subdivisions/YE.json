@@ -1,0 +1,139 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "YE",
+  "count": 22,
+  "subdivisions": [
+    {
+      "code": "YE-AB",
+      "name": "Abyan",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-AD",
+      "name": "‘Adan",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-AM",
+      "name": "‘Amrān",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-BA",
+      "name": "Al Bayḑā’",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-DA",
+      "name": "Aḑ Ḑāli‘",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-DH",
+      "name": "Dhamār",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-HD",
+      "name": "Ḩaḑramawt",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-HJ",
+      "name": "Ḩajjah",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-HU",
+      "name": "Al Ḩudaydah",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-IB",
+      "name": "Ibb",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-JA",
+      "name": "Al Jawf",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-LA",
+      "name": "Laḩij",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-MA",
+      "name": "Ma’rib",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-MR",
+      "name": "Al Mahrah",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-MW",
+      "name": "Al Maḩwīt",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-RA",
+      "name": "Raymah",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-SA",
+      "name": "Amānat al ‘Āşimah [city]",
+      "type": "Municipality",
+      "country": "YE"
+    },
+    {
+      "code": "YE-SD",
+      "name": "Şāʻdah",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-SH",
+      "name": "Shabwah",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-SN",
+      "name": "Şanʻā’",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-SU",
+      "name": "Arkhabīl Suquţrá",
+      "type": "Governorate",
+      "country": "YE"
+    },
+    {
+      "code": "YE-TA",
+      "name": "Tāʻizz",
+      "type": "Governorate",
+      "country": "YE"
+    }
+  ]
+}

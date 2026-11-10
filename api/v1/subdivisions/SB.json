@@ -1,0 +1,67 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SB",
+  "count": 10,
+  "subdivisions": [
+    {
+      "code": "SB-CE",
+      "name": "Central",
+      "type": "Province",
+      "country": "SB"
+    },
+    {
+      "code": "SB-CH",
+      "name": "Choiseul",
+      "type": "Province",
+      "country": "SB"
+    },
+    {
+      "code": "SB-CT",
+      "name": "Capital Territory (Honiara)",
+      "type": "Capital territory",
+      "country": "SB"
+    },
+    {
+      "code": "SB-GU",
+      "name": "Guadalcanal",
+      "type": "Province",
+      "country": "SB"
+    },
+    {
+      "code": "SB-IS",
+      "name": "Isabel",
+      "type": "Province",
+      "country": "SB"
+    },
+    {
+      "code": "SB-MK",
+      "name": "Makira-Ulawa",
+      "type": "Province",
+      "country": "SB"
+    },
+    {
+      "code": "SB-ML",
+      "name": "Malaita",
+      "type": "Province",
+      "country": "SB"
+    },
+    {
+      "code": "SB-RB",
+      "name": "Rennell and Bellona",
+      "type": "Province",
+      "country": "SB"
+    },
+    {
+      "code": "SB-TE",
+      "name": "Temotu",
+      "type": "Province",
+      "country": "SB"
+    },
+    {
+      "code": "SB-WE",
+      "name": "Western",
+      "type": "Province",
+      "country": "SB"
+    }
+  ]
+}

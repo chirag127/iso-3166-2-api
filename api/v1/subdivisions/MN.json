@@ -1,0 +1,139 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "MN",
+  "count": 22,
+  "subdivisions": [
+    {
+      "code": "MN-035",
+      "name": "Orhon",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-037",
+      "name": "Darhan uul",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-039",
+      "name": "Hentiy",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-041",
+      "name": "Hövsgöl",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-043",
+      "name": "Hovd",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-046",
+      "name": "Uvs",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-047",
+      "name": "Töv",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-049",
+      "name": "Selenge",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-051",
+      "name": "Sühbaatar",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-053",
+      "name": "Ömnögovĭ",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-055",
+      "name": "Övörhangay",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-057",
+      "name": "Dzavhan",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-059",
+      "name": "Dundgovĭ",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-061",
+      "name": "Dornod",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-063",
+      "name": "Dornogovĭ",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-064",
+      "name": "Govĭ-Sümber",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-065",
+      "name": "Govĭ-Altay",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-067",
+      "name": "Bulgan",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-069",
+      "name": "Bayanhongor",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-071",
+      "name": "Bayan-Ölgiy",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-073",
+      "name": "Arhangay",
+      "type": "Province",
+      "country": "MN"
+    },
+    {
+      "code": "MN-1",
+      "name": "Ulaanbaatar",
+      "type": "Capital city",
+      "country": "MN"
+    }
+  ]
+}

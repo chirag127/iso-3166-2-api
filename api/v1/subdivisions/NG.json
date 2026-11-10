@@ -1,0 +1,229 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "NG",
+  "count": 37,
+  "subdivisions": [
+    {
+      "code": "NG-AB",
+      "name": "Abia",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-AD",
+      "name": "Adamawa",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-AK",
+      "name": "Akwa Ibom",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-AN",
+      "name": "Anambra",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-BA",
+      "name": "Bauchi",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-BE",
+      "name": "Benue",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-BO",
+      "name": "Borno",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-BY",
+      "name": "Bayelsa",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-CR",
+      "name": "Cross River",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-DE",
+      "name": "Delta",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-EB",
+      "name": "Ebonyi",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-ED",
+      "name": "Edo",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-EK",
+      "name": "Ekiti",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-EN",
+      "name": "Enugu",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-FC",
+      "name": "Abuja Federal Capital Territory",
+      "type": "Capital territory",
+      "country": "NG"
+    },
+    {
+      "code": "NG-GO",
+      "name": "Gombe",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-IM",
+      "name": "Imo",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-JI",
+      "name": "Jigawa",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-KD",
+      "name": "Kaduna",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-KE",
+      "name": "Kebbi",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-KN",
+      "name": "Kano",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-KO",
+      "name": "Kogi",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-KT",
+      "name": "Katsina",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-KW",
+      "name": "Kwara",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-LA",
+      "name": "Lagos",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-NA",
+      "name": "Nasarawa",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-NI",
+      "name": "Niger",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-OG",
+      "name": "Ogun",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-ON",
+      "name": "Ondo",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-OS",
+      "name": "Osun",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-OY",
+      "name": "Oyo",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-PL",
+      "name": "Plateau",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-RI",
+      "name": "Rivers",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-SO",
+      "name": "Sokoto",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-TA",
+      "name": "Taraba",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-YO",
+      "name": "Yobe",
+      "type": "State",
+      "country": "NG"
+    },
+    {
+      "code": "NG-ZA",
+      "name": "Zamfara",
+      "type": "State",
+      "country": "NG"
+    }
+  ]
+}

@@ -1,0 +1,1333 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "GB",
+  "count": 221,
+  "subdivisions": [
+    {
+      "code": "GB-ABC",
+      "name": "Armagh City, Banbridge and Craigavon",
+      "type": "District",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ABD",
+      "name": "Aberdeenshire",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ABE",
+      "name": "Aberdeen City",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-AGB",
+      "name": "Argyll and Bute",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-AGY",
+      "name": "Isle of Anglesey [Sir Ynys Môn GB-YNM]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-AND",
+      "name": "Ards and North Down",
+      "type": "District",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ANN",
+      "name": "Antrim and Newtownabbey",
+      "type": "District",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ANS",
+      "name": "Angus",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BAS",
+      "name": "Bath and North East Somerset",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BBD",
+      "name": "Blackburn with Darwen",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BCP",
+      "name": "Bournemouth, Christchurch and Poole",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BDF",
+      "name": "Bedford",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BDG",
+      "name": "Barking and Dagenham",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BEN",
+      "name": "Brent",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BEX",
+      "name": "Bexley",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BFS",
+      "name": "Belfast City",
+      "type": "District",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BGE",
+      "name": "Bridgend [Pen-y-bont ar Ogwr GB-POG]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BGW",
+      "name": "Blaenau Gwent",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BIR",
+      "name": "Birmingham",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BKM",
+      "name": "Buckinghamshire",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BNE",
+      "name": "Barnet",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BNH",
+      "name": "Brighton and Hove",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BNS",
+      "name": "Barnsley",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BOL",
+      "name": "Bolton",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BPL",
+      "name": "Blackpool",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BRC",
+      "name": "Bracknell Forest",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BRD",
+      "name": "Bradford",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BRY",
+      "name": "Bromley",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BST",
+      "name": "Bristol, City of",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-BUR",
+      "name": "Bury",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CAM",
+      "name": "Cambridgeshire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CAY",
+      "name": "Caerphilly [Caerffili GB-CAF]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CBF",
+      "name": "Central Bedfordshire",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CCG",
+      "name": "Causeway Coast and Glens",
+      "type": "District",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CGN",
+      "name": "Ceredigion [Sir Ceredigion]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CHE",
+      "name": "Cheshire East",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CHW",
+      "name": "Cheshire West and Chester",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CLD",
+      "name": "Calderdale",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CLK",
+      "name": "Clackmannanshire",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CMA",
+      "name": "Cumbria",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CMD",
+      "name": "Camden",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CMN",
+      "name": "Carmarthenshire [Sir Gaerfyrddin GB-GFY]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CON",
+      "name": "Cornwall",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-COV",
+      "name": "Coventry",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CRF",
+      "name": "Cardiff [Caerdydd GB-CRD]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CRY",
+      "name": "Croydon",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-CWY",
+      "name": "Conwy",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-DAL",
+      "name": "Darlington",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-DBY",
+      "name": "Derbyshire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-DEN",
+      "name": "Denbighshire [Sir Ddinbych GB-DDB]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-DER",
+      "name": "Derby",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-DEV",
+      "name": "Devon",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-DGY",
+      "name": "Dumfries and Galloway",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-DNC",
+      "name": "Doncaster",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-DND",
+      "name": "Dundee City",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-DOR",
+      "name": "Dorset",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-DRS",
+      "name": "Derry and Strabane",
+      "type": "District",
+      "country": "GB"
+    },
+    {
+      "code": "GB-DUD",
+      "name": "Dudley",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-DUR",
+      "name": "Durham, County",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-EAL",
+      "name": "Ealing",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-EAY",
+      "name": "East Ayrshire",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-EDH",
+      "name": "Edinburgh, City of",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-EDU",
+      "name": "East Dunbartonshire",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ELN",
+      "name": "East Lothian",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ELS",
+      "name": "Eilean Siar",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ENF",
+      "name": "Enfield",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ENG",
+      "name": "England",
+      "type": "Country",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ERW",
+      "name": "East Renfrewshire",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ERY",
+      "name": "East Riding of Yorkshire",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ESS",
+      "name": "Essex",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ESX",
+      "name": "East Sussex",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-FAL",
+      "name": "Falkirk",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-FIF",
+      "name": "Fife",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-FLN",
+      "name": "Flintshire [Sir y Fflint GB-FFL]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-FMO",
+      "name": "Fermanagh and Omagh",
+      "type": "District",
+      "country": "GB"
+    },
+    {
+      "code": "GB-GAT",
+      "name": "Gateshead",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-GLG",
+      "name": "Glasgow City",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-GLS",
+      "name": "Gloucestershire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-GRE",
+      "name": "Greenwich",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-GWN",
+      "name": "Gwynedd",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-HAL",
+      "name": "Halton",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-HAM",
+      "name": "Hampshire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-HAV",
+      "name": "Havering",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-HCK",
+      "name": "Hackney",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-HEF",
+      "name": "Herefordshire",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-HIL",
+      "name": "Hillingdon",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-HLD",
+      "name": "Highland",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-HMF",
+      "name": "Hammersmith and Fulham",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-HNS",
+      "name": "Hounslow",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-HPL",
+      "name": "Hartlepool",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-HRT",
+      "name": "Hertfordshire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-HRW",
+      "name": "Harrow",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-HRY",
+      "name": "Haringey",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-IOS",
+      "name": "Isles of Scilly",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-IOW",
+      "name": "Isle of Wight",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ISL",
+      "name": "Islington",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-IVC",
+      "name": "Inverclyde",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-KEC",
+      "name": "Kensington and Chelsea",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-KEN",
+      "name": "Kent",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-KHL",
+      "name": "Kingston upon Hull",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-KIR",
+      "name": "Kirklees",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-KTT",
+      "name": "Kingston upon Thames",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-KWL",
+      "name": "Knowsley",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-LAN",
+      "name": "Lancashire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-LBC",
+      "name": "Lisburn and Castlereagh",
+      "type": "District",
+      "country": "GB"
+    },
+    {
+      "code": "GB-LBH",
+      "name": "Lambeth",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-LCE",
+      "name": "Leicester",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-LDS",
+      "name": "Leeds",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-LEC",
+      "name": "Leicestershire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-LEW",
+      "name": "Lewisham",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-LIN",
+      "name": "Lincolnshire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-LIV",
+      "name": "Liverpool",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-LND",
+      "name": "London, City of",
+      "type": "City corporation",
+      "country": "GB"
+    },
+    {
+      "code": "GB-LUT",
+      "name": "Luton",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-MAN",
+      "name": "Manchester",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-MDB",
+      "name": "Middlesbrough",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-MDW",
+      "name": "Medway",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-MEA",
+      "name": "Mid and East Antrim",
+      "type": "District",
+      "country": "GB"
+    },
+    {
+      "code": "GB-MIK",
+      "name": "Milton Keynes",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-MLN",
+      "name": "Midlothian",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-MON",
+      "name": "Monmouthshire [Sir Fynwy GB-FYN]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-MRT",
+      "name": "Merton",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-MRY",
+      "name": "Moray",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-MTY",
+      "name": "Merthyr Tydfil [Merthyr Tudful GB-MTU]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-MUL",
+      "name": "Mid-Ulster",
+      "type": "District",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NAY",
+      "name": "North Ayrshire",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NBL",
+      "name": "Northumberland",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NEL",
+      "name": "North East Lincolnshire",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NET",
+      "name": "Newcastle upon Tyne",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NFK",
+      "name": "Norfolk",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NGM",
+      "name": "Nottingham",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NIR",
+      "name": "Northern Ireland",
+      "type": "Province",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NLK",
+      "name": "North Lanarkshire",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NLN",
+      "name": "North Lincolnshire",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NMD",
+      "name": "Newry, Mourne and Down",
+      "type": "District",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NNH",
+      "name": "North Northamptonshire",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NSM",
+      "name": "North Somerset",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NTL",
+      "name": "Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NTT",
+      "name": "Nottinghamshire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NTY",
+      "name": "North Tyneside",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NWM",
+      "name": "Newham",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NWP",
+      "name": "Newport [Casnewydd GB-CNW]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-NYK",
+      "name": "North Yorkshire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-OLD",
+      "name": "Oldham",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ORK",
+      "name": "Orkney Islands",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-OXF",
+      "name": "Oxfordshire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-PEM",
+      "name": "Pembrokeshire [Sir Benfro GB-BNF]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-PKN",
+      "name": "Perth and Kinross",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-PLY",
+      "name": "Plymouth",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-POR",
+      "name": "Portsmouth",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-POW",
+      "name": "Powys",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-PTE",
+      "name": "Peterborough",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-RCC",
+      "name": "Redcar and Cleveland",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-RCH",
+      "name": "Rochdale",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-RCT",
+      "name": "Rhondda Cynon Taff [Rhondda CynonTaf]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-RDB",
+      "name": "Redbridge",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-RDG",
+      "name": "Reading",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-RFW",
+      "name": "Renfrewshire",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-RIC",
+      "name": "Richmond upon Thames",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ROT",
+      "name": "Rotherham",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-RUT",
+      "name": "Rutland",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SAW",
+      "name": "Sandwell",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SAY",
+      "name": "South Ayrshire",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SCB",
+      "name": "Scottish Borders",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SCT",
+      "name": "Scotland",
+      "type": "Country",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SFK",
+      "name": "Suffolk",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SFT",
+      "name": "Sefton",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SGC",
+      "name": "South Gloucestershire",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SHF",
+      "name": "Sheffield",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SHN",
+      "name": "St. Helens",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SHR",
+      "name": "Shropshire",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SKP",
+      "name": "Stockport",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SLF",
+      "name": "Salford",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SLG",
+      "name": "Slough",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SLK",
+      "name": "South Lanarkshire",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SND",
+      "name": "Sunderland",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SOL",
+      "name": "Solihull",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SOM",
+      "name": "Somerset",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SOS",
+      "name": "Southend-on-Sea",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SRY",
+      "name": "Surrey",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-STE",
+      "name": "Stoke-on-Trent",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-STG",
+      "name": "Stirling",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-STH",
+      "name": "Southampton",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-STN",
+      "name": "Sutton",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-STS",
+      "name": "Staffordshire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-STT",
+      "name": "Stockton-on-Tees",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-STY",
+      "name": "South Tyneside",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SWA",
+      "name": "Swansea [Abertawe GB-ATA]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SWD",
+      "name": "Swindon",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-SWK",
+      "name": "Southwark",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-TAM",
+      "name": "Tameside",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-TFW",
+      "name": "Telford and Wrekin",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-THR",
+      "name": "Thurrock",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-TOB",
+      "name": "Torbay",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-TOF",
+      "name": "Torfaen [Tor-faen]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-TRF",
+      "name": "Trafford",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-TWH",
+      "name": "Tower Hamlets",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-VGL",
+      "name": "Vale of Glamorgan, The [Bro Morgannwg GB-BMG]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WAR",
+      "name": "Warwickshire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WBK",
+      "name": "West Berkshire",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WDU",
+      "name": "West Dunbartonshire",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WFT",
+      "name": "Waltham Forest",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WGN",
+      "name": "Wigan",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WIL",
+      "name": "Wiltshire",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WKF",
+      "name": "Wakefield",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WLL",
+      "name": "Walsall",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WLN",
+      "name": "West Lothian",
+      "type": "Council area",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WLS",
+      "name": "Wales [Cymru GB-CYM]",
+      "type": "Country",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WLV",
+      "name": "Wolverhampton",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WND",
+      "name": "Wandsworth",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WNH",
+      "name": "West Northamptonshire",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WNM",
+      "name": "Windsor and Maidenhead",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WOK",
+      "name": "Wokingham",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WOR",
+      "name": "Worcestershire",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WRL",
+      "name": "Wirral",
+      "type": "Metropolitan district",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WRT",
+      "name": "Warrington",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WRX",
+      "name": "Wrexham [Wrecsam GB-WRC]",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WSM",
+      "name": "Westminster",
+      "type": "London borough",
+      "country": "GB"
+    },
+    {
+      "code": "GB-WSX",
+      "name": "West Sussex",
+      "type": "Two-tier county",
+      "country": "GB"
+    },
+    {
+      "code": "GB-YOR",
+      "name": "York",
+      "type": "Unitary authority",
+      "country": "GB"
+    },
+    {
+      "code": "GB-ZET",
+      "name": "Shetland Islands",
+      "type": "Council area",
+      "country": "GB"
+    }
+  ]
+}

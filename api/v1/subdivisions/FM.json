@@ -1,0 +1,31 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "FM",
+  "count": 4,
+  "subdivisions": [
+    {
+      "code": "FM-KSA",
+      "name": "Kosrae",
+      "type": "State",
+      "country": "FM"
+    },
+    {
+      "code": "FM-PNI",
+      "name": "Pohnpei",
+      "type": "State",
+      "country": "FM"
+    },
+    {
+      "code": "FM-TRK",
+      "name": "Chuuk",
+      "type": "State",
+      "country": "FM"
+    },
+    {
+      "code": "FM-YAP",
+      "name": "Yap",
+      "type": "State",
+      "country": "FM"
+    }
+  ]
+}

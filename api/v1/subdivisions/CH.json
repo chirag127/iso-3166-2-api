@@ -1,0 +1,163 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "CH",
+  "count": 26,
+  "subdivisions": [
+    {
+      "code": "CH-AG",
+      "name": "Aargau",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-AI",
+      "name": "Appenzell Innerrhoden",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-AR",
+      "name": "Appenzell Ausserrhoden",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-BE",
+      "name": "Berne",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-BL",
+      "name": "Basel-Landschaft",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-BS",
+      "name": "Basel-Stadt",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-FR",
+      "name": "Fribourg",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-GE",
+      "name": "Genève",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-GL",
+      "name": "Glarus",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-GR",
+      "name": "Graubünden",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-JU",
+      "name": "Jura",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-LU",
+      "name": "Luzern",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-NE",
+      "name": "Neuchâtel",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-NW",
+      "name": "Nidwalden",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-OW",
+      "name": "Obwalden",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-SG",
+      "name": "Sankt Gallen",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-SH",
+      "name": "Schaffhausen",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-SO",
+      "name": "Solothurn",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-SZ",
+      "name": "Schwyz",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-TG",
+      "name": "Thurgau",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-TI",
+      "name": "Ticino",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-UR",
+      "name": "Uri",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-VD",
+      "name": "Vaud",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-VS",
+      "name": "Valais",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-ZG",
+      "name": "Zug",
+      "type": "Canton",
+      "country": "CH"
+    },
+    {
+      "code": "CH-ZH",
+      "name": "Zürich",
+      "type": "Canton",
+      "country": "CH"
+    }
+  ]
+}

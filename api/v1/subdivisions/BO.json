@@ -1,0 +1,61 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BO",
+  "count": 9,
+  "subdivisions": [
+    {
+      "code": "BO-B",
+      "name": "El Beni",
+      "type": "Department",
+      "country": "BO"
+    },
+    {
+      "code": "BO-C",
+      "name": "Cochabamba",
+      "type": "Department",
+      "country": "BO"
+    },
+    {
+      "code": "BO-H",
+      "name": "Chuquisaca",
+      "type": "Department",
+      "country": "BO"
+    },
+    {
+      "code": "BO-L",
+      "name": "La Paz",
+      "type": "Department",
+      "country": "BO"
+    },
+    {
+      "code": "BO-N",
+      "name": "Pando",
+      "type": "Department",
+      "country": "BO"
+    },
+    {
+      "code": "BO-O",
+      "name": "Oruro",
+      "type": "Department",
+      "country": "BO"
+    },
+    {
+      "code": "BO-P",
+      "name": "Potosí",
+      "type": "Department",
+      "country": "BO"
+    },
+    {
+      "code": "BO-S",
+      "name": "Santa Cruz",
+      "type": "Department",
+      "country": "BO"
+    },
+    {
+      "code": "BO-T",
+      "name": "Tarija",
+      "type": "Department",
+      "country": "BO"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "MW",
+  "count": 31,
+  "subdivisions": [
+    {
+      "code": "MW-BA",
+      "name": "Balaka",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-BL",
+      "name": "Blantyre",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-C",
+      "name": "Central Region",
+      "type": "Region",
+      "country": "MW"
+    },
+    {
+      "code": "MW-CK",
+      "name": "Chikwawa",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-CR",
+      "name": "Chiradzulu",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-CT",
+      "name": "Chitipa",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-DE",
+      "name": "Dedza",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-DO",
+      "name": "Dowa",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-KR",
+      "name": "Karonga",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-KS",
+      "name": "Kasungu",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-LI",
+      "name": "Lilongwe",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-LK",
+      "name": "Likoma",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-MC",
+      "name": "Mchinji",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-MG",
+      "name": "Mangochi",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-MH",
+      "name": "Machinga",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-MU",
+      "name": "Mulanje",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-MW",
+      "name": "Mwanza",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-MZ",
+      "name": "Mzimba",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-N",
+      "name": "Northern Region",
+      "type": "Region",
+      "country": "MW"
+    },
+    {
+      "code": "MW-NB",
+      "name": "Nkhata Bay",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-NE",
+      "name": "Neno",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-NI",
+      "name": "Ntchisi",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-NK",
+      "name": "Nkhotakota",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-NS",
+      "name": "Nsanje",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-NU",
+      "name": "Ntcheu",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-PH",
+      "name": "Phalombe",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-RU",
+      "name": "Rumphi",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-S",
+      "name": "Southern Region",
+      "type": "Region",
+      "country": "MW"
+    },
+    {
+      "code": "MW-SA",
+      "name": "Salima",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-TH",
+      "name": "Thyolo",
+      "type": "District",
+      "country": "MW"
+    },
+    {
+      "code": "MW-ZO",
+      "name": "Zomba",
+      "type": "District",
+      "country": "MW"
+    }
+  ]
+}

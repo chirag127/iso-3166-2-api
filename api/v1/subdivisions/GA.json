@@ -1,0 +1,61 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "GA",
+  "count": 9,
+  "subdivisions": [
+    {
+      "code": "GA-1",
+      "name": "Estuaire",
+      "type": "Province",
+      "country": "GA"
+    },
+    {
+      "code": "GA-2",
+      "name": "Haut-Ogooué",
+      "type": "Province",
+      "country": "GA"
+    },
+    {
+      "code": "GA-3",
+      "name": "Moyen-Ogooué",
+      "type": "Province",
+      "country": "GA"
+    },
+    {
+      "code": "GA-4",
+      "name": "Ngounié",
+      "type": "Province",
+      "country": "GA"
+    },
+    {
+      "code": "GA-5",
+      "name": "Nyanga",
+      "type": "Province",
+      "country": "GA"
+    },
+    {
+      "code": "GA-6",
+      "name": "Ogooué-Ivindo",
+      "type": "Province",
+      "country": "GA"
+    },
+    {
+      "code": "GA-7",
+      "name": "Ogooué-Lolo",
+      "type": "Province",
+      "country": "GA"
+    },
+    {
+      "code": "GA-8",
+      "name": "Ogooué-Maritime",
+      "type": "Province",
+      "country": "GA"
+    },
+    {
+      "code": "GA-9",
+      "name": "Woleu-Ntem",
+      "type": "Province",
+      "country": "GA"
+    }
+  ]
+}

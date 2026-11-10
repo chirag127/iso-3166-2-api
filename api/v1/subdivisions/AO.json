@@ -1,0 +1,115 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "AO",
+  "count": 18,
+  "subdivisions": [
+    {
+      "code": "AO-BGO",
+      "name": "Bengo",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-BGU",
+      "name": "Benguela",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-BIE",
+      "name": "Bié",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-CAB",
+      "name": "Cabinda",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-CCU",
+      "name": "Cuando Cubango",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-CNN",
+      "name": "Cunene",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-CNO",
+      "name": "Cuanza-Norte",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-CUS",
+      "name": "Cuanza-Sul",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-HUA",
+      "name": "Huambo",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-HUI",
+      "name": "Huíla",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-LNO",
+      "name": "Lunda-Norte",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-LSU",
+      "name": "Lunda-Sul",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-LUA",
+      "name": "Luanda",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-MAL",
+      "name": "Malange",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-MOX",
+      "name": "Moxico",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-NAM",
+      "name": "Namibe",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-UIG",
+      "name": "Uíge",
+      "type": "Province",
+      "country": "AO"
+    },
+    {
+      "code": "AO-ZAI",
+      "name": "Zaire",
+      "type": "Province",
+      "country": "AO"
+    }
+  ]
+}

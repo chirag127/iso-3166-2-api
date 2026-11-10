@@ -1,0 +1,169 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BR",
+  "count": 27,
+  "subdivisions": [
+    {
+      "code": "BR-AC",
+      "name": "Acre",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-AL",
+      "name": "Alagoas",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-AM",
+      "name": "Amazonas",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-AP",
+      "name": "Amapá",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-BA",
+      "name": "Bahia",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-CE",
+      "name": "Ceará",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-DF",
+      "name": "Distrito Federal",
+      "type": "Federal district",
+      "country": "BR"
+    },
+    {
+      "code": "BR-ES",
+      "name": "Espírito Santo",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-GO",
+      "name": "Goiás",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-MA",
+      "name": "Maranhão",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-MG",
+      "name": "Minas Gerais",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-MS",
+      "name": "Mato Grosso do Sul",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-MT",
+      "name": "Mato Grosso",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-PA",
+      "name": "Pará",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-PB",
+      "name": "Paraíba",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-PE",
+      "name": "Pernambuco",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-PI",
+      "name": "Piauí",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-PR",
+      "name": "Paraná",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-RJ",
+      "name": "Rio de Janeiro",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-RN",
+      "name": "Rio Grande do Norte",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-RO",
+      "name": "Rondônia",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-RR",
+      "name": "Roraima",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-RS",
+      "name": "Rio Grande do Sul",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-SC",
+      "name": "Santa Catarina",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-SE",
+      "name": "Sergipe",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-SP",
+      "name": "São Paulo",
+      "type": "State",
+      "country": "BR"
+    },
+    {
+      "code": "BR-TO",
+      "name": "Tocantins",
+      "type": "State",
+      "country": "BR"
+    }
+  ]
+}

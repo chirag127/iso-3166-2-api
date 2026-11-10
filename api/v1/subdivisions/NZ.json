@@ -1,0 +1,109 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "NZ",
+  "count": 17,
+  "subdivisions": [
+    {
+      "code": "NZ-AUK",
+      "name": "Auckland",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-BOP",
+      "name": "Bay of Plenty",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-CAN",
+      "name": "Canterbury",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-CIT",
+      "name": "Chatham Islands Territory",
+      "type": "Special island authority",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-GIS",
+      "name": "Gisborne",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-HKB",
+      "name": "Hawke's Bay",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-MBH",
+      "name": "Marlborough",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-MWT",
+      "name": "Manawatū-Whanganui",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-NSN",
+      "name": "Nelson",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-NTL",
+      "name": "Northland",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-OTA",
+      "name": "Otago",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-STL",
+      "name": "Southland",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-TAS",
+      "name": "Tasman",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-TKI",
+      "name": "Taranaki",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-WGN",
+      "name": "Greater Wellington",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-WKO",
+      "name": "Waikato",
+      "type": "Region",
+      "country": "NZ"
+    },
+    {
+      "code": "NZ-WTC",
+      "name": "West Coast",
+      "type": "Region",
+      "country": "NZ"
+    }
+  ]
+}

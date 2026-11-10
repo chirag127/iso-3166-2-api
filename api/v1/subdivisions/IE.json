@@ -1,0 +1,187 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "IE",
+  "count": 30,
+  "subdivisions": [
+    {
+      "code": "IE-C",
+      "name": "Connaught",
+      "type": "Province",
+      "country": "IE"
+    },
+    {
+      "code": "IE-CE",
+      "name": "Clare",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-CN",
+      "name": "Cavan",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-CO",
+      "name": "Cork",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-CW",
+      "name": "Carlow",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-D",
+      "name": "Dublin",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-DL",
+      "name": "Donegal",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-G",
+      "name": "Galway",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-KE",
+      "name": "Kildare",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-KK",
+      "name": "Kilkenny",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-KY",
+      "name": "Kerry",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-L",
+      "name": "Leinster",
+      "type": "Province",
+      "country": "IE"
+    },
+    {
+      "code": "IE-LD",
+      "name": "Longford",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-LH",
+      "name": "Louth",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-LK",
+      "name": "Limerick",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-LM",
+      "name": "Leitrim",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-LS",
+      "name": "Laois",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-M",
+      "name": "Munster",
+      "type": "Province",
+      "country": "IE"
+    },
+    {
+      "code": "IE-MH",
+      "name": "Meath",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-MN",
+      "name": "Monaghan",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-MO",
+      "name": "Mayo",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-OY",
+      "name": "Offaly",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-RN",
+      "name": "Roscommon",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-SO",
+      "name": "Sligo",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-TA",
+      "name": "Tipperary",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-U",
+      "name": "Ulster",
+      "type": "Province",
+      "country": "IE"
+    },
+    {
+      "code": "IE-WD",
+      "name": "Waterford",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-WH",
+      "name": "Westmeath",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-WW",
+      "name": "Wicklow",
+      "type": "County",
+      "country": "IE"
+    },
+    {
+      "code": "IE-WX",
+      "name": "Wexford",
+      "type": "County",
+      "country": "IE"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "IL",
+  "count": 6,
+  "subdivisions": [
+    {
+      "code": "IL-D",
+      "name": "Al Janūbī",
+      "type": "District",
+      "country": "IL"
+    },
+    {
+      "code": "IL-HA",
+      "name": "Ḩayfā",
+      "type": "District",
+      "country": "IL"
+    },
+    {
+      "code": "IL-JM",
+      "name": "Al Quds",
+      "type": "District",
+      "country": "IL"
+    },
+    {
+      "code": "IL-M",
+      "name": "Al Awsaţ",
+      "type": "District",
+      "country": "IL"
+    },
+    {
+      "code": "IL-TA",
+      "name": "Tall Abīb",
+      "type": "District",
+      "country": "IL"
+    },
+    {
+      "code": "IL-Z",
+      "name": "Ash Shamālī",
+      "type": "District",
+      "country": "IL"
+    }
+  ]
+}

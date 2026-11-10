@@ -1,0 +1,85 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "NO",
+  "count": 13,
+  "subdivisions": [
+    {
+      "code": "NO-03",
+      "name": "Oslo",
+      "type": "County",
+      "country": "NO"
+    },
+    {
+      "code": "NO-11",
+      "name": "Rogaland",
+      "type": "County",
+      "country": "NO"
+    },
+    {
+      "code": "NO-15",
+      "name": "Møre og Romsdal",
+      "type": "County",
+      "country": "NO"
+    },
+    {
+      "code": "NO-18",
+      "name": "Nordland",
+      "type": "County",
+      "country": "NO"
+    },
+    {
+      "code": "NO-21",
+      "name": "Svalbard (Arctic Region)",
+      "type": "Arctic region",
+      "country": "NO"
+    },
+    {
+      "code": "NO-22",
+      "name": "Jan Mayen (Arctic Region)",
+      "type": "Arctic region",
+      "country": "NO"
+    },
+    {
+      "code": "NO-30",
+      "name": "Viken",
+      "type": "County",
+      "country": "NO"
+    },
+    {
+      "code": "NO-34",
+      "name": "Innlandet",
+      "type": "County",
+      "country": "NO"
+    },
+    {
+      "code": "NO-38",
+      "name": "Vestfold og Telemark",
+      "type": "County",
+      "country": "NO"
+    },
+    {
+      "code": "NO-42",
+      "name": "Agder",
+      "type": "County",
+      "country": "NO"
+    },
+    {
+      "code": "NO-46",
+      "name": "Vestland",
+      "type": "County",
+      "country": "NO"
+    },
+    {
+      "code": "NO-50",
+      "name": "Trøndelag",
+      "type": "County",
+      "country": "NO"
+    },
+    {
+      "code": "NO-54",
+      "name": "Troms og Finnmark",
+      "type": "County",
+      "country": "NO"
+    }
+  ]
+}

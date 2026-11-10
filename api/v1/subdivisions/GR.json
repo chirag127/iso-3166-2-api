@@ -1,0 +1,91 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "GR",
+  "count": 14,
+  "subdivisions": [
+    {
+      "code": "GR-69",
+      "name": "Ágion Óros",
+      "type": "Self-governed part",
+      "country": "GR"
+    },
+    {
+      "code": "GR-A",
+      "name": "Anatolikí Makedonía kai Thráki",
+      "type": "Administrative region",
+      "country": "GR"
+    },
+    {
+      "code": "GR-B",
+      "name": "Kentrikí Makedonía",
+      "type": "Administrative region",
+      "country": "GR"
+    },
+    {
+      "code": "GR-C",
+      "name": "Dytikí Makedonía",
+      "type": "Administrative region",
+      "country": "GR"
+    },
+    {
+      "code": "GR-D",
+      "name": "Ípeiros",
+      "type": "Administrative region",
+      "country": "GR"
+    },
+    {
+      "code": "GR-E",
+      "name": "Thessalía",
+      "type": "Administrative region",
+      "country": "GR"
+    },
+    {
+      "code": "GR-F",
+      "name": "Ionía Nísia",
+      "type": "Administrative region",
+      "country": "GR"
+    },
+    {
+      "code": "GR-G",
+      "name": "Dytikí Elláda",
+      "type": "Administrative region",
+      "country": "GR"
+    },
+    {
+      "code": "GR-H",
+      "name": "Stereá Elláda",
+      "type": "Administrative region",
+      "country": "GR"
+    },
+    {
+      "code": "GR-I",
+      "name": "Attikí",
+      "type": "Administrative region",
+      "country": "GR"
+    },
+    {
+      "code": "GR-J",
+      "name": "Pelopónnisos",
+      "type": "Administrative region",
+      "country": "GR"
+    },
+    {
+      "code": "GR-K",
+      "name": "Vóreio Aigaío",
+      "type": "Administrative region",
+      "country": "GR"
+    },
+    {
+      "code": "GR-L",
+      "name": "Nótio Aigaío",
+      "type": "Administrative region",
+      "country": "GR"
+    },
+    {
+      "code": "GR-M",
+      "name": "Kríti",
+      "type": "Administrative region",
+      "country": "GR"
+    }
+  ]
+}

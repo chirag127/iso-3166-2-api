@@ -1,0 +1,163 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "MH",
+  "count": 26,
+  "subdivisions": [
+    {
+      "code": "MH-ALK",
+      "name": "Ailuk",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-ALL",
+      "name": "Ailinglaplap",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-ARN",
+      "name": "Arno",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-AUR",
+      "name": "Aur",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-EBO",
+      "name": "Ebon",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-ENI",
+      "name": "Enewetak & Ujelang",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-JAB",
+      "name": "Jabat",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-JAL",
+      "name": "Jaluit",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-KIL",
+      "name": "Bikini & Kili",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-KWA",
+      "name": "Kwajalein",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-L",
+      "name": "Ralik chain",
+      "type": "Chain (of islands)",
+      "country": "MH"
+    },
+    {
+      "code": "MH-LAE",
+      "name": "Lae",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-LIB",
+      "name": "Lib",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-LIK",
+      "name": "Likiep",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-MAJ",
+      "name": "Majuro",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-MAL",
+      "name": "Maloelap",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-MEJ",
+      "name": "Mejit",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-MIL",
+      "name": "Mili",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-NMK",
+      "name": "Namdrik",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-NMU",
+      "name": "Namu",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-RON",
+      "name": "Rongelap",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-T",
+      "name": "Ratak chain",
+      "type": "Chain (of islands)",
+      "country": "MH"
+    },
+    {
+      "code": "MH-UJA",
+      "name": "Ujae",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-UTI",
+      "name": "Utrik",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-WTH",
+      "name": "Wotho",
+      "type": "Municipality",
+      "country": "MH"
+    },
+    {
+      "code": "MH-WTJ",
+      "name": "Wotje",
+      "type": "Municipality",
+      "country": "MH"
+    }
+  ]
+}

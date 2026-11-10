@@ -1,0 +1,199 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "MX",
+  "count": 32,
+  "subdivisions": [
+    {
+      "code": "MX-AGU",
+      "name": "Aguascalientes",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-BCN",
+      "name": "Baja California",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-BCS",
+      "name": "Baja California Sur",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-CAM",
+      "name": "Campeche",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-CHH",
+      "name": "Chihuahua",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-CHP",
+      "name": "Chiapas",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-CMX",
+      "name": "Ciudad de México",
+      "type": "Federal entity",
+      "country": "MX"
+    },
+    {
+      "code": "MX-COA",
+      "name": "Coahuila de Zaragoza",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-COL",
+      "name": "Colima",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-DUR",
+      "name": "Durango",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-GRO",
+      "name": "Guerrero",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-GUA",
+      "name": "Guanajuato",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-HID",
+      "name": "Hidalgo",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-JAL",
+      "name": "Jalisco",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-MEX",
+      "name": "México",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-MIC",
+      "name": "Michoacán de Ocampo",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-MOR",
+      "name": "Morelos",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-NAY",
+      "name": "Nayarit",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-NLE",
+      "name": "Nuevo León",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-OAX",
+      "name": "Oaxaca",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-PUE",
+      "name": "Puebla",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-QUE",
+      "name": "Querétaro",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-ROO",
+      "name": "Quintana Roo",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-SIN",
+      "name": "Sinaloa",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-SLP",
+      "name": "San Luis Potosí",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-SON",
+      "name": "Sonora",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-TAB",
+      "name": "Tabasco",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-TAM",
+      "name": "Tamaulipas",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-TLA",
+      "name": "Tlaxcala",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-VER",
+      "name": "Veracruz de Ignacio de la Llave",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-YUC",
+      "name": "Yucatán",
+      "type": "State",
+      "country": "MX"
+    },
+    {
+      "code": "MX-ZAC",
+      "name": "Zacatecas",
+      "type": "State",
+      "country": "MX"
+    }
+  ]
+}

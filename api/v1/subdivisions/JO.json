@@ -1,0 +1,79 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "JO",
+  "count": 12,
+  "subdivisions": [
+    {
+      "code": "JO-AJ",
+      "name": "‘Ajlūn",
+      "type": "Governorate",
+      "country": "JO"
+    },
+    {
+      "code": "JO-AM",
+      "name": "Al ‘A̅şimah",
+      "type": "Governorate",
+      "country": "JO"
+    },
+    {
+      "code": "JO-AQ",
+      "name": "Al ‘Aqabah",
+      "type": "Governorate",
+      "country": "JO"
+    },
+    {
+      "code": "JO-AT",
+      "name": "Aţ Ţafīlah",
+      "type": "Governorate",
+      "country": "JO"
+    },
+    {
+      "code": "JO-AZ",
+      "name": "Az Zarqā’",
+      "type": "Governorate",
+      "country": "JO"
+    },
+    {
+      "code": "JO-BA",
+      "name": "Al Balqā’",
+      "type": "Governorate",
+      "country": "JO"
+    },
+    {
+      "code": "JO-IR",
+      "name": "Irbid",
+      "type": "Governorate",
+      "country": "JO"
+    },
+    {
+      "code": "JO-JA",
+      "name": "Jarash",
+      "type": "Governorate",
+      "country": "JO"
+    },
+    {
+      "code": "JO-KA",
+      "name": "Al Karak",
+      "type": "Governorate",
+      "country": "JO"
+    },
+    {
+      "code": "JO-MA",
+      "name": "Al Mafraq",
+      "type": "Governorate",
+      "country": "JO"
+    },
+    {
+      "code": "JO-MD",
+      "name": "Mādabā",
+      "type": "Governorate",
+      "country": "JO"
+    },
+    {
+      "code": "JO-MN",
+      "name": "Ma‘ān",
+      "type": "Governorate",
+      "country": "JO"
+    }
+  ]
+}

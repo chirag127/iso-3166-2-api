@@ -1,0 +1,49 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "CR",
+  "count": 7,
+  "subdivisions": [
+    {
+      "code": "CR-A",
+      "name": "Alajuela",
+      "type": "Province",
+      "country": "CR"
+    },
+    {
+      "code": "CR-C",
+      "name": "Cartago",
+      "type": "Province",
+      "country": "CR"
+    },
+    {
+      "code": "CR-G",
+      "name": "Guanacaste",
+      "type": "Province",
+      "country": "CR"
+    },
+    {
+      "code": "CR-H",
+      "name": "Heredia",
+      "type": "Province",
+      "country": "CR"
+    },
+    {
+      "code": "CR-L",
+      "name": "Limón",
+      "type": "Province",
+      "country": "CR"
+    },
+    {
+      "code": "CR-P",
+      "name": "Puntarenas",
+      "type": "Province",
+      "country": "CR"
+    },
+    {
+      "code": "CR-SJ",
+      "name": "San José",
+      "type": "Province",
+      "country": "CR"
+    }
+  ]
+}

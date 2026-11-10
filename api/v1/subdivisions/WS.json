@@ -1,0 +1,73 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "WS",
+  "count": 11,
+  "subdivisions": [
+    {
+      "code": "WS-AA",
+      "name": "A'ana",
+      "type": "District",
+      "country": "WS"
+    },
+    {
+      "code": "WS-AL",
+      "name": "Aiga-i-le-Tai",
+      "type": "District",
+      "country": "WS"
+    },
+    {
+      "code": "WS-AT",
+      "name": "Atua",
+      "type": "District",
+      "country": "WS"
+    },
+    {
+      "code": "WS-FA",
+      "name": "Fa'asaleleaga",
+      "type": "District",
+      "country": "WS"
+    },
+    {
+      "code": "WS-GE",
+      "name": "Gaga'emauga",
+      "type": "District",
+      "country": "WS"
+    },
+    {
+      "code": "WS-GI",
+      "name": "Gagaifomauga",
+      "type": "District",
+      "country": "WS"
+    },
+    {
+      "code": "WS-PA",
+      "name": "Palauli",
+      "type": "District",
+      "country": "WS"
+    },
+    {
+      "code": "WS-SA",
+      "name": "Satupa'itea",
+      "type": "District",
+      "country": "WS"
+    },
+    {
+      "code": "WS-TU",
+      "name": "Tuamasaga",
+      "type": "District",
+      "country": "WS"
+    },
+    {
+      "code": "WS-VF",
+      "name": "Va'a-o-Fonoti",
+      "type": "District",
+      "country": "WS"
+    },
+    {
+      "code": "WS-VS",
+      "name": "Vaisigano",
+      "type": "District",
+      "country": "WS"
+    }
+  ]
+}

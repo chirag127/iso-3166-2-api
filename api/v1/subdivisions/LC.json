@@ -1,0 +1,67 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "LC",
+  "count": 10,
+  "subdivisions": [
+    {
+      "code": "LC-01",
+      "name": "Anse la Raye",
+      "type": "District",
+      "country": "LC"
+    },
+    {
+      "code": "LC-02",
+      "name": "Castries",
+      "type": "District",
+      "country": "LC"
+    },
+    {
+      "code": "LC-03",
+      "name": "Choiseul",
+      "type": "District",
+      "country": "LC"
+    },
+    {
+      "code": "LC-05",
+      "name": "Dennery",
+      "type": "District",
+      "country": "LC"
+    },
+    {
+      "code": "LC-06",
+      "name": "Gros Islet",
+      "type": "District",
+      "country": "LC"
+    },
+    {
+      "code": "LC-07",
+      "name": "Laborie",
+      "type": "District",
+      "country": "LC"
+    },
+    {
+      "code": "LC-08",
+      "name": "Micoud",
+      "type": "District",
+      "country": "LC"
+    },
+    {
+      "code": "LC-10",
+      "name": "Soufrière",
+      "type": "District",
+      "country": "LC"
+    },
+    {
+      "code": "LC-11",
+      "name": "Vieux Fort",
+      "type": "District",
+      "country": "LC"
+    },
+    {
+      "code": "LC-12",
+      "name": "Canaries",
+      "type": "District",
+      "country": "LC"
+    }
+  ]
+}

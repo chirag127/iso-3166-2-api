@@ -1,0 +1,43 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BZ",
+  "count": 6,
+  "subdivisions": [
+    {
+      "code": "BZ-BZ",
+      "name": "Belize",
+      "type": "District",
+      "country": "BZ"
+    },
+    {
+      "code": "BZ-CY",
+      "name": "Cayo",
+      "type": "District",
+      "country": "BZ"
+    },
+    {
+      "code": "BZ-CZL",
+      "name": "Corozal",
+      "type": "District",
+      "country": "BZ"
+    },
+    {
+      "code": "BZ-OW",
+      "name": "Orange Walk",
+      "type": "District",
+      "country": "BZ"
+    },
+    {
+      "code": "BZ-SC",
+      "name": "Stann Creek",
+      "type": "District",
+      "country": "BZ"
+    },
+    {
+      "code": "BZ-TOL",
+      "name": "Toledo",
+      "type": "District",
+      "country": "BZ"
+    }
+  ]
+}

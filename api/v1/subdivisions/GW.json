@@ -1,0 +1,79 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "GW",
+  "count": 12,
+  "subdivisions": [
+    {
+      "code": "GW-BA",
+      "name": "Bafatá",
+      "type": "Region",
+      "country": "GW"
+    },
+    {
+      "code": "GW-BL",
+      "name": "Bolama / Bijagós",
+      "type": "Region",
+      "country": "GW"
+    },
+    {
+      "code": "GW-BM",
+      "name": "Biombo",
+      "type": "Region",
+      "country": "GW"
+    },
+    {
+      "code": "GW-BS",
+      "name": "Bissau",
+      "type": "Autonomous sector",
+      "country": "GW"
+    },
+    {
+      "code": "GW-CA",
+      "name": "Cacheu",
+      "type": "Region",
+      "country": "GW"
+    },
+    {
+      "code": "GW-GA",
+      "name": "Gabú",
+      "type": "Region",
+      "country": "GW"
+    },
+    {
+      "code": "GW-L",
+      "name": "Leste",
+      "type": "Province",
+      "country": "GW"
+    },
+    {
+      "code": "GW-N",
+      "name": "Norte",
+      "type": "Province",
+      "country": "GW"
+    },
+    {
+      "code": "GW-OI",
+      "name": "Oio",
+      "type": "Region",
+      "country": "GW"
+    },
+    {
+      "code": "GW-QU",
+      "name": "Quinara",
+      "type": "Region",
+      "country": "GW"
+    },
+    {
+      "code": "GW-S",
+      "name": "Sul",
+      "type": "Province",
+      "country": "GW"
+    },
+    {
+      "code": "GW-TO",
+      "name": "Tombali",
+      "type": "Region",
+      "country": "GW"
+    }
+  ]
+}

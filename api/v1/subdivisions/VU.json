@@ -1,0 +1,43 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "VU",
+  "count": 6,
+  "subdivisions": [
+    {
+      "code": "VU-MAP",
+      "name": "Malampa",
+      "type": "Province",
+      "country": "VU"
+    },
+    {
+      "code": "VU-PAM",
+      "name": "Pénama",
+      "type": "Province",
+      "country": "VU"
+    },
+    {
+      "code": "VU-SAM",
+      "name": "Sanma",
+      "type": "Province",
+      "country": "VU"
+    },
+    {
+      "code": "VU-SEE",
+      "name": "Shéfa",
+      "type": "Province",
+      "country": "VU"
+    },
+    {
+      "code": "VU-TAE",
+      "name": "Taféa",
+      "type": "Province",
+      "country": "VU"
+    },
+    {
+      "code": "VU-TOB",
+      "name": "Torba",
+      "type": "Province",
+      "country": "VU"
+    }
+  ]
+}

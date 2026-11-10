@@ -1,0 +1,103 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "KN",
+  "count": 16,
+  "subdivisions": [
+    {
+      "code": "KN-01",
+      "name": "Christ Church Nichola Town",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-02",
+      "name": "Saint Anne Sandy Point",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-03",
+      "name": "Saint George Basseterre",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-04",
+      "name": "Saint George Gingerland",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-05",
+      "name": "Saint James Windward",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-06",
+      "name": "Saint John Capisterre",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-07",
+      "name": "Saint John Figtree",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-08",
+      "name": "Saint Mary Cayon",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-09",
+      "name": "Saint Paul Capisterre",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-10",
+      "name": "Saint Paul Charlestown",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-11",
+      "name": "Saint Peter Basseterre",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-12",
+      "name": "Saint Thomas Lowland",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-13",
+      "name": "Saint Thomas Middle Island",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-15",
+      "name": "Trinity Palmetto Point",
+      "type": "Parish",
+      "country": "KN"
+    },
+    {
+      "code": "KN-K",
+      "name": "Saint Kitts",
+      "type": "State",
+      "country": "KN"
+    },
+    {
+      "code": "KN-N",
+      "name": "Nevis",
+      "type": "State",
+      "country": "KN"
+    }
+  ]
+}

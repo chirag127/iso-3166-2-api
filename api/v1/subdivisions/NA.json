@@ -1,0 +1,91 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "NA",
+  "count": 14,
+  "subdivisions": [
+    {
+      "code": "NA-CA",
+      "name": "Zambezi",
+      "type": "Region",
+      "country": "NA"
+    },
+    {
+      "code": "NA-ER",
+      "name": "Erongo",
+      "type": "Region",
+      "country": "NA"
+    },
+    {
+      "code": "NA-HA",
+      "name": "Hardap",
+      "type": "Region",
+      "country": "NA"
+    },
+    {
+      "code": "NA-KA",
+      "name": "//Karas",
+      "type": "Region",
+      "country": "NA"
+    },
+    {
+      "code": "NA-KE",
+      "name": "Kavango East",
+      "type": "Region",
+      "country": "NA"
+    },
+    {
+      "code": "NA-KH",
+      "name": "Khomas",
+      "type": "Region",
+      "country": "NA"
+    },
+    {
+      "code": "NA-KU",
+      "name": "Kunene",
+      "type": "Region",
+      "country": "NA"
+    },
+    {
+      "code": "NA-KW",
+      "name": "Kavango West",
+      "type": "Region",
+      "country": "NA"
+    },
+    {
+      "code": "NA-OD",
+      "name": "Otjozondjupa",
+      "type": "Region",
+      "country": "NA"
+    },
+    {
+      "code": "NA-OH",
+      "name": "Omaheke",
+      "type": "Region",
+      "country": "NA"
+    },
+    {
+      "code": "NA-ON",
+      "name": "Oshana",
+      "type": "Region",
+      "country": "NA"
+    },
+    {
+      "code": "NA-OS",
+      "name": "Omusati",
+      "type": "Region",
+      "country": "NA"
+    },
+    {
+      "code": "NA-OT",
+      "name": "Oshikoto",
+      "type": "Region",
+      "country": "NA"
+    },
+    {
+      "code": "NA-OW",
+      "name": "Ohangwena",
+      "type": "Region",
+      "country": "NA"
+    }
+  ]
+}

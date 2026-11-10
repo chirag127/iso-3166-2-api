@@ -1,0 +1,91 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SN",
+  "count": 14,
+  "subdivisions": [
+    {
+      "code": "SN-DB",
+      "name": "Diourbel",
+      "type": "Region",
+      "country": "SN"
+    },
+    {
+      "code": "SN-DK",
+      "name": "Dakar",
+      "type": "Region",
+      "country": "SN"
+    },
+    {
+      "code": "SN-FK",
+      "name": "Fatick",
+      "type": "Region",
+      "country": "SN"
+    },
+    {
+      "code": "SN-KA",
+      "name": "Kaffrine",
+      "type": "Region",
+      "country": "SN"
+    },
+    {
+      "code": "SN-KD",
+      "name": "Kolda",
+      "type": "Region",
+      "country": "SN"
+    },
+    {
+      "code": "SN-KE",
+      "name": "Kédougou",
+      "type": "Region",
+      "country": "SN"
+    },
+    {
+      "code": "SN-KL",
+      "name": "Kaolack",
+      "type": "Region",
+      "country": "SN"
+    },
+    {
+      "code": "SN-LG",
+      "name": "Louga",
+      "type": "Region",
+      "country": "SN"
+    },
+    {
+      "code": "SN-MT",
+      "name": "Matam",
+      "type": "Region",
+      "country": "SN"
+    },
+    {
+      "code": "SN-SE",
+      "name": "Sédhiou",
+      "type": "Region",
+      "country": "SN"
+    },
+    {
+      "code": "SN-SL",
+      "name": "Saint-Louis",
+      "type": "Region",
+      "country": "SN"
+    },
+    {
+      "code": "SN-TC",
+      "name": "Tambacounda",
+      "type": "Region",
+      "country": "SN"
+    },
+    {
+      "code": "SN-TH",
+      "name": "Thiès",
+      "type": "Region",
+      "country": "SN"
+    },
+    {
+      "code": "SN-ZG",
+      "name": "Ziguinchor",
+      "type": "Region",
+      "country": "SN"
+    }
+  ]
+}

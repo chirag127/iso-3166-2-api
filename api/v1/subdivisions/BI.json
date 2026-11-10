@@ -1,0 +1,115 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BI",
+  "count": 18,
+  "subdivisions": [
+    {
+      "code": "BI-BB",
+      "name": "Bubanza",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-BL",
+      "name": "Bujumbura Rural",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-BM",
+      "name": "Bujumbura Mairie",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-BR",
+      "name": "Bururi",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-CA",
+      "name": "Cankuzo",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-CI",
+      "name": "Cibitoke",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-GI",
+      "name": "Gitega",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-KI",
+      "name": "Kirundo",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-KR",
+      "name": "Karuzi",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-KY",
+      "name": "Kayanza",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-MA",
+      "name": "Makamba",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-MU",
+      "name": "Muramvya",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-MW",
+      "name": "Mwaro",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-MY",
+      "name": "Muyinga",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-NG",
+      "name": "Ngozi",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-RM",
+      "name": "Rumonge",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-RT",
+      "name": "Rutana",
+      "type": "Province",
+      "country": "BI"
+    },
+    {
+      "code": "BI-RY",
+      "name": "Ruyigi",
+      "type": "Province",
+      "country": "BI"
+    }
+  ]
+}

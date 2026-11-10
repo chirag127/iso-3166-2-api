@@ -1,0 +1,1005 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "countries": [
+    {
+      "country": "AD",
+      "file": "subdivisions/AD.json",
+      "count": 7
+    },
+    {
+      "country": "AE",
+      "file": "subdivisions/AE.json",
+      "count": 7
+    },
+    {
+      "country": "AF",
+      "file": "subdivisions/AF.json",
+      "count": 34
+    },
+    {
+      "country": "AG",
+      "file": "subdivisions/AG.json",
+      "count": 8
+    },
+    {
+      "country": "AL",
+      "file": "subdivisions/AL.json",
+      "count": 12
+    },
+    {
+      "country": "AM",
+      "file": "subdivisions/AM.json",
+      "count": 11
+    },
+    {
+      "country": "AO",
+      "file": "subdivisions/AO.json",
+      "count": 18
+    },
+    {
+      "country": "AR",
+      "file": "subdivisions/AR.json",
+      "count": 24
+    },
+    {
+      "country": "AT",
+      "file": "subdivisions/AT.json",
+      "count": 9
+    },
+    {
+      "country": "AU",
+      "file": "subdivisions/AU.json",
+      "count": 8
+    },
+    {
+      "country": "AZ",
+      "file": "subdivisions/AZ.json",
+      "count": 78
+    },
+    {
+      "country": "BA",
+      "file": "subdivisions/BA.json",
+      "count": 3
+    },
+    {
+      "country": "BB",
+      "file": "subdivisions/BB.json",
+      "count": 11
+    },
+    {
+      "country": "BD",
+      "file": "subdivisions/BD.json",
+      "count": 72
+    },
+    {
+      "country": "BE",
+      "file": "subdivisions/BE.json",
+      "count": 13
+    },
+    {
+      "country": "BF",
+      "file": "subdivisions/BF.json",
+      "count": 58
+    },
+    {
+      "country": "BG",
+      "file": "subdivisions/BG.json",
+      "count": 28
+    },
+    {
+      "country": "BH",
+      "file": "subdivisions/BH.json",
+      "count": 4
+    },
+    {
+      "country": "BI",
+      "file": "subdivisions/BI.json",
+      "count": 18
+    },
+    {
+      "country": "BJ",
+      "file": "subdivisions/BJ.json",
+      "count": 12
+    },
+    {
+      "country": "BN",
+      "file": "subdivisions/BN.json",
+      "count": 4
+    },
+    {
+      "country": "BO",
+      "file": "subdivisions/BO.json",
+      "count": 9
+    },
+    {
+      "country": "BQ",
+      "file": "subdivisions/BQ.json",
+      "count": 3
+    },
+    {
+      "country": "BR",
+      "file": "subdivisions/BR.json",
+      "count": 27
+    },
+    {
+      "country": "BS",
+      "file": "subdivisions/BS.json",
+      "count": 32
+    },
+    {
+      "country": "BT",
+      "file": "subdivisions/BT.json",
+      "count": 20
+    },
+    {
+      "country": "BW",
+      "file": "subdivisions/BW.json",
+      "count": 16
+    },
+    {
+      "country": "BY",
+      "file": "subdivisions/BY.json",
+      "count": 7
+    },
+    {
+      "country": "BZ",
+      "file": "subdivisions/BZ.json",
+      "count": 6
+    },
+    {
+      "country": "CA",
+      "file": "subdivisions/CA.json",
+      "count": 13
+    },
+    {
+      "country": "CD",
+      "file": "subdivisions/CD.json",
+      "count": 26
+    },
+    {
+      "country": "CF",
+      "file": "subdivisions/CF.json",
+      "count": 17
+    },
+    {
+      "country": "CG",
+      "file": "subdivisions/CG.json",
+      "count": 12
+    },
+    {
+      "country": "CH",
+      "file": "subdivisions/CH.json",
+      "count": 26
+    },
+    {
+      "country": "CI",
+      "file": "subdivisions/CI.json",
+      "count": 14
+    },
+    {
+      "country": "CL",
+      "file": "subdivisions/CL.json",
+      "count": 16
+    },
+    {
+      "country": "CM",
+      "file": "subdivisions/CM.json",
+      "count": 10
+    },
+    {
+      "country": "CN",
+      "file": "subdivisions/CN.json",
+      "count": 34
+    },
+    {
+      "country": "CO",
+      "file": "subdivisions/CO.json",
+      "count": 33
+    },
+    {
+      "country": "CR",
+      "file": "subdivisions/CR.json",
+      "count": 7
+    },
+    {
+      "country": "CU",
+      "file": "subdivisions/CU.json",
+      "count": 16
+    },
+    {
+      "country": "CV",
+      "file": "subdivisions/CV.json",
+      "count": 24
+    },
+    {
+      "country": "CY",
+      "file": "subdivisions/CY.json",
+      "count": 6
+    },
+    {
+      "country": "CZ",
+      "file": "subdivisions/CZ.json",
+      "count": 90
+    },
+    {
+      "country": "DE",
+      "file": "subdivisions/DE.json",
+      "count": 16
+    },
+    {
+      "country": "DJ",
+      "file": "subdivisions/DJ.json",
+      "count": 6
+    },
+    {
+      "country": "DK",
+      "file": "subdivisions/DK.json",
+      "count": 5
+    },
+    {
+      "country": "DM",
+      "file": "subdivisions/DM.json",
+      "count": 10
+    },
+    {
+      "country": "DO",
+      "file": "subdivisions/DO.json",
+      "count": 42
+    },
+    {
+      "country": "DZ",
+      "file": "subdivisions/DZ.json",
+      "count": 58
+    },
+    {
+      "country": "EC",
+      "file": "subdivisions/EC.json",
+      "count": 24
+    },
+    {
+      "country": "EE",
+      "file": "subdivisions/EE.json",
+      "count": 94
+    },
+    {
+      "country": "EG",
+      "file": "subdivisions/EG.json",
+      "count": 27
+    },
+    {
+      "country": "ER",
+      "file": "subdivisions/ER.json",
+      "count": 6
+    },
+    {
+      "country": "ES",
+      "file": "subdivisions/ES.json",
+      "count": 69
+    },
+    {
+      "country": "ET",
+      "file": "subdivisions/ET.json",
+      "count": 13
+    },
+    {
+      "country": "FI",
+      "file": "subdivisions/FI.json",
+      "count": 19
+    },
+    {
+      "country": "FJ",
+      "file": "subdivisions/FJ.json",
+      "count": 19
+    },
+    {
+      "country": "FM",
+      "file": "subdivisions/FM.json",
+      "count": 4
+    },
+    {
+      "country": "FR",
+      "file": "subdivisions/FR.json",
+      "count": 124
+    },
+    {
+      "country": "GA",
+      "file": "subdivisions/GA.json",
+      "count": 9
+    },
+    {
+      "country": "GB",
+      "file": "subdivisions/GB.json",
+      "count": 221
+    },
+    {
+      "country": "GD",
+      "file": "subdivisions/GD.json",
+      "count": 7
+    },
+    {
+      "country": "GE",
+      "file": "subdivisions/GE.json",
+      "count": 12
+    },
+    {
+      "country": "GH",
+      "file": "subdivisions/GH.json",
+      "count": 16
+    },
+    {
+      "country": "GL",
+      "file": "subdivisions/GL.json",
+      "count": 5
+    },
+    {
+      "country": "GM",
+      "file": "subdivisions/GM.json",
+      "count": 6
+    },
+    {
+      "country": "GN",
+      "file": "subdivisions/GN.json",
+      "count": 41
+    },
+    {
+      "country": "GQ",
+      "file": "subdivisions/GQ.json",
+      "count": 10
+    },
+    {
+      "country": "GR",
+      "file": "subdivisions/GR.json",
+      "count": 14
+    },
+    {
+      "country": "GT",
+      "file": "subdivisions/GT.json",
+      "count": 22
+    },
+    {
+      "country": "GW",
+      "file": "subdivisions/GW.json",
+      "count": 12
+    },
+    {
+      "country": "GY",
+      "file": "subdivisions/GY.json",
+      "count": 10
+    },
+    {
+      "country": "HN",
+      "file": "subdivisions/HN.json",
+      "count": 18
+    },
+    {
+      "country": "HR",
+      "file": "subdivisions/HR.json",
+      "count": 21
+    },
+    {
+      "country": "HT",
+      "file": "subdivisions/HT.json",
+      "count": 10
+    },
+    {
+      "country": "HU",
+      "file": "subdivisions/HU.json",
+      "count": 43
+    },
+    {
+      "country": "ID",
+      "file": "subdivisions/ID.json",
+      "count": 45
+    },
+    {
+      "country": "IE",
+      "file": "subdivisions/IE.json",
+      "count": 30
+    },
+    {
+      "country": "IL",
+      "file": "subdivisions/IL.json",
+      "count": 6
+    },
+    {
+      "country": "IN",
+      "file": "subdivisions/IN.json",
+      "count": 36
+    },
+    {
+      "country": "IQ",
+      "file": "subdivisions/IQ.json",
+      "count": 19
+    },
+    {
+      "country": "IR",
+      "file": "subdivisions/IR.json",
+      "count": 31
+    },
+    {
+      "country": "IS",
+      "file": "subdivisions/IS.json",
+      "count": 72
+    },
+    {
+      "country": "IT",
+      "file": "subdivisions/IT.json",
+      "count": 126
+    },
+    {
+      "country": "JM",
+      "file": "subdivisions/JM.json",
+      "count": 14
+    },
+    {
+      "country": "JO",
+      "file": "subdivisions/JO.json",
+      "count": 12
+    },
+    {
+      "country": "JP",
+      "file": "subdivisions/JP.json",
+      "count": 47
+    },
+    {
+      "country": "KE",
+      "file": "subdivisions/KE.json",
+      "count": 47
+    },
+    {
+      "country": "KG",
+      "file": "subdivisions/KG.json",
+      "count": 9
+    },
+    {
+      "country": "KH",
+      "file": "subdivisions/KH.json",
+      "count": 25
+    },
+    {
+      "country": "KI",
+      "file": "subdivisions/KI.json",
+      "count": 3
+    },
+    {
+      "country": "KM",
+      "file": "subdivisions/KM.json",
+      "count": 3
+    },
+    {
+      "country": "KN",
+      "file": "subdivisions/KN.json",
+      "count": 16
+    },
+    {
+      "country": "KP",
+      "file": "subdivisions/KP.json",
+      "count": 13
+    },
+    {
+      "country": "KR",
+      "file": "subdivisions/KR.json",
+      "count": 17
+    },
+    {
+      "country": "KW",
+      "file": "subdivisions/KW.json",
+      "count": 6
+    },
+    {
+      "country": "KZ",
+      "file": "subdivisions/KZ.json",
+      "count": 20
+    },
+    {
+      "country": "LA",
+      "file": "subdivisions/LA.json",
+      "count": 18
+    },
+    {
+      "country": "LB",
+      "file": "subdivisions/LB.json",
+      "count": 8
+    },
+    {
+      "country": "LC",
+      "file": "subdivisions/LC.json",
+      "count": 10
+    },
+    {
+      "country": "LI",
+      "file": "subdivisions/LI.json",
+      "count": 11
+    },
+    {
+      "country": "LK",
+      "file": "subdivisions/LK.json",
+      "count": 34
+    },
+    {
+      "country": "LR",
+      "file": "subdivisions/LR.json",
+      "count": 15
+    },
+    {
+      "country": "LS",
+      "file": "subdivisions/LS.json",
+      "count": 10
+    },
+    {
+      "country": "LT",
+      "file": "subdivisions/LT.json",
+      "count": 70
+    },
+    {
+      "country": "LU",
+      "file": "subdivisions/LU.json",
+      "count": 12
+    },
+    {
+      "country": "LV",
+      "file": "subdivisions/LV.json",
+      "count": 43
+    },
+    {
+      "country": "LY",
+      "file": "subdivisions/LY.json",
+      "count": 22
+    },
+    {
+      "country": "MA",
+      "file": "subdivisions/MA.json",
+      "count": 87
+    },
+    {
+      "country": "MC",
+      "file": "subdivisions/MC.json",
+      "count": 17
+    },
+    {
+      "country": "MD",
+      "file": "subdivisions/MD.json",
+      "count": 37
+    },
+    {
+      "country": "ME",
+      "file": "subdivisions/ME.json",
+      "count": 25
+    },
+    {
+      "country": "MG",
+      "file": "subdivisions/MG.json",
+      "count": 6
+    },
+    {
+      "country": "MH",
+      "file": "subdivisions/MH.json",
+      "count": 26
+    },
+    {
+      "country": "MK",
+      "file": "subdivisions/MK.json",
+      "count": 80
+    },
+    {
+      "country": "ML",
+      "file": "subdivisions/ML.json",
+      "count": 11
+    },
+    {
+      "country": "MM",
+      "file": "subdivisions/MM.json",
+      "count": 15
+    },
+    {
+      "country": "MN",
+      "file": "subdivisions/MN.json",
+      "count": 22
+    },
+    {
+      "country": "MR",
+      "file": "subdivisions/MR.json",
+      "count": 15
+    },
+    {
+      "country": "MT",
+      "file": "subdivisions/MT.json",
+      "count": 68
+    },
+    {
+      "country": "MU",
+      "file": "subdivisions/MU.json",
+      "count": 12
+    },
+    {
+      "country": "MV",
+      "file": "subdivisions/MV.json",
+      "count": 21
+    },
+    {
+      "country": "MW",
+      "file": "subdivisions/MW.json",
+      "count": 31
+    },
+    {
+      "country": "MX",
+      "file": "subdivisions/MX.json",
+      "count": 32
+    },
+    {
+      "country": "MY",
+      "file": "subdivisions/MY.json",
+      "count": 16
+    },
+    {
+      "country": "MZ",
+      "file": "subdivisions/MZ.json",
+      "count": 11
+    },
+    {
+      "country": "NA",
+      "file": "subdivisions/NA.json",
+      "count": 14
+    },
+    {
+      "country": "NE",
+      "file": "subdivisions/NE.json",
+      "count": 8
+    },
+    {
+      "country": "NG",
+      "file": "subdivisions/NG.json",
+      "count": 37
+    },
+    {
+      "country": "NI",
+      "file": "subdivisions/NI.json",
+      "count": 17
+    },
+    {
+      "country": "NL",
+      "file": "subdivisions/NL.json",
+      "count": 18
+    },
+    {
+      "country": "NO",
+      "file": "subdivisions/NO.json",
+      "count": 13
+    },
+    {
+      "country": "NP",
+      "file": "subdivisions/NP.json",
+      "count": 7
+    },
+    {
+      "country": "NR",
+      "file": "subdivisions/NR.json",
+      "count": 14
+    },
+    {
+      "country": "NZ",
+      "file": "subdivisions/NZ.json",
+      "count": 17
+    },
+    {
+      "country": "OM",
+      "file": "subdivisions/OM.json",
+      "count": 11
+    },
+    {
+      "country": "PA",
+      "file": "subdivisions/PA.json",
+      "count": 14
+    },
+    {
+      "country": "PE",
+      "file": "subdivisions/PE.json",
+      "count": 26
+    },
+    {
+      "country": "PG",
+      "file": "subdivisions/PG.json",
+      "count": 22
+    },
+    {
+      "country": "PH",
+      "file": "subdivisions/PH.json",
+      "count": 99
+    },
+    {
+      "country": "PK",
+      "file": "subdivisions/PK.json",
+      "count": 7
+    },
+    {
+      "country": "PL",
+      "file": "subdivisions/PL.json",
+      "count": 16
+    },
+    {
+      "country": "PS",
+      "file": "subdivisions/PS.json",
+      "count": 16
+    },
+    {
+      "country": "PT",
+      "file": "subdivisions/PT.json",
+      "count": 20
+    },
+    {
+      "country": "PW",
+      "file": "subdivisions/PW.json",
+      "count": 16
+    },
+    {
+      "country": "PY",
+      "file": "subdivisions/PY.json",
+      "count": 18
+    },
+    {
+      "country": "QA",
+      "file": "subdivisions/QA.json",
+      "count": 8
+    },
+    {
+      "country": "RO",
+      "file": "subdivisions/RO.json",
+      "count": 42
+    },
+    {
+      "country": "RS",
+      "file": "subdivisions/RS.json",
+      "count": 32
+    },
+    {
+      "country": "RU",
+      "file": "subdivisions/RU.json",
+      "count": 83
+    },
+    {
+      "country": "RW",
+      "file": "subdivisions/RW.json",
+      "count": 5
+    },
+    {
+      "country": "SA",
+      "file": "subdivisions/SA.json",
+      "count": 13
+    },
+    {
+      "country": "SB",
+      "file": "subdivisions/SB.json",
+      "count": 10
+    },
+    {
+      "country": "SC",
+      "file": "subdivisions/SC.json",
+      "count": 27
+    },
+    {
+      "country": "SD",
+      "file": "subdivisions/SD.json",
+      "count": 18
+    },
+    {
+      "country": "SE",
+      "file": "subdivisions/SE.json",
+      "count": 21
+    },
+    {
+      "country": "SG",
+      "file": "subdivisions/SG.json",
+      "count": 5
+    },
+    {
+      "country": "SH",
+      "file": "subdivisions/SH.json",
+      "count": 3
+    },
+    {
+      "country": "SI",
+      "file": "subdivisions/SI.json",
+      "count": 212
+    },
+    {
+      "country": "SK",
+      "file": "subdivisions/SK.json",
+      "count": 8
+    },
+    {
+      "country": "SL",
+      "file": "subdivisions/SL.json",
+      "count": 5
+    },
+    {
+      "country": "SM",
+      "file": "subdivisions/SM.json",
+      "count": 9
+    },
+    {
+      "country": "SN",
+      "file": "subdivisions/SN.json",
+      "count": 14
+    },
+    {
+      "country": "SO",
+      "file": "subdivisions/SO.json",
+      "count": 18
+    },
+    {
+      "country": "SR",
+      "file": "subdivisions/SR.json",
+      "count": 10
+    },
+    {
+      "country": "SS",
+      "file": "subdivisions/SS.json",
+      "count": 10
+    },
+    {
+      "country": "ST",
+      "file": "subdivisions/ST.json",
+      "count": 7
+    },
+    {
+      "country": "SV",
+      "file": "subdivisions/SV.json",
+      "count": 14
+    },
+    {
+      "country": "SY",
+      "file": "subdivisions/SY.json",
+      "count": 14
+    },
+    {
+      "country": "SZ",
+      "file": "subdivisions/SZ.json",
+      "count": 4
+    },
+    {
+      "country": "TD",
+      "file": "subdivisions/TD.json",
+      "count": 23
+    },
+    {
+      "country": "TG",
+      "file": "subdivisions/TG.json",
+      "count": 5
+    },
+    {
+      "country": "TH",
+      "file": "subdivisions/TH.json",
+      "count": 78
+    },
+    {
+      "country": "TJ",
+      "file": "subdivisions/TJ.json",
+      "count": 5
+    },
+    {
+      "country": "TL",
+      "file": "subdivisions/TL.json",
+      "count": 13
+    },
+    {
+      "country": "TM",
+      "file": "subdivisions/TM.json",
+      "count": 6
+    },
+    {
+      "country": "TN",
+      "file": "subdivisions/TN.json",
+      "count": 24
+    },
+    {
+      "country": "TO",
+      "file": "subdivisions/TO.json",
+      "count": 5
+    },
+    {
+      "country": "TR",
+      "file": "subdivisions/TR.json",
+      "count": 81
+    },
+    {
+      "country": "TT",
+      "file": "subdivisions/TT.json",
+      "count": 15
+    },
+    {
+      "country": "TV",
+      "file": "subdivisions/TV.json",
+      "count": 8
+    },
+    {
+      "country": "TW",
+      "file": "subdivisions/TW.json",
+      "count": 22
+    },
+    {
+      "country": "TZ",
+      "file": "subdivisions/TZ.json",
+      "count": 31
+    },
+    {
+      "country": "UA",
+      "file": "subdivisions/UA.json",
+      "count": 27
+    },
+    {
+      "country": "UG",
+      "file": "subdivisions/UG.json",
+      "count": 139
+    },
+    {
+      "country": "UM",
+      "file": "subdivisions/UM.json",
+      "count": 9
+    },
+    {
+      "country": "US",
+      "file": "subdivisions/US.json",
+      "count": 57
+    },
+    {
+      "country": "UY",
+      "file": "subdivisions/UY.json",
+      "count": 19
+    },
+    {
+      "country": "UZ",
+      "file": "subdivisions/UZ.json",
+      "count": 14
+    },
+    {
+      "country": "VC",
+      "file": "subdivisions/VC.json",
+      "count": 6
+    },
+    {
+      "country": "VE",
+      "file": "subdivisions/VE.json",
+      "count": 25
+    },
+    {
+      "country": "VN",
+      "file": "subdivisions/VN.json",
+      "count": 63
+    },
+    {
+      "country": "VU",
+      "file": "subdivisions/VU.json",
+      "count": 6
+    },
+    {
+      "country": "WF",
+      "file": "subdivisions/WF.json",
+      "count": 3
+    },
+    {
+      "country": "WS",
+      "file": "subdivisions/WS.json",
+      "count": 11
+    },
+    {
+      "country": "YE",
+      "file": "subdivisions/YE.json",
+      "count": 22
+    },
+    {
+      "country": "ZA",
+      "file": "subdivisions/ZA.json",
+      "count": 9
+    },
+    {
+      "country": "ZM",
+      "file": "subdivisions/ZM.json",
+      "count": 10
+    },
+    {
+      "country": "ZW",
+      "file": "subdivisions/ZW.json",
+      "count": 10
+    }
+  ]
+}

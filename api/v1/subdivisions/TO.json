@@ -1,0 +1,37 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "TO",
+  "count": 5,
+  "subdivisions": [
+    {
+      "code": "TO-01",
+      "name": "'Eua",
+      "type": "Division",
+      "country": "TO"
+    },
+    {
+      "code": "TO-02",
+      "name": "Ha'apai",
+      "type": "Division",
+      "country": "TO"
+    },
+    {
+      "code": "TO-03",
+      "name": "Niuas",
+      "type": "Division",
+      "country": "TO"
+    },
+    {
+      "code": "TO-04",
+      "name": "Tongatapu",
+      "type": "Division",
+      "country": "TO"
+    },
+    {
+      "code": "TO-05",
+      "name": "Vava'u",
+      "type": "Division",
+      "country": "TO"
+    }
+  ]
+}

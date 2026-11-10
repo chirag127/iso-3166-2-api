@@ -1,0 +1,37 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SG",
+  "count": 5,
+  "subdivisions": [
+    {
+      "code": "SG-01",
+      "name": "Central Singapore",
+      "type": "District",
+      "country": "SG"
+    },
+    {
+      "code": "SG-02",
+      "name": "North East",
+      "type": "District",
+      "country": "SG"
+    },
+    {
+      "code": "SG-03",
+      "name": "North West",
+      "type": "District",
+      "country": "SG"
+    },
+    {
+      "code": "SG-04",
+      "name": "South East",
+      "type": "District",
+      "country": "SG"
+    },
+    {
+      "code": "SG-05",
+      "name": "South West",
+      "type": "District",
+      "country": "SG"
+    }
+  ]
+}

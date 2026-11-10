@@ -1,0 +1,355 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BF",
+  "count": 58,
+  "subdivisions": [
+    {
+      "code": "BF-01",
+      "name": "Boucle du Mouhoun",
+      "type": "Region",
+      "country": "BF"
+    },
+    {
+      "code": "BF-02",
+      "name": "Cascades",
+      "type": "Region",
+      "country": "BF"
+    },
+    {
+      "code": "BF-03",
+      "name": "Centre",
+      "type": "Region",
+      "country": "BF"
+    },
+    {
+      "code": "BF-04",
+      "name": "Centre-Est",
+      "type": "Region",
+      "country": "BF"
+    },
+    {
+      "code": "BF-05",
+      "name": "Centre-Nord",
+      "type": "Region",
+      "country": "BF"
+    },
+    {
+      "code": "BF-06",
+      "name": "Centre-Ouest",
+      "type": "Region",
+      "country": "BF"
+    },
+    {
+      "code": "BF-07",
+      "name": "Centre-Sud",
+      "type": "Region",
+      "country": "BF"
+    },
+    {
+      "code": "BF-08",
+      "name": "Est",
+      "type": "Region",
+      "country": "BF"
+    },
+    {
+      "code": "BF-09",
+      "name": "Hauts-Bassins",
+      "type": "Region",
+      "country": "BF"
+    },
+    {
+      "code": "BF-10",
+      "name": "Nord",
+      "type": "Region",
+      "country": "BF"
+    },
+    {
+      "code": "BF-11",
+      "name": "Plateau-Central",
+      "type": "Region",
+      "country": "BF"
+    },
+    {
+      "code": "BF-12",
+      "name": "Sahel",
+      "type": "Region",
+      "country": "BF"
+    },
+    {
+      "code": "BF-13",
+      "name": "Sud-Ouest",
+      "type": "Region",
+      "country": "BF"
+    },
+    {
+      "code": "BF-BAL",
+      "name": "Balé",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-BAM",
+      "name": "Bam",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-BAN",
+      "name": "Banwa",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-BAZ",
+      "name": "Bazèga",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-BGR",
+      "name": "Bougouriba",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-BLG",
+      "name": "Boulgou",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-BLK",
+      "name": "Boulkiemdé",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-COM",
+      "name": "Comoé",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-GAN",
+      "name": "Ganzourgou",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-GNA",
+      "name": "Gnagna",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-GOU",
+      "name": "Gourma",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-HOU",
+      "name": "Houet",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-IOB",
+      "name": "Ioba",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-KAD",
+      "name": "Kadiogo",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-KEN",
+      "name": "Kénédougou",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-KMD",
+      "name": "Komondjari",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-KMP",
+      "name": "Kompienga",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-KOP",
+      "name": "Koulpélogo",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-KOS",
+      "name": "Kossi",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-KOT",
+      "name": "Kouritenga",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-KOW",
+      "name": "Kourwéogo",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-LER",
+      "name": "Léraba",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-LOR",
+      "name": "Loroum",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-MOU",
+      "name": "Mouhoun",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-NAM",
+      "name": "Namentenga",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-NAO",
+      "name": "Nahouri",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-NAY",
+      "name": "Nayala",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-NOU",
+      "name": "Noumbiel",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-OUB",
+      "name": "Oubritenga",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-OUD",
+      "name": "Oudalan",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-PAS",
+      "name": "Passoré",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-PON",
+      "name": "Poni",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-SEN",
+      "name": "Séno",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-SIS",
+      "name": "Sissili",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-SMT",
+      "name": "Sanmatenga",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-SNG",
+      "name": "Sanguié",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-SOM",
+      "name": "Soum",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-SOR",
+      "name": "Sourou",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-TAP",
+      "name": "Tapoa",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-TUI",
+      "name": "Tuy",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-YAG",
+      "name": "Yagha",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-YAT",
+      "name": "Yatenga",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-ZIR",
+      "name": "Ziro",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-ZON",
+      "name": "Zondoma",
+      "type": "Province",
+      "country": "BF"
+    },
+    {
+      "code": "BF-ZOU",
+      "name": "Zoundwéogo",
+      "type": "Province",
+      "country": "BF"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "LU",
+  "count": 12,
+  "subdivisions": [
+    {
+      "code": "LU-CA",
+      "name": "Capellen",
+      "type": "Canton",
+      "country": "LU"
+    },
+    {
+      "code": "LU-CL",
+      "name": "Clervaux",
+      "type": "Canton",
+      "country": "LU"
+    },
+    {
+      "code": "LU-DI",
+      "name": "Diekirch",
+      "type": "Canton",
+      "country": "LU"
+    },
+    {
+      "code": "LU-EC",
+      "name": "Echternach",
+      "type": "Canton",
+      "country": "LU"
+    },
+    {
+      "code": "LU-ES",
+      "name": "Esch-sur-Alzette",
+      "type": "Canton",
+      "country": "LU"
+    },
+    {
+      "code": "LU-GR",
+      "name": "Grevenmacher",
+      "type": "Canton",
+      "country": "LU"
+    },
+    {
+      "code": "LU-LU",
+      "name": "Luxembourg",
+      "type": "Canton",
+      "country": "LU"
+    },
+    {
+      "code": "LU-ME",
+      "name": "Mersch",
+      "type": "Canton",
+      "country": "LU"
+    },
+    {
+      "code": "LU-RD",
+      "name": "Redange",
+      "type": "Canton",
+      "country": "LU"
+    },
+    {
+      "code": "LU-RM",
+      "name": "Remich",
+      "type": "Canton",
+      "country": "LU"
+    },
+    {
+      "code": "LU-VD",
+      "name": "Vianden",
+      "type": "Canton",
+      "country": "LU"
+    },
+    {
+      "code": "LU-WI",
+      "name": "Wiltz",
+      "type": "Canton",
+      "country": "LU"
+    }
+  ]
+}

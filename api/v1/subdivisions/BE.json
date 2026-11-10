@@ -1,0 +1,85 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BE",
+  "count": 13,
+  "subdivisions": [
+    {
+      "code": "BE-BRU",
+      "name": "Bruxelles-Capitale, Région de",
+      "type": "Region",
+      "country": "BE"
+    },
+    {
+      "code": "BE-VAN",
+      "name": "Antwerpen",
+      "type": "Province",
+      "country": "BE"
+    },
+    {
+      "code": "BE-VBR",
+      "name": "Vlaams-Brabant",
+      "type": "Province",
+      "country": "BE"
+    },
+    {
+      "code": "BE-VLG",
+      "name": "Vlaams Gewest",
+      "type": "Region",
+      "country": "BE"
+    },
+    {
+      "code": "BE-VLI",
+      "name": "Limburg",
+      "type": "Province",
+      "country": "BE"
+    },
+    {
+      "code": "BE-VOV",
+      "name": "Oost-Vlaanderen",
+      "type": "Province",
+      "country": "BE"
+    },
+    {
+      "code": "BE-VWV",
+      "name": "West-Vlaanderen",
+      "type": "Province",
+      "country": "BE"
+    },
+    {
+      "code": "BE-WAL",
+      "name": "wallonne, Région",
+      "type": "Region",
+      "country": "BE"
+    },
+    {
+      "code": "BE-WBR",
+      "name": "Brabant wallon",
+      "type": "Province",
+      "country": "BE"
+    },
+    {
+      "code": "BE-WHT",
+      "name": "Hainaut",
+      "type": "Province",
+      "country": "BE"
+    },
+    {
+      "code": "BE-WLG",
+      "name": "Liège",
+      "type": "Province",
+      "country": "BE"
+    },
+    {
+      "code": "BE-WLX",
+      "name": "Luxembourg",
+      "type": "Province",
+      "country": "BE"
+    },
+    {
+      "code": "BE-WNA",
+      "name": "Namur",
+      "type": "Province",
+      "country": "BE"
+    }
+  ]
+}

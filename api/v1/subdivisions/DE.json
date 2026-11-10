@@ -1,0 +1,103 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "DE",
+  "count": 16,
+  "subdivisions": [
+    {
+      "code": "DE-BB",
+      "name": "Brandenburg",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-BE",
+      "name": "Berlin",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-BW",
+      "name": "Baden-Württemberg",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-BY",
+      "name": "Bayern",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-HB",
+      "name": "Bremen",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-HE",
+      "name": "Hessen",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-HH",
+      "name": "Hamburg",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-MV",
+      "name": "Mecklenburg-Vorpommern",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-NI",
+      "name": "Niedersachsen",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-NW",
+      "name": "Nordrhein-Westfalen",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-RP",
+      "name": "Rheinland-Pfalz",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-SH",
+      "name": "Schleswig-Holstein",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-SL",
+      "name": "Saarland",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-SN",
+      "name": "Sachsen",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-ST",
+      "name": "Sachsen-Anhalt",
+      "type": "Land",
+      "country": "DE"
+    },
+    {
+      "code": "DE-TH",
+      "name": "Thüringen",
+      "type": "Land",
+      "country": "DE"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "QA",
+  "count": 8,
+  "subdivisions": [
+    {
+      "code": "QA-DA",
+      "name": "Ad Dawḩah",
+      "type": "Municipality",
+      "country": "QA"
+    },
+    {
+      "code": "QA-KH",
+      "name": "Al Khawr wa adh Dhakhīrah",
+      "type": "Municipality",
+      "country": "QA"
+    },
+    {
+      "code": "QA-MS",
+      "name": "Ash Shamāl",
+      "type": "Municipality",
+      "country": "QA"
+    },
+    {
+      "code": "QA-RA",
+      "name": "Ar Rayyān",
+      "type": "Municipality",
+      "country": "QA"
+    },
+    {
+      "code": "QA-SH",
+      "name": "Ash Shīḩānīyah",
+      "type": "Municipality",
+      "country": "QA"
+    },
+    {
+      "code": "QA-US",
+      "name": "Umm Şalāl",
+      "type": "Municipality",
+      "country": "QA"
+    },
+    {
+      "code": "QA-WA",
+      "name": "Al Wakrah",
+      "type": "Municipality",
+      "country": "QA"
+    },
+    {
+      "code": "QA-ZA",
+      "name": "Az̧ Z̧a‘āyin",
+      "type": "Municipality",
+      "country": "QA"
+    }
+  ]
+}

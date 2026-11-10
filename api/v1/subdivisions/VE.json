@@ -1,0 +1,157 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "VE",
+  "count": 25,
+  "subdivisions": [
+    {
+      "code": "VE-A",
+      "name": "Distrito Capital",
+      "type": "Capital district",
+      "country": "VE"
+    },
+    {
+      "code": "VE-B",
+      "name": "Anzoátegui",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-C",
+      "name": "Apure",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-D",
+      "name": "Aragua",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-E",
+      "name": "Barinas",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-F",
+      "name": "Bolívar",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-G",
+      "name": "Carabobo",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-H",
+      "name": "Cojedes",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-I",
+      "name": "Falcón",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-J",
+      "name": "Guárico",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-K",
+      "name": "Lara",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-L",
+      "name": "Mérida",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-M",
+      "name": "Miranda",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-N",
+      "name": "Monagas",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-O",
+      "name": "Nueva Esparta",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-P",
+      "name": "Portuguesa",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-R",
+      "name": "Sucre",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-S",
+      "name": "Táchira",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-T",
+      "name": "Trujillo",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-U",
+      "name": "Yaracuy",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-V",
+      "name": "Zulia",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-W",
+      "name": "Dependencias Federales",
+      "type": "Federal dependency",
+      "country": "VE"
+    },
+    {
+      "code": "VE-X",
+      "name": "La Guaira",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-Y",
+      "name": "Delta Amacuro",
+      "type": "State",
+      "country": "VE"
+    },
+    {
+      "code": "VE-Z",
+      "name": "Amazonas",
+      "type": "State",
+      "country": "VE"
+    }
+  ]
+}

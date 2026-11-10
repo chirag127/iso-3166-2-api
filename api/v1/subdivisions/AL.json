@@ -1,0 +1,79 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "AL",
+  "count": 12,
+  "subdivisions": [
+    {
+      "code": "AL-01",
+      "name": "Berat",
+      "type": "County",
+      "country": "AL"
+    },
+    {
+      "code": "AL-02",
+      "name": "Durrës",
+      "type": "County",
+      "country": "AL"
+    },
+    {
+      "code": "AL-03",
+      "name": "Elbasan",
+      "type": "County",
+      "country": "AL"
+    },
+    {
+      "code": "AL-04",
+      "name": "Fier",
+      "type": "County",
+      "country": "AL"
+    },
+    {
+      "code": "AL-05",
+      "name": "Gjirokastër",
+      "type": "County",
+      "country": "AL"
+    },
+    {
+      "code": "AL-06",
+      "name": "Korçë",
+      "type": "County",
+      "country": "AL"
+    },
+    {
+      "code": "AL-07",
+      "name": "Kukës",
+      "type": "County",
+      "country": "AL"
+    },
+    {
+      "code": "AL-08",
+      "name": "Lezhë",
+      "type": "County",
+      "country": "AL"
+    },
+    {
+      "code": "AL-09",
+      "name": "Dibër",
+      "type": "County",
+      "country": "AL"
+    },
+    {
+      "code": "AL-10",
+      "name": "Shkodër",
+      "type": "County",
+      "country": "AL"
+    },
+    {
+      "code": "AL-11",
+      "name": "Tiranë",
+      "type": "County",
+      "country": "AL"
+    },
+    {
+      "code": "AL-12",
+      "name": "Vlorë",
+      "type": "County",
+      "country": "AL"
+    }
+  ]
+}

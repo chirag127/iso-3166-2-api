@@ -1,0 +1,115 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "NL",
+  "count": 18,
+  "subdivisions": [
+    {
+      "code": "NL-AW",
+      "name": "Aruba",
+      "type": "Country",
+      "country": "NL"
+    },
+    {
+      "code": "NL-BQ1",
+      "name": "Bonaire",
+      "type": "Special municipality",
+      "country": "NL"
+    },
+    {
+      "code": "NL-BQ2",
+      "name": "Saba",
+      "type": "Special municipality",
+      "country": "NL"
+    },
+    {
+      "code": "NL-BQ3",
+      "name": "Sint Eustatius",
+      "type": "Special municipality",
+      "country": "NL"
+    },
+    {
+      "code": "NL-CW",
+      "name": "Curaçao",
+      "type": "Country",
+      "country": "NL"
+    },
+    {
+      "code": "NL-DR",
+      "name": "Drenthe",
+      "type": "Province",
+      "country": "NL"
+    },
+    {
+      "code": "NL-FL",
+      "name": "Flevoland",
+      "type": "Province",
+      "country": "NL"
+    },
+    {
+      "code": "NL-FR",
+      "name": "Fryslân",
+      "type": "Province",
+      "country": "NL"
+    },
+    {
+      "code": "NL-GE",
+      "name": "Gelderland",
+      "type": "Province",
+      "country": "NL"
+    },
+    {
+      "code": "NL-GR",
+      "name": "Groningen",
+      "type": "Province",
+      "country": "NL"
+    },
+    {
+      "code": "NL-LI",
+      "name": "Limburg",
+      "type": "Province",
+      "country": "NL"
+    },
+    {
+      "code": "NL-NB",
+      "name": "Noord-Brabant",
+      "type": "Province",
+      "country": "NL"
+    },
+    {
+      "code": "NL-NH",
+      "name": "Noord-Holland",
+      "type": "Province",
+      "country": "NL"
+    },
+    {
+      "code": "NL-OV",
+      "name": "Overijssel",
+      "type": "Province",
+      "country": "NL"
+    },
+    {
+      "code": "NL-SX",
+      "name": "Sint Maarten",
+      "type": "Country",
+      "country": "NL"
+    },
+    {
+      "code": "NL-UT",
+      "name": "Utrecht",
+      "type": "Province",
+      "country": "NL"
+    },
+    {
+      "code": "NL-ZE",
+      "name": "Zeeland",
+      "type": "Province",
+      "country": "NL"
+    },
+    {
+      "code": "NL-ZH",
+      "name": "Zuid-Holland",
+      "type": "Province",
+      "country": "NL"
+    }
+  ]
+}

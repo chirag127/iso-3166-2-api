@@ -1,0 +1,79 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "MU",
+  "count": 12,
+  "subdivisions": [
+    {
+      "code": "MU-AG",
+      "name": "Agalega Islands",
+      "type": "Dependency",
+      "country": "MU"
+    },
+    {
+      "code": "MU-BL",
+      "name": "Black River",
+      "type": "District",
+      "country": "MU"
+    },
+    {
+      "code": "MU-CC",
+      "name": "Cargados Carajos Shoals",
+      "type": "Dependency",
+      "country": "MU"
+    },
+    {
+      "code": "MU-FL",
+      "name": "Flacq",
+      "type": "District",
+      "country": "MU"
+    },
+    {
+      "code": "MU-GP",
+      "name": "Grand Port",
+      "type": "District",
+      "country": "MU"
+    },
+    {
+      "code": "MU-MO",
+      "name": "Moka",
+      "type": "District",
+      "country": "MU"
+    },
+    {
+      "code": "MU-PA",
+      "name": "Pamplemousses",
+      "type": "District",
+      "country": "MU"
+    },
+    {
+      "code": "MU-PL",
+      "name": "Port Louis",
+      "type": "District",
+      "country": "MU"
+    },
+    {
+      "code": "MU-PW",
+      "name": "Plaines Wilhems",
+      "type": "District",
+      "country": "MU"
+    },
+    {
+      "code": "MU-RO",
+      "name": "Rodrigues Island",
+      "type": "Dependency",
+      "country": "MU"
+    },
+    {
+      "code": "MU-RR",
+      "name": "Rivière du Rempart",
+      "type": "District",
+      "country": "MU"
+    },
+    {
+      "code": "MU-SA",
+      "name": "Savanne",
+      "type": "District",
+      "country": "MU"
+    }
+  ]
+}

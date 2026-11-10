@@ -1,0 +1,139 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "TW",
+  "count": 22,
+  "subdivisions": [
+    {
+      "code": "TW-CHA",
+      "name": "Changhua",
+      "type": "County",
+      "country": "TW"
+    },
+    {
+      "code": "TW-CYI",
+      "name": "Chiayi",
+      "type": "City",
+      "country": "TW"
+    },
+    {
+      "code": "TW-CYQ",
+      "name": "Chiayi",
+      "type": "County",
+      "country": "TW"
+    },
+    {
+      "code": "TW-HSQ",
+      "name": "Hsinchu",
+      "type": "County",
+      "country": "TW"
+    },
+    {
+      "code": "TW-HSZ",
+      "name": "Hsinchu",
+      "type": "City",
+      "country": "TW"
+    },
+    {
+      "code": "TW-HUA",
+      "name": "Hualien",
+      "type": "County",
+      "country": "TW"
+    },
+    {
+      "code": "TW-ILA",
+      "name": "Yilan",
+      "type": "County",
+      "country": "TW"
+    },
+    {
+      "code": "TW-KEE",
+      "name": "Keelung",
+      "type": "City",
+      "country": "TW"
+    },
+    {
+      "code": "TW-KHH",
+      "name": "Kaohsiung",
+      "type": "Special municipality",
+      "country": "TW"
+    },
+    {
+      "code": "TW-KIN",
+      "name": "Kinmen",
+      "type": "County",
+      "country": "TW"
+    },
+    {
+      "code": "TW-LIE",
+      "name": "Lienchiang",
+      "type": "County",
+      "country": "TW"
+    },
+    {
+      "code": "TW-MIA",
+      "name": "Miaoli",
+      "type": "County",
+      "country": "TW"
+    },
+    {
+      "code": "TW-NAN",
+      "name": "Nantou",
+      "type": "County",
+      "country": "TW"
+    },
+    {
+      "code": "TW-NWT",
+      "name": "New Taipei",
+      "type": "Special municipality",
+      "country": "TW"
+    },
+    {
+      "code": "TW-PEN",
+      "name": "Penghu",
+      "type": "County",
+      "country": "TW"
+    },
+    {
+      "code": "TW-PIF",
+      "name": "Pingtung",
+      "type": "County",
+      "country": "TW"
+    },
+    {
+      "code": "TW-TAO",
+      "name": "Taoyuan",
+      "type": "Special municipality",
+      "country": "TW"
+    },
+    {
+      "code": "TW-TNN",
+      "name": "Tainan",
+      "type": "Special municipality",
+      "country": "TW"
+    },
+    {
+      "code": "TW-TPE",
+      "name": "Taipei",
+      "type": "Special municipality",
+      "country": "TW"
+    },
+    {
+      "code": "TW-TTT",
+      "name": "Taitung",
+      "type": "County",
+      "country": "TW"
+    },
+    {
+      "code": "TW-TXG",
+      "name": "Taichung",
+      "type": "Special municipality",
+      "country": "TW"
+    },
+    {
+      "code": "TW-YUN",
+      "name": "Yunlin",
+      "type": "County",
+      "country": "TW"
+    }
+  ]
+}

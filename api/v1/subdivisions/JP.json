@@ -1,0 +1,289 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "JP",
+  "count": 47,
+  "subdivisions": [
+    {
+      "code": "JP-01",
+      "name": "Hokkaido",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-02",
+      "name": "Aomori",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-03",
+      "name": "Iwate",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-04",
+      "name": "Miyagi",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-05",
+      "name": "Akita",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-06",
+      "name": "Yamagata",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-07",
+      "name": "Fukushima",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-08",
+      "name": "Ibaraki",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-09",
+      "name": "Tochigi",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-10",
+      "name": "Gunma",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-11",
+      "name": "Saitama",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-12",
+      "name": "Chiba",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-13",
+      "name": "Tokyo",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-14",
+      "name": "Kanagawa",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-15",
+      "name": "Niigata",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-16",
+      "name": "Toyama",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-17",
+      "name": "Ishikawa",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-18",
+      "name": "Fukui",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-19",
+      "name": "Yamanashi",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-20",
+      "name": "Nagano",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-21",
+      "name": "Gifu",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-22",
+      "name": "Shizuoka",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-23",
+      "name": "Aichi",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-24",
+      "name": "Mie",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-25",
+      "name": "Shiga",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-26",
+      "name": "Kyoto",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-27",
+      "name": "Osaka",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-28",
+      "name": "Hyogo",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-29",
+      "name": "Nara",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-30",
+      "name": "Wakayama",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-31",
+      "name": "Tottori",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-32",
+      "name": "Shimane",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-33",
+      "name": "Okayama",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-34",
+      "name": "Hiroshima",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-35",
+      "name": "Yamaguchi",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-36",
+      "name": "Tokushima",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-37",
+      "name": "Kagawa",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-38",
+      "name": "Ehime",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-39",
+      "name": "Kochi",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-40",
+      "name": "Fukuoka",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-41",
+      "name": "Saga",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-42",
+      "name": "Nagasaki",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-43",
+      "name": "Kumamoto",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-44",
+      "name": "Oita",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-45",
+      "name": "Miyazaki",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-46",
+      "name": "Kagoshima",
+      "type": "Prefecture",
+      "country": "JP"
+    },
+    {
+      "code": "JP-47",
+      "name": "Okinawa",
+      "type": "Prefecture",
+      "country": "JP"
+    }
+  ]
+}

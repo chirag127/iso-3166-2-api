@@ -1,0 +1,97 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "LR",
+  "count": 15,
+  "subdivisions": [
+    {
+      "code": "LR-BG",
+      "name": "Bong",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-BM",
+      "name": "Bomi",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-CM",
+      "name": "Grand Cape Mount",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-GB",
+      "name": "Grand Bassa",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-GG",
+      "name": "Grand Gedeh",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-GK",
+      "name": "Grand Kru",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-GP",
+      "name": "Gbarpolu",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-LO",
+      "name": "Lofa",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-MG",
+      "name": "Margibi",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-MO",
+      "name": "Montserrado",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-MY",
+      "name": "Maryland",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-NI",
+      "name": "Nimba",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-RG",
+      "name": "River Gee",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-RI",
+      "name": "River Cess",
+      "type": "County",
+      "country": "LR"
+    },
+    {
+      "code": "LR-SI",
+      "name": "Sinoe",
+      "type": "County",
+      "country": "LR"
+    }
+  ]
+}

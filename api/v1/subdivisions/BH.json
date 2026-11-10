@@ -1,0 +1,31 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BH",
+  "count": 4,
+  "subdivisions": [
+    {
+      "code": "BH-13",
+      "name": "Al ‘Āşimah",
+      "type": "Governorate",
+      "country": "BH"
+    },
+    {
+      "code": "BH-14",
+      "name": "Al Janūbīyah",
+      "type": "Governorate",
+      "country": "BH"
+    },
+    {
+      "code": "BH-15",
+      "name": "Al Muḩarraq",
+      "type": "Governorate",
+      "country": "BH"
+    },
+    {
+      "code": "BH-17",
+      "name": "Ash Shamālīyah",
+      "type": "Governorate",
+      "country": "BH"
+    }
+  ]
+}

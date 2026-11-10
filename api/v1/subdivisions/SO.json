@@ -1,0 +1,115 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SO",
+  "count": 18,
+  "subdivisions": [
+    {
+      "code": "SO-AW",
+      "name": "Awdal",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-BK",
+      "name": "Bakool",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-BN",
+      "name": "Banaadir",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-BR",
+      "name": "Bari",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-BY",
+      "name": "Bay",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-GA",
+      "name": "Galguduud",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-GE",
+      "name": "Gedo",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-HI",
+      "name": "Hiiraan",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-JD",
+      "name": "Jubbada Dhexe",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-JH",
+      "name": "Jubbada Hoose",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-MU",
+      "name": "Mudug",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-NU",
+      "name": "Nugaal",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-SA",
+      "name": "Sanaag",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-SD",
+      "name": "Shabeellaha Dhexe",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-SH",
+      "name": "Shabeellaha Hoose",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-SO",
+      "name": "Sool",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-TO",
+      "name": "Togdheer",
+      "type": "Region",
+      "country": "SO"
+    },
+    {
+      "code": "SO-WO",
+      "name": "Woqooyi Galbeed",
+      "type": "Region",
+      "country": "SO"
+    }
+  ]
+}

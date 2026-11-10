@@ -1,0 +1,157 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "ME",
+  "count": 25,
+  "subdivisions": [
+    {
+      "code": "ME-01",
+      "name": "Andrijevica",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-02",
+      "name": "Bar",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-03",
+      "name": "Berane",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-04",
+      "name": "Bijelo Polje",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-05",
+      "name": "Budva",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-06",
+      "name": "Cetinje",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-07",
+      "name": "Danilovgrad",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-08",
+      "name": "Herceg-Novi",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-09",
+      "name": "Kolašin",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-10",
+      "name": "Kotor",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-11",
+      "name": "Mojkovac",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-12",
+      "name": "Nikšić",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-13",
+      "name": "Plav",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-14",
+      "name": "Pljevlja",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-15",
+      "name": "Plužine",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-16",
+      "name": "Podgorica",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-17",
+      "name": "Rožaje",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-18",
+      "name": "Šavnik",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-19",
+      "name": "Tivat",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-20",
+      "name": "Ulcinj",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-21",
+      "name": "Žabljak",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-22",
+      "name": "Gusinje",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-23",
+      "name": "Petnjica",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-24",
+      "name": "Tuzi",
+      "type": "Municipality",
+      "country": "ME"
+    },
+    {
+      "code": "ME-25",
+      "name": "Zeta",
+      "type": "Municipality",
+      "country": "ME"
+    }
+  ]
+}

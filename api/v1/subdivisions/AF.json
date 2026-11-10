@@ -1,0 +1,211 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "AF",
+  "count": 34,
+  "subdivisions": [
+    {
+      "code": "AF-BAL",
+      "name": "Balkh",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-BAM",
+      "name": "Bāmyān",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-BDG",
+      "name": "Bādghīs",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-BDS",
+      "name": "Badakhshān",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-BGL",
+      "name": "Baghlān",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-DAY",
+      "name": "Dāykundī",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-FRA",
+      "name": "Farāh",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-FYB",
+      "name": "Fāryāb",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-GHA",
+      "name": "Ghaznī",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-GHO",
+      "name": "Ghōr",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-HEL",
+      "name": "Helmand",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-HER",
+      "name": "Herāt",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-JOW",
+      "name": "Jowzjān",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-KAB",
+      "name": "Kābul",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-KAN",
+      "name": "Kandahār",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-KAP",
+      "name": "Kāpīsā",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-KDZ",
+      "name": "Kunduz",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-KHO",
+      "name": "Khōst",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-KNR",
+      "name": "Kunaṟ",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-LAG",
+      "name": "Laghmān",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-LOG",
+      "name": "Lōgar",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-NAN",
+      "name": "Nangarhār",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-NIM",
+      "name": "Nīmrōz",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-NUR",
+      "name": "Nūristān",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-PAN",
+      "name": "Panjshayr",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-PAR",
+      "name": "Parwān",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-PIA",
+      "name": "Paktiyā",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-PKA",
+      "name": "Paktīkā",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-SAM",
+      "name": "Samangān",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-SAR",
+      "name": "Sar-e Pul",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-TAK",
+      "name": "Takhār",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-URU",
+      "name": "Uruzgān",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-WAR",
+      "name": "Wardak",
+      "type": "Province",
+      "country": "AF"
+    },
+    {
+      "code": "AF-ZAB",
+      "name": "Zābul",
+      "type": "Province",
+      "country": "AF"
+    }
+  ]
+}

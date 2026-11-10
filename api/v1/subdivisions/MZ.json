@@ -1,0 +1,73 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "MZ",
+  "count": 11,
+  "subdivisions": [
+    {
+      "code": "MZ-A",
+      "name": "Niassa",
+      "type": "Province",
+      "country": "MZ"
+    },
+    {
+      "code": "MZ-B",
+      "name": "Manica",
+      "type": "Province",
+      "country": "MZ"
+    },
+    {
+      "code": "MZ-G",
+      "name": "Gaza",
+      "type": "Province",
+      "country": "MZ"
+    },
+    {
+      "code": "MZ-I",
+      "name": "Inhambane",
+      "type": "Province",
+      "country": "MZ"
+    },
+    {
+      "code": "MZ-L",
+      "name": "Maputo",
+      "type": "Province",
+      "country": "MZ"
+    },
+    {
+      "code": "MZ-MPM",
+      "name": "Maputo",
+      "type": "City",
+      "country": "MZ"
+    },
+    {
+      "code": "MZ-N",
+      "name": "Nampula",
+      "type": "Province",
+      "country": "MZ"
+    },
+    {
+      "code": "MZ-P",
+      "name": "Cabo Delgado",
+      "type": "Province",
+      "country": "MZ"
+    },
+    {
+      "code": "MZ-Q",
+      "name": "Zambézia",
+      "type": "Province",
+      "country": "MZ"
+    },
+    {
+      "code": "MZ-S",
+      "name": "Sofala",
+      "type": "Province",
+      "country": "MZ"
+    },
+    {
+      "code": "MZ-T",
+      "name": "Tete",
+      "type": "Province",
+      "country": "MZ"
+    }
+  ]
+}

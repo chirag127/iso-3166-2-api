@@ -1,0 +1,127 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "PT",
+  "count": 20,
+  "subdivisions": [
+    {
+      "code": "PT-01",
+      "name": "Aveiro",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-02",
+      "name": "Beja",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-03",
+      "name": "Braga",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-04",
+      "name": "Bragança",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-05",
+      "name": "Castelo Branco",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-06",
+      "name": "Coimbra",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-07",
+      "name": "Évora",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-08",
+      "name": "Faro",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-09",
+      "name": "Guarda",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-10",
+      "name": "Leiria",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-11",
+      "name": "Lisboa",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-12",
+      "name": "Portalegre",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-13",
+      "name": "Porto",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-14",
+      "name": "Santarém",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-15",
+      "name": "Setúbal",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-16",
+      "name": "Viana do Castelo",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-17",
+      "name": "Vila Real",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-18",
+      "name": "Viseu",
+      "type": "District",
+      "country": "PT"
+    },
+    {
+      "code": "PT-20",
+      "name": "Região Autónoma dos Açores",
+      "type": "Autonomous region",
+      "country": "PT"
+    },
+    {
+      "code": "PT-30",
+      "name": "Região Autónoma da Madeira",
+      "type": "Autonomous region",
+      "country": "PT"
+    }
+  ]
+}

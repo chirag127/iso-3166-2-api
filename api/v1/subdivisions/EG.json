@@ -1,0 +1,169 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "EG",
+  "count": 27,
+  "subdivisions": [
+    {
+      "code": "EG-ALX",
+      "name": "Al Iskandarīyah",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-ASN",
+      "name": "Aswān",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-AST",
+      "name": "Asyūţ",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-BA",
+      "name": "Al Baḩr al Aḩmar",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-BH",
+      "name": "Al Buḩayrah",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-BNS",
+      "name": "Banī Suwayf",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-C",
+      "name": "Al Qāhirah",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-DK",
+      "name": "Ad Daqahlīyah",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-DT",
+      "name": "Dumyāţ",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-FYM",
+      "name": "Al Fayyūm",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-GH",
+      "name": "Al Gharbīyah",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-GZ",
+      "name": "Al Jīzah",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-IS",
+      "name": "Al Ismā'īlīyah",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-JS",
+      "name": "Janūb Sīnā'",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-KB",
+      "name": "Al Qalyūbīyah",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-KFS",
+      "name": "Kafr ash Shaykh",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-KN",
+      "name": "Qinā",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-LX",
+      "name": "Al Uqşur",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-MN",
+      "name": "Al Minyā",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-MNF",
+      "name": "Al Minūfīyah",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-MT",
+      "name": "Maţrūḩ",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-PTS",
+      "name": "Būr Sa‘īd",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-SHG",
+      "name": "Sūhāj",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-SHR",
+      "name": "Ash Sharqīyah",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-SIN",
+      "name": "Shamāl Sīnā'",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-SUZ",
+      "name": "As Suways",
+      "type": "Governorate",
+      "country": "EG"
+    },
+    {
+      "code": "EG-WAD",
+      "name": "Al Wādī al Jadīd",
+      "type": "Governorate",
+      "country": "EG"
+    }
+  ]
+}

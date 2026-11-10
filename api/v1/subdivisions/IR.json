@@ -1,0 +1,193 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "IR",
+  "count": 31,
+  "subdivisions": [
+    {
+      "code": "IR-00",
+      "name": "Markazī",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-01",
+      "name": "Gīlān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-02",
+      "name": "Māzandarān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-03",
+      "name": "Āz̄ārbāyjān-e Shārqī",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-04",
+      "name": "Āz̄ārbāyjān-e Ghārbī",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-05",
+      "name": "Kermānshāh",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-06",
+      "name": "Khūzestān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-07",
+      "name": "Fārs",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-08",
+      "name": "Kermān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-09",
+      "name": "Khorāsān-e Raẕavī",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-10",
+      "name": "Eşfahān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-11",
+      "name": "Sīstān va Balūchestān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-12",
+      "name": "Kordestān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-13",
+      "name": "Hamadān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-14",
+      "name": "Chahār Maḩāl va Bakhtīārī",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-15",
+      "name": "Lorestān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-16",
+      "name": "Īlām",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-17",
+      "name": "Kohgīlūyeh va Bowyer Aḩmad",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-18",
+      "name": "Būshehr",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-19",
+      "name": "Zanjān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-20",
+      "name": "Semnān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-21",
+      "name": "Yazd",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-22",
+      "name": "Hormozgān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-23",
+      "name": "Tehrān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-24",
+      "name": "Ardabīl",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-25",
+      "name": "Qom",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-26",
+      "name": "Qazvīn",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-27",
+      "name": "Golestān",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-28",
+      "name": "Khorāsān-e Shomālī",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-29",
+      "name": "Khorāsān-e Jonūbī",
+      "type": "Province",
+      "country": "IR"
+    },
+    {
+      "code": "IR-30",
+      "name": "Alborz",
+      "type": "Province",
+      "country": "IR"
+    }
+  ]
+}

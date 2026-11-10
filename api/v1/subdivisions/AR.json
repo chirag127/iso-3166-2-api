@@ -1,0 +1,151 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "AR",
+  "count": 24,
+  "subdivisions": [
+    {
+      "code": "AR-A",
+      "name": "Salta",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-B",
+      "name": "Buenos Aires",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-C",
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "type": "City",
+      "country": "AR"
+    },
+    {
+      "code": "AR-D",
+      "name": "San Luis",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-E",
+      "name": "Entre Ríos",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-F",
+      "name": "La Rioja",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-G",
+      "name": "Santiago del Estero",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-H",
+      "name": "Chaco",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-J",
+      "name": "San Juan",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-K",
+      "name": "Catamarca",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-L",
+      "name": "La Pampa",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-M",
+      "name": "Mendoza",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-N",
+      "name": "Misiones",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-P",
+      "name": "Formosa",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-Q",
+      "name": "Neuquén",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-R",
+      "name": "Río Negro",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-S",
+      "name": "Santa Fe",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-T",
+      "name": "Tucumán",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-U",
+      "name": "Chubut",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-V",
+      "name": "Tierra del Fuego",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-W",
+      "name": "Corrientes",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-X",
+      "name": "Córdoba",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-Y",
+      "name": "Jujuy",
+      "type": "Province",
+      "country": "AR"
+    },
+    {
+      "code": "AR-Z",
+      "name": "Santa Cruz",
+      "type": "Province",
+      "country": "AR"
+    }
+  ]
+}

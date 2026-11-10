@@ -1,0 +1,103 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BW",
+  "count": 16,
+  "subdivisions": [
+    {
+      "code": "BW-CE",
+      "name": "Central",
+      "type": "District",
+      "country": "BW"
+    },
+    {
+      "code": "BW-CH",
+      "name": "Chobe",
+      "type": "District",
+      "country": "BW"
+    },
+    {
+      "code": "BW-FR",
+      "name": "Francistown",
+      "type": "City",
+      "country": "BW"
+    },
+    {
+      "code": "BW-GA",
+      "name": "Gaborone",
+      "type": "City",
+      "country": "BW"
+    },
+    {
+      "code": "BW-GH",
+      "name": "Ghanzi",
+      "type": "District",
+      "country": "BW"
+    },
+    {
+      "code": "BW-JW",
+      "name": "Jwaneng",
+      "type": "Town",
+      "country": "BW"
+    },
+    {
+      "code": "BW-KG",
+      "name": "Kgalagadi",
+      "type": "District",
+      "country": "BW"
+    },
+    {
+      "code": "BW-KL",
+      "name": "Kgatleng",
+      "type": "District",
+      "country": "BW"
+    },
+    {
+      "code": "BW-KW",
+      "name": "Kweneng",
+      "type": "District",
+      "country": "BW"
+    },
+    {
+      "code": "BW-LO",
+      "name": "Lobatse",
+      "type": "Town",
+      "country": "BW"
+    },
+    {
+      "code": "BW-NE",
+      "name": "North East",
+      "type": "District",
+      "country": "BW"
+    },
+    {
+      "code": "BW-NW",
+      "name": "North West",
+      "type": "District",
+      "country": "BW"
+    },
+    {
+      "code": "BW-SE",
+      "name": "South East",
+      "type": "District",
+      "country": "BW"
+    },
+    {
+      "code": "BW-SO",
+      "name": "Southern",
+      "type": "District",
+      "country": "BW"
+    },
+    {
+      "code": "BW-SP",
+      "name": "Selibe Phikwe",
+      "type": "Town",
+      "country": "BW"
+    },
+    {
+      "code": "BW-ST",
+      "name": "Sowa Town",
+      "type": "Town",
+      "country": "BW"
+    }
+  ]
+}

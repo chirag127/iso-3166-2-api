@@ -1,0 +1,139 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "PG",
+  "count": 22,
+  "subdivisions": [
+    {
+      "code": "PG-CPK",
+      "name": "Chimbu",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-CPM",
+      "name": "Central",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-EBR",
+      "name": "East New Britain",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-EHG",
+      "name": "Eastern Highlands",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-EPW",
+      "name": "Enga",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-ESW",
+      "name": "East Sepik",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-GPK",
+      "name": "Gulf",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-HLA",
+      "name": "Hela",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-JWK",
+      "name": "Jiwaka",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-MBA",
+      "name": "Milne Bay",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-MPL",
+      "name": "Morobe",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-MPM",
+      "name": "Madang",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-MRL",
+      "name": "Manus",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-NCD",
+      "name": "National Capital District (Port Moresby)",
+      "type": "District",
+      "country": "PG"
+    },
+    {
+      "code": "PG-NIK",
+      "name": "New Ireland",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-NPP",
+      "name": "Northern",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-NSB",
+      "name": "Bougainville",
+      "type": "Autonomous region",
+      "country": "PG"
+    },
+    {
+      "code": "PG-SAN",
+      "name": "West Sepik",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-SHM",
+      "name": "Southern Highlands",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-WBK",
+      "name": "West New Britain",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-WHM",
+      "name": "Western Highlands",
+      "type": "Province",
+      "country": "PG"
+    },
+    {
+      "code": "PG-WPD",
+      "name": "Western",
+      "type": "Province",
+      "country": "PG"
+    }
+  ]
+}

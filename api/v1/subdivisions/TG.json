@@ -1,0 +1,37 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "TG",
+  "count": 5,
+  "subdivisions": [
+    {
+      "code": "TG-C",
+      "name": "Centrale",
+      "type": "Region",
+      "country": "TG"
+    },
+    {
+      "code": "TG-K",
+      "name": "Kara",
+      "type": "Region",
+      "country": "TG"
+    },
+    {
+      "code": "TG-M",
+      "name": "Maritime (Région)",
+      "type": "Region",
+      "country": "TG"
+    },
+    {
+      "code": "TG-P",
+      "name": "Plateaux",
+      "type": "Region",
+      "country": "TG"
+    },
+    {
+      "code": "TG-S",
+      "name": "Savanes",
+      "type": "Region",
+      "country": "TG"
+    }
+  ]
+}

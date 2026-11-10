@@ -1,0 +1,73 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "AM",
+  "count": 11,
+  "subdivisions": [
+    {
+      "code": "AM-AG",
+      "name": "Aragac̣otn",
+      "type": "Region",
+      "country": "AM"
+    },
+    {
+      "code": "AM-AR",
+      "name": "Ararat",
+      "type": "Region",
+      "country": "AM"
+    },
+    {
+      "code": "AM-AV",
+      "name": "Armavir",
+      "type": "Region",
+      "country": "AM"
+    },
+    {
+      "code": "AM-ER",
+      "name": "Erevan",
+      "type": "City",
+      "country": "AM"
+    },
+    {
+      "code": "AM-GR",
+      "name": "Geġark'unik'",
+      "type": "Region",
+      "country": "AM"
+    },
+    {
+      "code": "AM-KT",
+      "name": "Kotayk'",
+      "type": "Region",
+      "country": "AM"
+    },
+    {
+      "code": "AM-LO",
+      "name": "Loṙi",
+      "type": "Region",
+      "country": "AM"
+    },
+    {
+      "code": "AM-SH",
+      "name": "Širak",
+      "type": "Region",
+      "country": "AM"
+    },
+    {
+      "code": "AM-SU",
+      "name": "Syunik'",
+      "type": "Region",
+      "country": "AM"
+    },
+    {
+      "code": "AM-TV",
+      "name": "Tavuš",
+      "type": "Region",
+      "country": "AM"
+    },
+    {
+      "code": "AM-VD",
+      "name": "Vayoć Jor",
+      "type": "Region",
+      "country": "AM"
+    }
+  ]
+}

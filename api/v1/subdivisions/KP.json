@@ -1,0 +1,85 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "KP",
+  "count": 13,
+  "subdivisions": [
+    {
+      "code": "KP-01",
+      "name": "Phyeongyang",
+      "type": "Capital city",
+      "country": "KP"
+    },
+    {
+      "code": "KP-02",
+      "name": "Phyeongannamto",
+      "type": "Province",
+      "country": "KP"
+    },
+    {
+      "code": "KP-03",
+      "name": "Phyeonganpukto",
+      "type": "Province",
+      "country": "KP"
+    },
+    {
+      "code": "KP-04",
+      "name": "Jakangto",
+      "type": "Province",
+      "country": "KP"
+    },
+    {
+      "code": "KP-05",
+      "name": "Hwanghainamto",
+      "type": "Province",
+      "country": "KP"
+    },
+    {
+      "code": "KP-06",
+      "name": "Hwanghaipukto",
+      "type": "Province",
+      "country": "KP"
+    },
+    {
+      "code": "KP-07",
+      "name": "Kangweonto",
+      "type": "Province",
+      "country": "KP"
+    },
+    {
+      "code": "KP-08",
+      "name": "Hamkyeongnamto",
+      "type": "Province",
+      "country": "KP"
+    },
+    {
+      "code": "KP-09",
+      "name": "Hamkyeongpukto",
+      "type": "Province",
+      "country": "KP"
+    },
+    {
+      "code": "KP-10",
+      "name": "Ryangkangto",
+      "type": "Province",
+      "country": "KP"
+    },
+    {
+      "code": "KP-13",
+      "name": "Raseon",
+      "type": "Special city",
+      "country": "KP"
+    },
+    {
+      "code": "KP-14",
+      "name": "Nampho",
+      "type": "Metropolitan city",
+      "country": "KP"
+    },
+    {
+      "code": "KP-15",
+      "name": "Kaeseong",
+      "type": "Metropolitan city",
+      "country": "KP"
+    }
+  ]
+}

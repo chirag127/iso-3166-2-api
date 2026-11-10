@@ -1,0 +1,121 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "UY",
+  "count": 19,
+  "subdivisions": [
+    {
+      "code": "UY-AR",
+      "name": "Artigas",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-CA",
+      "name": "Canelones",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-CL",
+      "name": "Cerro Largo",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-CO",
+      "name": "Colonia",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-DU",
+      "name": "Durazno",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-FD",
+      "name": "Florida",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-FS",
+      "name": "Flores",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-LA",
+      "name": "Lavalleja",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-MA",
+      "name": "Maldonado",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-MO",
+      "name": "Montevideo",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-PA",
+      "name": "Paysandú",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-RN",
+      "name": "Río Negro",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-RO",
+      "name": "Rocha",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-RV",
+      "name": "Rivera",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-SA",
+      "name": "Salto",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-SJ",
+      "name": "San José",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-SO",
+      "name": "Soriano",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-TA",
+      "name": "Tacuarembó",
+      "type": "Department",
+      "country": "UY"
+    },
+    {
+      "code": "UY-TT",
+      "name": "Treinta y Tres",
+      "type": "Department",
+      "country": "UY"
+    }
+  ]
+}

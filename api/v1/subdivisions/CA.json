@@ -1,0 +1,85 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "CA",
+  "count": 13,
+  "subdivisions": [
+    {
+      "code": "CA-AB",
+      "name": "Alberta",
+      "type": "Province",
+      "country": "CA"
+    },
+    {
+      "code": "CA-BC",
+      "name": "British Columbia",
+      "type": "Province",
+      "country": "CA"
+    },
+    {
+      "code": "CA-MB",
+      "name": "Manitoba",
+      "type": "Province",
+      "country": "CA"
+    },
+    {
+      "code": "CA-NB",
+      "name": "New Brunswick",
+      "type": "Province",
+      "country": "CA"
+    },
+    {
+      "code": "CA-NL",
+      "name": "Newfoundland and Labrador",
+      "type": "Province",
+      "country": "CA"
+    },
+    {
+      "code": "CA-NS",
+      "name": "Nova Scotia",
+      "type": "Province",
+      "country": "CA"
+    },
+    {
+      "code": "CA-NT",
+      "name": "Northwest Territories",
+      "type": "Territory",
+      "country": "CA"
+    },
+    {
+      "code": "CA-NU",
+      "name": "Nunavut",
+      "type": "Territory",
+      "country": "CA"
+    },
+    {
+      "code": "CA-ON",
+      "name": "Ontario",
+      "type": "Province",
+      "country": "CA"
+    },
+    {
+      "code": "CA-PE",
+      "name": "Prince Edward Island",
+      "type": "Province",
+      "country": "CA"
+    },
+    {
+      "code": "CA-QC",
+      "name": "Quebec",
+      "type": "Province",
+      "country": "CA"
+    },
+    {
+      "code": "CA-SK",
+      "name": "Saskatchewan",
+      "type": "Province",
+      "country": "CA"
+    },
+    {
+      "code": "CA-YT",
+      "name": "Yukon",
+      "type": "Territory",
+      "country": "CA"
+    }
+  ]
+}

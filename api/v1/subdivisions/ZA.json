@@ -1,0 +1,61 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "ZA",
+  "count": 9,
+  "subdivisions": [
+    {
+      "code": "ZA-EC",
+      "name": "Eastern Cape",
+      "type": "Province",
+      "country": "ZA"
+    },
+    {
+      "code": "ZA-FS",
+      "name": "Free State",
+      "type": "Province",
+      "country": "ZA"
+    },
+    {
+      "code": "ZA-GP",
+      "name": "Gauteng",
+      "type": "Province",
+      "country": "ZA"
+    },
+    {
+      "code": "ZA-KZN",
+      "name": "Kwazulu-Natal",
+      "type": "Province",
+      "country": "ZA"
+    },
+    {
+      "code": "ZA-LP",
+      "name": "Limpopo",
+      "type": "Province",
+      "country": "ZA"
+    },
+    {
+      "code": "ZA-MP",
+      "name": "Mpumalanga",
+      "type": "Province",
+      "country": "ZA"
+    },
+    {
+      "code": "ZA-NC",
+      "name": "Northern Cape",
+      "type": "Province",
+      "country": "ZA"
+    },
+    {
+      "code": "ZA-NW",
+      "name": "North-West",
+      "type": "Province",
+      "country": "ZA"
+    },
+    {
+      "code": "ZA-WC",
+      "name": "Western Cape",
+      "type": "Province",
+      "country": "ZA"
+    }
+  ]
+}

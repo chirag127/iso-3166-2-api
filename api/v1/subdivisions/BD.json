@@ -1,0 +1,439 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BD",
+  "count": 72,
+  "subdivisions": [
+    {
+      "code": "BD-01",
+      "name": "Bandarban",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-02",
+      "name": "Barguna",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-03",
+      "name": "Bogura",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-04",
+      "name": "Brahmanbaria",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-05",
+      "name": "Bagerhat",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-06",
+      "name": "Barishal",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-07",
+      "name": "Bhola",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-08",
+      "name": "Cumilla",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-09",
+      "name": "Chandpur",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-10",
+      "name": "Chattogram",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-11",
+      "name": "Cox's Bazar",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-12",
+      "name": "Chuadanga",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-13",
+      "name": "Dhaka",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-14",
+      "name": "Dinajpur",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-15",
+      "name": "Faridpur",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-16",
+      "name": "Feni",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-17",
+      "name": "Gopalganj",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-18",
+      "name": "Gazipur",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-19",
+      "name": "Gaibandha",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-20",
+      "name": "Habiganj",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-21",
+      "name": "Jamalpur",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-22",
+      "name": "Jashore",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-23",
+      "name": "Jhenaidah",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-24",
+      "name": "Joypurhat",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-25",
+      "name": "Jhalakathi",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-26",
+      "name": "Kishoreganj",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-27",
+      "name": "Khulna",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-28",
+      "name": "Kurigram",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-29",
+      "name": "Khagrachhari",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-30",
+      "name": "Kushtia",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-31",
+      "name": "Lakshmipur",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-32",
+      "name": "Lalmonirhat",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-33",
+      "name": "Manikganj",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-34",
+      "name": "Mymensingh",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-35",
+      "name": "Munshiganj",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-36",
+      "name": "Madaripur",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-37",
+      "name": "Magura",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-38",
+      "name": "Moulvibazar",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-39",
+      "name": "Meherpur",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-40",
+      "name": "Narayanganj",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-41",
+      "name": "Netrakona",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-42",
+      "name": "Narsingdi",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-43",
+      "name": "Narail",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-44",
+      "name": "Natore",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-45",
+      "name": "Chapai Nawabganj",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-46",
+      "name": "Nilphamari",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-47",
+      "name": "Noakhali",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-48",
+      "name": "Naogaon",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-49",
+      "name": "Pabna",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-50",
+      "name": "Pirojpur",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-51",
+      "name": "Patuakhali",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-52",
+      "name": "Panchagarh",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-53",
+      "name": "Rajbari",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-54",
+      "name": "Rajshahi",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-55",
+      "name": "Rangpur",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-56",
+      "name": "Rangamati",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-57",
+      "name": "Sherpur",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-58",
+      "name": "Satkhira",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-59",
+      "name": "Sirajganj",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-60",
+      "name": "Sylhet",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-61",
+      "name": "Sunamganj",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-62",
+      "name": "Shariatpur",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-63",
+      "name": "Tangail",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-64",
+      "name": "Thakurgaon",
+      "type": "District",
+      "country": "BD"
+    },
+    {
+      "code": "BD-A",
+      "name": "Barishal",
+      "type": "Division",
+      "country": "BD"
+    },
+    {
+      "code": "BD-B",
+      "name": "Chattogram",
+      "type": "Division",
+      "country": "BD"
+    },
+    {
+      "code": "BD-C",
+      "name": "Dhaka",
+      "type": "Division",
+      "country": "BD"
+    },
+    {
+      "code": "BD-D",
+      "name": "Khulna",
+      "type": "Division",
+      "country": "BD"
+    },
+    {
+      "code": "BD-E",
+      "name": "Rajshahi",
+      "type": "Division",
+      "country": "BD"
+    },
+    {
+      "code": "BD-F",
+      "name": "Rangpur",
+      "type": "Division",
+      "country": "BD"
+    },
+    {
+      "code": "BD-G",
+      "name": "Sylhet",
+      "type": "Division",
+      "country": "BD"
+    },
+    {
+      "code": "BD-H",
+      "name": "Mymensingh",
+      "type": "Division",
+      "country": "BD"
+    }
+  ]
+}

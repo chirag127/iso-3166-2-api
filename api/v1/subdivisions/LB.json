@@ -1,0 +1,55 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "LB",
+  "count": 8,
+  "subdivisions": [
+    {
+      "code": "LB-AK",
+      "name": "‘Akkār",
+      "type": "Governorate",
+      "country": "LB"
+    },
+    {
+      "code": "LB-AS",
+      "name": "Ash Shimāl",
+      "type": "Governorate",
+      "country": "LB"
+    },
+    {
+      "code": "LB-BA",
+      "name": "Bayrūt",
+      "type": "Governorate",
+      "country": "LB"
+    },
+    {
+      "code": "LB-BH",
+      "name": "B‘alabak-Al Hirmil",
+      "type": "Governorate",
+      "country": "LB"
+    },
+    {
+      "code": "LB-BI",
+      "name": "Al Biqā‘",
+      "type": "Governorate",
+      "country": "LB"
+    },
+    {
+      "code": "LB-JA",
+      "name": "Al Janūb",
+      "type": "Governorate",
+      "country": "LB"
+    },
+    {
+      "code": "LB-JL",
+      "name": "Jabal Lubnān",
+      "type": "Governorate",
+      "country": "LB"
+    },
+    {
+      "code": "LB-NA",
+      "name": "An Nabaţīyah",
+      "type": "Governorate",
+      "country": "LB"
+    }
+  ]
+}

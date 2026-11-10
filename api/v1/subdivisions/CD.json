@@ -1,0 +1,163 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "CD",
+  "count": 26,
+  "subdivisions": [
+    {
+      "code": "CD-BC",
+      "name": "Kongo Central",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-BU",
+      "name": "Bas-Uélé",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-EQ",
+      "name": "Équateur",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-HK",
+      "name": "Haut-Katanga",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-HL",
+      "name": "Haut-Lomami",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-HU",
+      "name": "Haut-Uélé",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-IT",
+      "name": "Ituri",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-KC",
+      "name": "Kasaï Central",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-KE",
+      "name": "Kasaï Oriental",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-KG",
+      "name": "Kwango",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-KL",
+      "name": "Kwilu",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-KN",
+      "name": "Kinshasa",
+      "type": "City",
+      "country": "CD"
+    },
+    {
+      "code": "CD-KS",
+      "name": "Kasaï",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-LO",
+      "name": "Lomami",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-LU",
+      "name": "Lualaba",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-MA",
+      "name": "Maniema",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-MN",
+      "name": "Mai-Ndombe",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-MO",
+      "name": "Mongala",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-NK",
+      "name": "Nord-Kivu",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-NU",
+      "name": "Nord-Ubangi",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-SA",
+      "name": "Sankuru",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-SK",
+      "name": "Sud-Kivu",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-SU",
+      "name": "Sud-Ubangi",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-TA",
+      "name": "Tanganyika",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-TO",
+      "name": "Tshopo",
+      "type": "Province",
+      "country": "CD"
+    },
+    {
+      "code": "CD-TU",
+      "name": "Tshuapa",
+      "type": "Province",
+      "country": "CD"
+    }
+  ]
+}

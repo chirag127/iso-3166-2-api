@@ -1,0 +1,109 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "KR",
+  "count": 17,
+  "subdivisions": [
+    {
+      "code": "KR-11",
+      "name": "Seoul-teukbyeolsi",
+      "type": "Special city",
+      "country": "KR"
+    },
+    {
+      "code": "KR-26",
+      "name": "Busan-gwangyeoksi",
+      "type": "Metropolitan city",
+      "country": "KR"
+    },
+    {
+      "code": "KR-27",
+      "name": "Daegu-gwangyeoksi",
+      "type": "Metropolitan city",
+      "country": "KR"
+    },
+    {
+      "code": "KR-28",
+      "name": "Incheon-gwangyeoksi",
+      "type": "Metropolitan city",
+      "country": "KR"
+    },
+    {
+      "code": "KR-29",
+      "name": "Gwangju-gwangyeoksi",
+      "type": "Metropolitan city",
+      "country": "KR"
+    },
+    {
+      "code": "KR-30",
+      "name": "Daejeon-gwangyeoksi",
+      "type": "Metropolitan city",
+      "country": "KR"
+    },
+    {
+      "code": "KR-31",
+      "name": "Ulsan-gwangyeoksi",
+      "type": "Metropolitan city",
+      "country": "KR"
+    },
+    {
+      "code": "KR-41",
+      "name": "Gyeonggi-do",
+      "type": "Province",
+      "country": "KR"
+    },
+    {
+      "code": "KR-42",
+      "name": "Gangwon-teukbyeoljachido",
+      "type": "Special self-governing province",
+      "country": "KR"
+    },
+    {
+      "code": "KR-43",
+      "name": "Chungcheongbuk-do",
+      "type": "Province",
+      "country": "KR"
+    },
+    {
+      "code": "KR-44",
+      "name": "Chungcheongnam-do",
+      "type": "Province",
+      "country": "KR"
+    },
+    {
+      "code": "KR-45",
+      "name": "Jeollabuk-do",
+      "type": "Province",
+      "country": "KR"
+    },
+    {
+      "code": "KR-46",
+      "name": "Jeollanam-do",
+      "type": "Province",
+      "country": "KR"
+    },
+    {
+      "code": "KR-47",
+      "name": "Gyeongsangbuk-do",
+      "type": "Province",
+      "country": "KR"
+    },
+    {
+      "code": "KR-48",
+      "name": "Gyeongsangnam-do",
+      "type": "Province",
+      "country": "KR"
+    },
+    {
+      "code": "KR-49",
+      "name": "Jeju-teukbyeoljachido",
+      "type": "Special self-governing province",
+      "country": "KR"
+    },
+    {
+      "code": "KR-50",
+      "name": "Sejong",
+      "type": "Special self-governing city",
+      "country": "KR"
+    }
+  ]
+}

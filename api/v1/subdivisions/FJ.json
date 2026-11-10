@@ -1,0 +1,121 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "FJ",
+  "count": 19,
+  "subdivisions": [
+    {
+      "code": "FJ-01",
+      "name": "Ba",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-02",
+      "name": "Bua",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-03",
+      "name": "Cakaudrove",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-04",
+      "name": "Kadavu",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-05",
+      "name": "Lau",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-06",
+      "name": "Lomaiviti",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-07",
+      "name": "Macuata",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-08",
+      "name": "Nadroga and Navosa",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-09",
+      "name": "Naitasiri",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-10",
+      "name": "Namosi",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-11",
+      "name": "Ra",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-12",
+      "name": "Rewa",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-13",
+      "name": "Serua",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-14",
+      "name": "Tailevu",
+      "type": "Province",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-C",
+      "name": "Central",
+      "type": "Division",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-E",
+      "name": "Eastern",
+      "type": "Division",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-N",
+      "name": "Northern",
+      "type": "Division",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-R",
+      "name": "Rotuma",
+      "type": "Dependency",
+      "country": "FJ"
+    },
+    {
+      "code": "FJ-W",
+      "name": "Western",
+      "type": "Division",
+      "country": "FJ"
+    }
+  ]
+}

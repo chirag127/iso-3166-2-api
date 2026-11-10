@@ -1,0 +1,37 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "RW",
+  "count": 5,
+  "subdivisions": [
+    {
+      "code": "RW-01",
+      "name": "City of Kigali",
+      "type": "City",
+      "country": "RW"
+    },
+    {
+      "code": "RW-02",
+      "name": "Eastern",
+      "type": "Province",
+      "country": "RW"
+    },
+    {
+      "code": "RW-03",
+      "name": "Northern",
+      "type": "Province",
+      "country": "RW"
+    },
+    {
+      "code": "RW-04",
+      "name": "Western",
+      "type": "Province",
+      "country": "RW"
+    },
+    {
+      "code": "RW-05",
+      "name": "Southern",
+      "type": "Province",
+      "country": "RW"
+    }
+  ]
+}

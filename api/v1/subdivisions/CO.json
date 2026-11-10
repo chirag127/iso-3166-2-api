@@ -1,0 +1,205 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "CO",
+  "count": 33,
+  "subdivisions": [
+    {
+      "code": "CO-AMA",
+      "name": "Amazonas",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-ANT",
+      "name": "Antioquia",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-ARA",
+      "name": "Arauca",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-ATL",
+      "name": "Atlántico",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-BOL",
+      "name": "Bolívar",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-BOY",
+      "name": "Boyacá",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-CAL",
+      "name": "Caldas",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-CAQ",
+      "name": "Caquetá",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-CAS",
+      "name": "Casanare",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-CAU",
+      "name": "Cauca",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-CES",
+      "name": "Cesar",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-CHO",
+      "name": "Chocó",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-COR",
+      "name": "Córdoba",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-CUN",
+      "name": "Cundinamarca",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-DC",
+      "name": "Distrito Capital de Bogotá",
+      "type": "Capital district",
+      "country": "CO"
+    },
+    {
+      "code": "CO-GUA",
+      "name": "Guainía",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-GUV",
+      "name": "Guaviare",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-HUI",
+      "name": "Huila",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-LAG",
+      "name": "La Guajira",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-MAG",
+      "name": "Magdalena",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-MET",
+      "name": "Meta",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-NAR",
+      "name": "Nariño",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-NSA",
+      "name": "Norte de Santander",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-PUT",
+      "name": "Putumayo",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-QUI",
+      "name": "Quindío",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-RIS",
+      "name": "Risaralda",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-SAN",
+      "name": "Santander",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-SAP",
+      "name": "San Andrés, Providencia y Santa Catalina",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-SUC",
+      "name": "Sucre",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-TOL",
+      "name": "Tolima",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-VAC",
+      "name": "Valle del Cauca",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-VAU",
+      "name": "Vaupés",
+      "type": "Department",
+      "country": "CO"
+    },
+    {
+      "code": "CO-VID",
+      "name": "Vichada",
+      "type": "Department",
+      "country": "CO"
+    }
+  ]
+}

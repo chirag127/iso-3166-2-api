@@ -1,0 +1,103 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "CL",
+  "count": 16,
+  "subdivisions": [
+    {
+      "code": "CL-AI",
+      "name": "Aisén del General Carlos Ibañez del Campo",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-AN",
+      "name": "Antofagasta",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-AP",
+      "name": "Arica y Parinacota",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-AR",
+      "name": "La Araucanía",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-AT",
+      "name": "Atacama",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-BI",
+      "name": "Biobío",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-CO",
+      "name": "Coquimbo",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-LI",
+      "name": "Libertador General Bernardo O'Higgins",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-LL",
+      "name": "Los Lagos",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-LR",
+      "name": "Los Ríos",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-MA",
+      "name": "Magallanes",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-ML",
+      "name": "Maule",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-NB",
+      "name": "Ñuble",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-RM",
+      "name": "Región Metropolitana de Santiago",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-TA",
+      "name": "Tarapacá",
+      "type": "Region",
+      "country": "CL"
+    },
+    {
+      "code": "CL-VS",
+      "name": "Valparaíso",
+      "type": "Region",
+      "country": "CL"
+    }
+  ]
+}

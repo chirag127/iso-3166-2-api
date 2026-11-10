@@ -1,0 +1,133 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SE",
+  "count": 21,
+  "subdivisions": [
+    {
+      "code": "SE-AB",
+      "name": "Stockholms län [SE-01]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-AC",
+      "name": "Västerbottens län [SE-24]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-BD",
+      "name": "Norrbottens län [SE-25]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-C",
+      "name": "Uppsala län [SE-03]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-D",
+      "name": "Södermanlands län [SE-04]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-E",
+      "name": "Östergötlands län [SE-05]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-F",
+      "name": "Jönköpings län [SE-06]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-G",
+      "name": "Kronobergs län [SE-07]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-H",
+      "name": "Kalmar län [SE-08]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-I",
+      "name": "Gotlands län [SE-09]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-K",
+      "name": "Blekinge län [SE-10]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-M",
+      "name": "Skåne län [SE-12]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-N",
+      "name": "Hallands län [SE-13]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-O",
+      "name": "Västra Götalands län [SE-14]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-S",
+      "name": "Värmlands län [SE-17]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-T",
+      "name": "Örebro län [SE-18]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-U",
+      "name": "Västmanlands län [SE-19]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-W",
+      "name": "Dalarnas län [SE-20]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-X",
+      "name": "Gävleborgs län [SE-21]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-Y",
+      "name": "Västernorrlands län [SE-22]",
+      "type": "County",
+      "country": "SE"
+    },
+    {
+      "code": "SE-Z",
+      "name": "Jämtlands län [SE-23]",
+      "type": "County",
+      "country": "SE"
+    }
+  ]
+}

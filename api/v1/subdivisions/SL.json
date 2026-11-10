@@ -1,0 +1,37 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SL",
+  "count": 5,
+  "subdivisions": [
+    {
+      "code": "SL-E",
+      "name": "Eastern",
+      "type": "Province",
+      "country": "SL"
+    },
+    {
+      "code": "SL-N",
+      "name": "Northern",
+      "type": "Province",
+      "country": "SL"
+    },
+    {
+      "code": "SL-NW",
+      "name": "North Western",
+      "type": "Province",
+      "country": "SL"
+    },
+    {
+      "code": "SL-S",
+      "name": "Southern",
+      "type": "Province",
+      "country": "SL"
+    },
+    {
+      "code": "SL-W",
+      "name": "Western Area (Freetown)",
+      "type": "Area",
+      "country": "SL"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "TV",
+  "count": 8,
+  "subdivisions": [
+    {
+      "code": "TV-FUN",
+      "name": "Funafuti",
+      "type": "Town council",
+      "country": "TV"
+    },
+    {
+      "code": "TV-NIT",
+      "name": "Niutao",
+      "type": "Island council",
+      "country": "TV"
+    },
+    {
+      "code": "TV-NKF",
+      "name": "Nukufetau",
+      "type": "Island council",
+      "country": "TV"
+    },
+    {
+      "code": "TV-NKL",
+      "name": "Nukulaelae",
+      "type": "Island council",
+      "country": "TV"
+    },
+    {
+      "code": "TV-NMA",
+      "name": "Nanumea",
+      "type": "Island council",
+      "country": "TV"
+    },
+    {
+      "code": "TV-NMG",
+      "name": "Nanumaga",
+      "type": "Island council",
+      "country": "TV"
+    },
+    {
+      "code": "TV-NUI",
+      "name": "Nui",
+      "type": "Island council",
+      "country": "TV"
+    },
+    {
+      "code": "TV-VAI",
+      "name": "Vaitupu",
+      "type": "Island council",
+      "country": "TV"
+    }
+  ]
+}

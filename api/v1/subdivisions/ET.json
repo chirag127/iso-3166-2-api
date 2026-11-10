@@ -1,0 +1,85 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "ET",
+  "count": 13,
+  "subdivisions": [
+    {
+      "code": "ET-AA",
+      "name": "Addis Ababa",
+      "type": "Administration",
+      "country": "ET"
+    },
+    {
+      "code": "ET-AF",
+      "name": "Afar",
+      "type": "Regional state",
+      "country": "ET"
+    },
+    {
+      "code": "ET-AM",
+      "name": "Amara",
+      "type": "Regional state",
+      "country": "ET"
+    },
+    {
+      "code": "ET-BE",
+      "name": "Benshangul-Gumaz",
+      "type": "Regional state",
+      "country": "ET"
+    },
+    {
+      "code": "ET-DD",
+      "name": "Dire Dawa",
+      "type": "Administration",
+      "country": "ET"
+    },
+    {
+      "code": "ET-GA",
+      "name": "Gambela Peoples",
+      "type": "Regional state",
+      "country": "ET"
+    },
+    {
+      "code": "ET-HA",
+      "name": "Harari People",
+      "type": "Regional state",
+      "country": "ET"
+    },
+    {
+      "code": "ET-OR",
+      "name": "Oromia",
+      "type": "Regional state",
+      "country": "ET"
+    },
+    {
+      "code": "ET-SI",
+      "name": "Sidama",
+      "type": "Regional state",
+      "country": "ET"
+    },
+    {
+      "code": "ET-SN",
+      "name": "Southern Nations, Nationalities and Peoples",
+      "type": "Regional state",
+      "country": "ET"
+    },
+    {
+      "code": "ET-SO",
+      "name": "Somali",
+      "type": "Regional state",
+      "country": "ET"
+    },
+    {
+      "code": "ET-SW",
+      "name": "Southwest Ethiopia Peoples",
+      "type": "Regional state",
+      "country": "ET"
+    },
+    {
+      "code": "ET-TI",
+      "name": "Tigrai",
+      "type": "Regional state",
+      "country": "ET"
+    }
+  ]
+}

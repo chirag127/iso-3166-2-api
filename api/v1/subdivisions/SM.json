@@ -1,0 +1,61 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SM",
+  "count": 9,
+  "subdivisions": [
+    {
+      "code": "SM-01",
+      "name": "Acquaviva",
+      "type": "Municipality",
+      "country": "SM"
+    },
+    {
+      "code": "SM-02",
+      "name": "Chiesanuova",
+      "type": "Municipality",
+      "country": "SM"
+    },
+    {
+      "code": "SM-03",
+      "name": "Domagnano",
+      "type": "Municipality",
+      "country": "SM"
+    },
+    {
+      "code": "SM-04",
+      "name": "Faetano",
+      "type": "Municipality",
+      "country": "SM"
+    },
+    {
+      "code": "SM-05",
+      "name": "Fiorentino",
+      "type": "Municipality",
+      "country": "SM"
+    },
+    {
+      "code": "SM-06",
+      "name": "Borgo Maggiore",
+      "type": "Municipality",
+      "country": "SM"
+    },
+    {
+      "code": "SM-07",
+      "name": "Città di San Marino",
+      "type": "Municipality",
+      "country": "SM"
+    },
+    {
+      "code": "SM-08",
+      "name": "Montegiardino",
+      "type": "Municipality",
+      "country": "SM"
+    },
+    {
+      "code": "SM-09",
+      "name": "Serravalle",
+      "type": "Municipality",
+      "country": "SM"
+    }
+  ]
+}

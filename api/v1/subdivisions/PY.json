@@ -1,0 +1,115 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "PY",
+  "count": 18,
+  "subdivisions": [
+    {
+      "code": "PY-1",
+      "name": "Concepción",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-10",
+      "name": "Alto Paraná",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-11",
+      "name": "Central",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-12",
+      "name": "Ñeembucú",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-13",
+      "name": "Amambay",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-14",
+      "name": "Canindeyú",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-15",
+      "name": "Presidente Hayes",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-16",
+      "name": "Alto Paraguay",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-19",
+      "name": "Boquerón",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-2",
+      "name": "San Pedro",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-3",
+      "name": "Cordillera",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-4",
+      "name": "Guairá",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-5",
+      "name": "Caaguazú",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-6",
+      "name": "Caazapá",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-7",
+      "name": "Itapúa",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-8",
+      "name": "Misiones",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-9",
+      "name": "Paraguarí",
+      "type": "Department",
+      "country": "PY"
+    },
+    {
+      "code": "PY-ASU",
+      "name": "Asunción",
+      "type": "Capital",
+      "country": "PY"
+    }
+  ]
+}

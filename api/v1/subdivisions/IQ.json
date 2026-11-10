@@ -1,0 +1,121 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "IQ",
+  "count": 19,
+  "subdivisions": [
+    {
+      "code": "IQ-AN",
+      "name": "Al Anbār",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-AR",
+      "name": "Arbīl",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-BA",
+      "name": "Al Başrah",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-BB",
+      "name": "Bābil",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-BG",
+      "name": "Baghdād",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-DA",
+      "name": "Dahūk",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-DI",
+      "name": "Diyālá",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-DQ",
+      "name": "Dhī Qār",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-KA",
+      "name": "Karbalā’",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-KI",
+      "name": "Kirkūk",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-KR",
+      "name": "Iqlīm Kūrdistān",
+      "type": "Region",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-MA",
+      "name": "Maysān",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-MU",
+      "name": "Al Muthanná",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-NA",
+      "name": "An Najaf",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-NI",
+      "name": "Nīnawá",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-QA",
+      "name": "Al Qādisīyah",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-SD",
+      "name": "Şalāḩ ad Dīn",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-SU",
+      "name": "As Sulaymānīyah",
+      "type": "Governorate",
+      "country": "IQ"
+    },
+    {
+      "code": "IQ-WA",
+      "name": "Wāsiţ",
+      "type": "Governorate",
+      "country": "IQ"
+    }
+  ]
+}

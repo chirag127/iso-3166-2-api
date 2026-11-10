@@ -1,0 +1,103 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "GH",
+  "count": 16,
+  "subdivisions": [
+    {
+      "code": "GH-AA",
+      "name": "Greater Accra",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-AF",
+      "name": "Ahafo",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-AH",
+      "name": "Ashanti",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-BE",
+      "name": "Bono East",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-BO",
+      "name": "Bono",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-CP",
+      "name": "Central",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-EP",
+      "name": "Eastern",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-NE",
+      "name": "North East",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-NP",
+      "name": "Northern",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-OT",
+      "name": "Oti",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-SV",
+      "name": "Savannah",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-TV",
+      "name": "Volta",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-UE",
+      "name": "Upper East",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-UW",
+      "name": "Upper West",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-WN",
+      "name": "Western North",
+      "type": "Region",
+      "country": "GH"
+    },
+    {
+      "code": "GH-WP",
+      "name": "Western",
+      "type": "Region",
+      "country": "GH"
+    }
+  ]
+}

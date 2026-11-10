@@ -1,0 +1,43 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "TM",
+  "count": 6,
+  "subdivisions": [
+    {
+      "code": "TM-A",
+      "name": "Ahal",
+      "type": "Region",
+      "country": "TM"
+    },
+    {
+      "code": "TM-B",
+      "name": "Balkan",
+      "type": "Region",
+      "country": "TM"
+    },
+    {
+      "code": "TM-D",
+      "name": "Daşoguz",
+      "type": "Region",
+      "country": "TM"
+    },
+    {
+      "code": "TM-L",
+      "name": "Lebap",
+      "type": "Region",
+      "country": "TM"
+    },
+    {
+      "code": "TM-M",
+      "name": "Mary",
+      "type": "Region",
+      "country": "TM"
+    },
+    {
+      "code": "TM-S",
+      "name": "Aşgabat",
+      "type": "City",
+      "country": "TM"
+    }
+  ]
+}

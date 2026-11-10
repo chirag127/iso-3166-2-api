@@ -1,0 +1,79 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "CG",
+  "count": 12,
+  "subdivisions": [
+    {
+      "code": "CG-11",
+      "name": "Bouenza",
+      "type": "Department",
+      "country": "CG"
+    },
+    {
+      "code": "CG-12",
+      "name": "Pool",
+      "type": "Department",
+      "country": "CG"
+    },
+    {
+      "code": "CG-13",
+      "name": "Sangha",
+      "type": "Department",
+      "country": "CG"
+    },
+    {
+      "code": "CG-14",
+      "name": "Plateaux",
+      "type": "Department",
+      "country": "CG"
+    },
+    {
+      "code": "CG-15",
+      "name": "Cuvette-Ouest",
+      "type": "Department",
+      "country": "CG"
+    },
+    {
+      "code": "CG-16",
+      "name": "Pointe-Noire",
+      "type": "Department",
+      "country": "CG"
+    },
+    {
+      "code": "CG-2",
+      "name": "Lékoumou",
+      "type": "Department",
+      "country": "CG"
+    },
+    {
+      "code": "CG-5",
+      "name": "Kouilou",
+      "type": "Department",
+      "country": "CG"
+    },
+    {
+      "code": "CG-7",
+      "name": "Likouala",
+      "type": "Department",
+      "country": "CG"
+    },
+    {
+      "code": "CG-8",
+      "name": "Cuvette",
+      "type": "Department",
+      "country": "CG"
+    },
+    {
+      "code": "CG-9",
+      "name": "Niari",
+      "type": "Department",
+      "country": "CG"
+    },
+    {
+      "code": "CG-BZV",
+      "name": "Brazzaville",
+      "type": "Department",
+      "country": "CG"
+    }
+  ]
+}

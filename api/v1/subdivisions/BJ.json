@@ -1,0 +1,79 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BJ",
+  "count": 12,
+  "subdivisions": [
+    {
+      "code": "BJ-AK",
+      "name": "Atacora",
+      "type": "Department",
+      "country": "BJ"
+    },
+    {
+      "code": "BJ-AL",
+      "name": "Alibori",
+      "type": "Department",
+      "country": "BJ"
+    },
+    {
+      "code": "BJ-AQ",
+      "name": "Atlantique",
+      "type": "Department",
+      "country": "BJ"
+    },
+    {
+      "code": "BJ-BO",
+      "name": "Borgou",
+      "type": "Department",
+      "country": "BJ"
+    },
+    {
+      "code": "BJ-CO",
+      "name": "Collines",
+      "type": "Department",
+      "country": "BJ"
+    },
+    {
+      "code": "BJ-DO",
+      "name": "Donga",
+      "type": "Department",
+      "country": "BJ"
+    },
+    {
+      "code": "BJ-KO",
+      "name": "Couffo",
+      "type": "Department",
+      "country": "BJ"
+    },
+    {
+      "code": "BJ-LI",
+      "name": "Littoral",
+      "type": "Department",
+      "country": "BJ"
+    },
+    {
+      "code": "BJ-MO",
+      "name": "Mono",
+      "type": "Department",
+      "country": "BJ"
+    },
+    {
+      "code": "BJ-OU",
+      "name": "Ouémé",
+      "type": "Department",
+      "country": "BJ"
+    },
+    {
+      "code": "BJ-PL",
+      "name": "Plateau",
+      "type": "Department",
+      "country": "BJ"
+    },
+    {
+      "code": "BJ-ZO",
+      "name": "Zou",
+      "type": "Department",
+      "country": "BJ"
+    }
+  ]
+}

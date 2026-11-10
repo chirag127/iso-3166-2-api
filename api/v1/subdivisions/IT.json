@@ -1,0 +1,763 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "IT",
+  "count": 126,
+  "subdivisions": [
+    {
+      "code": "IT-21",
+      "name": "Piemonte",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-23",
+      "name": "Valle d'Aosta",
+      "type": "Autonomous region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-25",
+      "name": "Lombardia",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-32",
+      "name": "Trentino-Alto Adige",
+      "type": "Autonomous region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-34",
+      "name": "Veneto",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-36",
+      "name": "Friuli Venezia Giulia",
+      "type": "Autonomous region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-42",
+      "name": "Liguria",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-45",
+      "name": "Emilia-Romagna",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-52",
+      "name": "Toscana",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-55",
+      "name": "Umbria",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-57",
+      "name": "Marche",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-62",
+      "name": "Lazio",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-65",
+      "name": "Abruzzo",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-67",
+      "name": "Molise",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-72",
+      "name": "Campania",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-75",
+      "name": "Puglia",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-77",
+      "name": "Basilicata",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-78",
+      "name": "Calabria",
+      "type": "Region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-82",
+      "name": "Sicilia",
+      "type": "Autonomous region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-88",
+      "name": "Sardegna",
+      "type": "Autonomous region",
+      "country": "IT"
+    },
+    {
+      "code": "IT-AG",
+      "name": "Agrigento",
+      "type": "Free municipal consortium",
+      "country": "IT"
+    },
+    {
+      "code": "IT-AL",
+      "name": "Alessandria",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-AN",
+      "name": "Ancona",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-AP",
+      "name": "Ascoli Piceno",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-AQ",
+      "name": "L'Aquila",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-AR",
+      "name": "Arezzo",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-AT",
+      "name": "Asti",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-AV",
+      "name": "Avellino",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-BA",
+      "name": "Bari",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-BG",
+      "name": "Bergamo",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-BI",
+      "name": "Biella",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-BL",
+      "name": "Belluno",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-BN",
+      "name": "Benevento",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-BO",
+      "name": "Bologna",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-BR",
+      "name": "Brindisi",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-BS",
+      "name": "Brescia",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-BT",
+      "name": "Barletta-Andria-Trani",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-BZ",
+      "name": "Bolzano",
+      "type": "Autonomous province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-CA",
+      "name": "Cagliari",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-CB",
+      "name": "Campobasso",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-CE",
+      "name": "Caserta",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-CH",
+      "name": "Chieti",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-CL",
+      "name": "Caltanissetta",
+      "type": "Free municipal consortium",
+      "country": "IT"
+    },
+    {
+      "code": "IT-CN",
+      "name": "Cuneo",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-CO",
+      "name": "Como",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-CR",
+      "name": "Cremona",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-CS",
+      "name": "Cosenza",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-CT",
+      "name": "Catania",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-CZ",
+      "name": "Catanzaro",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-EN",
+      "name": "Enna",
+      "type": "Free municipal consortium",
+      "country": "IT"
+    },
+    {
+      "code": "IT-FC",
+      "name": "Forlì-Cesena",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-FE",
+      "name": "Ferrara",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-FG",
+      "name": "Foggia",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-FI",
+      "name": "Firenze",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-FM",
+      "name": "Fermo",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-FR",
+      "name": "Frosinone",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-GE",
+      "name": "Genova",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-GO",
+      "name": "Gorizia",
+      "type": "Decentralized regional entity",
+      "country": "IT"
+    },
+    {
+      "code": "IT-GR",
+      "name": "Grosseto",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-IM",
+      "name": "Imperia",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-IS",
+      "name": "Isernia",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-KR",
+      "name": "Crotone",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-LC",
+      "name": "Lecco",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-LE",
+      "name": "Lecce",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-LI",
+      "name": "Livorno",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-LO",
+      "name": "Lodi",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-LT",
+      "name": "Latina",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-LU",
+      "name": "Lucca",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-MB",
+      "name": "Monza e Brianza",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-MC",
+      "name": "Macerata",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-ME",
+      "name": "Messina",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-MI",
+      "name": "Milano",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-MN",
+      "name": "Mantova",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-MO",
+      "name": "Modena",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-MS",
+      "name": "Massa-Carrara",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-MT",
+      "name": "Matera",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-NA",
+      "name": "Napoli",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-NO",
+      "name": "Novara",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-NU",
+      "name": "Nuoro",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-OR",
+      "name": "Oristano",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-PA",
+      "name": "Palermo",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-PC",
+      "name": "Piacenza",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-PD",
+      "name": "Padova",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-PE",
+      "name": "Pescara",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-PG",
+      "name": "Perugia",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-PI",
+      "name": "Pisa",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-PN",
+      "name": "Pordenone",
+      "type": "Decentralized regional entity",
+      "country": "IT"
+    },
+    {
+      "code": "IT-PO",
+      "name": "Prato",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-PR",
+      "name": "Parma",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-PT",
+      "name": "Pistoia",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-PU",
+      "name": "Pesaro e Urbino",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-PV",
+      "name": "Pavia",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-PZ",
+      "name": "Potenza",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-RA",
+      "name": "Ravenna",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-RC",
+      "name": "Reggio Calabria",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-RE",
+      "name": "Reggio Emilia",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-RG",
+      "name": "Ragusa",
+      "type": "Free municipal consortium",
+      "country": "IT"
+    },
+    {
+      "code": "IT-RI",
+      "name": "Rieti",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-RM",
+      "name": "Roma",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-RN",
+      "name": "Rimini",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-RO",
+      "name": "Rovigo",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-SA",
+      "name": "Salerno",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-SI",
+      "name": "Siena",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-SO",
+      "name": "Sondrio",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-SP",
+      "name": "La Spezia",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-SR",
+      "name": "Siracusa",
+      "type": "Free municipal consortium",
+      "country": "IT"
+    },
+    {
+      "code": "IT-SS",
+      "name": "Sassari",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-SU",
+      "name": "Sud Sardegna",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-SV",
+      "name": "Savona",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-TA",
+      "name": "Taranto",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-TE",
+      "name": "Teramo",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-TN",
+      "name": "Trento",
+      "type": "Autonomous province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-TO",
+      "name": "Torino",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-TP",
+      "name": "Trapani",
+      "type": "Free municipal consortium",
+      "country": "IT"
+    },
+    {
+      "code": "IT-TR",
+      "name": "Terni",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-TS",
+      "name": "Trieste",
+      "type": "Decentralized regional entity",
+      "country": "IT"
+    },
+    {
+      "code": "IT-TV",
+      "name": "Treviso",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-UD",
+      "name": "Udine",
+      "type": "Decentralized regional entity",
+      "country": "IT"
+    },
+    {
+      "code": "IT-VA",
+      "name": "Varese",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-VB",
+      "name": "Verbano-Cusio-Ossola",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-VC",
+      "name": "Vercelli",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-VE",
+      "name": "Venezia",
+      "type": "Metropolitan city",
+      "country": "IT"
+    },
+    {
+      "code": "IT-VI",
+      "name": "Vicenza",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-VR",
+      "name": "Verona",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-VT",
+      "name": "Viterbo",
+      "type": "Province",
+      "country": "IT"
+    },
+    {
+      "code": "IT-VV",
+      "name": "Vibo Valentia",
+      "type": "Province",
+      "country": "IT"
+    }
+  ]
+}

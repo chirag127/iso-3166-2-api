@@ -1,0 +1,43 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "CY",
+  "count": 6,
+  "subdivisions": [
+    {
+      "code": "CY-01",
+      "name": "Lefkosia",
+      "type": "District",
+      "country": "CY"
+    },
+    {
+      "code": "CY-02",
+      "name": "Lemesos",
+      "type": "District",
+      "country": "CY"
+    },
+    {
+      "code": "CY-03",
+      "name": "Larnaka",
+      "type": "District",
+      "country": "CY"
+    },
+    {
+      "code": "CY-04",
+      "name": "Ammochostos",
+      "type": "District",
+      "country": "CY"
+    },
+    {
+      "code": "CY-05",
+      "name": "Pafos",
+      "type": "District",
+      "country": "CY"
+    },
+    {
+      "code": "CY-06",
+      "name": "Keryneia",
+      "type": "District",
+      "country": "CY"
+    }
+  ]
+}

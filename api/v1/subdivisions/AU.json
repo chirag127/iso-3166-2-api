@@ -1,0 +1,55 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "AU",
+  "count": 8,
+  "subdivisions": [
+    {
+      "code": "AU-ACT",
+      "name": "Australian Capital Territory",
+      "type": "Territory",
+      "country": "AU"
+    },
+    {
+      "code": "AU-NSW",
+      "name": "New South Wales",
+      "type": "State",
+      "country": "AU"
+    },
+    {
+      "code": "AU-NT",
+      "name": "Northern Territory",
+      "type": "Territory",
+      "country": "AU"
+    },
+    {
+      "code": "AU-QLD",
+      "name": "Queensland",
+      "type": "State",
+      "country": "AU"
+    },
+    {
+      "code": "AU-SA",
+      "name": "South Australia",
+      "type": "State",
+      "country": "AU"
+    },
+    {
+      "code": "AU-TAS",
+      "name": "Tasmania",
+      "type": "State",
+      "country": "AU"
+    },
+    {
+      "code": "AU-VIC",
+      "name": "Victoria",
+      "type": "State",
+      "country": "AU"
+    },
+    {
+      "code": "AU-WA",
+      "name": "Western Australia",
+      "type": "State",
+      "country": "AU"
+    }
+  ]
+}

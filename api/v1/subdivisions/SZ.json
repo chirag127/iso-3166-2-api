@@ -1,0 +1,31 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SZ",
+  "count": 4,
+  "subdivisions": [
+    {
+      "code": "SZ-HH",
+      "name": "Hhohho",
+      "type": "Region",
+      "country": "SZ"
+    },
+    {
+      "code": "SZ-LU",
+      "name": "Lubombo",
+      "type": "Region",
+      "country": "SZ"
+    },
+    {
+      "code": "SZ-MA",
+      "name": "Manzini",
+      "type": "Region",
+      "country": "SZ"
+    },
+    {
+      "code": "SZ-SH",
+      "name": "Shiselweni",
+      "type": "Region",
+      "country": "SZ"
+    }
+  ]
+}

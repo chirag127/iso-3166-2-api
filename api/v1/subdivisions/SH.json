@@ -1,0 +1,25 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SH",
+  "count": 3,
+  "subdivisions": [
+    {
+      "code": "SH-AC",
+      "name": "Ascension",
+      "type": "Geographical entity",
+      "country": "SH"
+    },
+    {
+      "code": "SH-HL",
+      "name": "Saint Helena",
+      "type": "Geographical entity",
+      "country": "SH"
+    },
+    {
+      "code": "SH-TA",
+      "name": "Tristan da Cunha",
+      "type": "Geographical entity",
+      "country": "SH"
+    }
+  ]
+}

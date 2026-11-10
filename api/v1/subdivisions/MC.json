@@ -1,0 +1,109 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "MC",
+  "count": 17,
+  "subdivisions": [
+    {
+      "code": "MC-CL",
+      "name": "La Colle",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-CO",
+      "name": "La Condamine",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-FO",
+      "name": "Fontvieille",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-GA",
+      "name": "La Gare",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-JE",
+      "name": "Jardin Exotique",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-LA",
+      "name": "Larvotto",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-MA",
+      "name": "Malbousquet",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-MC",
+      "name": "Monte-Carlo",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-MG",
+      "name": "Moneghetti",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-MO",
+      "name": "Monaco-Ville",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-MU",
+      "name": "Moulins",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-PH",
+      "name": "Port-Hercule",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-SD",
+      "name": "Sainte-Dévote",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-SO",
+      "name": "La Source",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-SP",
+      "name": "Spélugues",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-SR",
+      "name": "Saint-Roman",
+      "type": "Quarter",
+      "country": "MC"
+    },
+    {
+      "code": "MC-VR",
+      "name": "Vallon de la Rousse",
+      "type": "Quarter",
+      "country": "MC"
+    }
+  ]
+}

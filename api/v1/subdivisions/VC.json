@@ -1,0 +1,43 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "VC",
+  "count": 6,
+  "subdivisions": [
+    {
+      "code": "VC-01",
+      "name": "Charlotte",
+      "type": "Parish",
+      "country": "VC"
+    },
+    {
+      "code": "VC-02",
+      "name": "Saint Andrew",
+      "type": "Parish",
+      "country": "VC"
+    },
+    {
+      "code": "VC-03",
+      "name": "Saint David",
+      "type": "Parish",
+      "country": "VC"
+    },
+    {
+      "code": "VC-04",
+      "name": "Saint George",
+      "type": "Parish",
+      "country": "VC"
+    },
+    {
+      "code": "VC-05",
+      "name": "Saint Patrick",
+      "type": "Parish",
+      "country": "VC"
+    },
+    {
+      "code": "VC-06",
+      "name": "Grenadines",
+      "type": "Parish",
+      "country": "VC"
+    }
+  ]
+}

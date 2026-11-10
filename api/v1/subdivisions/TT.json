@@ -1,0 +1,97 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "TT",
+  "count": 15,
+  "subdivisions": [
+    {
+      "code": "TT-ARI",
+      "name": "Arima",
+      "type": "Borough",
+      "country": "TT"
+    },
+    {
+      "code": "TT-CHA",
+      "name": "Chaguanas",
+      "type": "Borough",
+      "country": "TT"
+    },
+    {
+      "code": "TT-CTT",
+      "name": "Couva-Tabaquite-Talparo",
+      "type": "Region",
+      "country": "TT"
+    },
+    {
+      "code": "TT-DMN",
+      "name": "Diego Martin",
+      "type": "Region",
+      "country": "TT"
+    },
+    {
+      "code": "TT-MRC",
+      "name": "Mayaro-Rio Claro",
+      "type": "Region",
+      "country": "TT"
+    },
+    {
+      "code": "TT-PED",
+      "name": "Penal-Debe",
+      "type": "Region",
+      "country": "TT"
+    },
+    {
+      "code": "TT-POS",
+      "name": "Port of Spain",
+      "type": "City",
+      "country": "TT"
+    },
+    {
+      "code": "TT-PRT",
+      "name": "Princes Town",
+      "type": "Region",
+      "country": "TT"
+    },
+    {
+      "code": "TT-PTF",
+      "name": "Point Fortin",
+      "type": "Borough",
+      "country": "TT"
+    },
+    {
+      "code": "TT-SFO",
+      "name": "San Fernando",
+      "type": "City",
+      "country": "TT"
+    },
+    {
+      "code": "TT-SGE",
+      "name": "Sangre Grande",
+      "type": "Region",
+      "country": "TT"
+    },
+    {
+      "code": "TT-SIP",
+      "name": "Siparia",
+      "type": "Region",
+      "country": "TT"
+    },
+    {
+      "code": "TT-SJL",
+      "name": "San Juan-Laventille",
+      "type": "Region",
+      "country": "TT"
+    },
+    {
+      "code": "TT-TOB",
+      "name": "Tobago",
+      "type": "Ward",
+      "country": "TT"
+    },
+    {
+      "code": "TT-TUP",
+      "name": "Tunapuna-Piarco",
+      "type": "Region",
+      "country": "TT"
+    }
+  ]
+}

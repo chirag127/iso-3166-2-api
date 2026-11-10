@@ -1,0 +1,115 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "LA",
+  "count": 18,
+  "subdivisions": [
+    {
+      "code": "LA-AT",
+      "name": "Attapu",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-BK",
+      "name": "Bokèo",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-BL",
+      "name": "Bolikhamxai",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-CH",
+      "name": "Champasak",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-HO",
+      "name": "Houaphan",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-KH",
+      "name": "Khammouan",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-LM",
+      "name": "Louang Namtha",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-LP",
+      "name": "Louangphabang",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-OU",
+      "name": "Oudômxai",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-PH",
+      "name": "Phôngsali",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-SL",
+      "name": "Salavan",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-SV",
+      "name": "Savannakhét",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-VI",
+      "name": "Viangchan",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-VT",
+      "name": "Viangchan",
+      "type": "Prefecture",
+      "country": "LA"
+    },
+    {
+      "code": "LA-XA",
+      "name": "Xaignabouli",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-XE",
+      "name": "Xékong",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-XI",
+      "name": "Xiangkhouang",
+      "type": "Province",
+      "country": "LA"
+    },
+    {
+      "code": "LA-XS",
+      "name": "Xaisômboun",
+      "type": "Province",
+      "country": "LA"
+    }
+  ]
+}

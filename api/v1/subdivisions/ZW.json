@@ -1,0 +1,67 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "ZW",
+  "count": 10,
+  "subdivisions": [
+    {
+      "code": "ZW-BU",
+      "name": "Bulawayo",
+      "type": "Province",
+      "country": "ZW"
+    },
+    {
+      "code": "ZW-HA",
+      "name": "Harare",
+      "type": "Province",
+      "country": "ZW"
+    },
+    {
+      "code": "ZW-MA",
+      "name": "Manicaland",
+      "type": "Province",
+      "country": "ZW"
+    },
+    {
+      "code": "ZW-MC",
+      "name": "Mashonaland Central",
+      "type": "Province",
+      "country": "ZW"
+    },
+    {
+      "code": "ZW-ME",
+      "name": "Mashonaland East",
+      "type": "Province",
+      "country": "ZW"
+    },
+    {
+      "code": "ZW-MI",
+      "name": "Midlands",
+      "type": "Province",
+      "country": "ZW"
+    },
+    {
+      "code": "ZW-MN",
+      "name": "Matabeleland North",
+      "type": "Province",
+      "country": "ZW"
+    },
+    {
+      "code": "ZW-MS",
+      "name": "Matabeleland South",
+      "type": "Province",
+      "country": "ZW"
+    },
+    {
+      "code": "ZW-MV",
+      "name": "Masvingo",
+      "type": "Province",
+      "country": "ZW"
+    },
+    {
+      "code": "ZW-MW",
+      "name": "Mashonaland West",
+      "type": "Province",
+      "country": "ZW"
+    }
+  ]
+}

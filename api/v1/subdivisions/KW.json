@@ -1,0 +1,43 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "KW",
+  "count": 6,
+  "subdivisions": [
+    {
+      "code": "KW-AH",
+      "name": "Al Aḩmadī",
+      "type": "Governorate",
+      "country": "KW"
+    },
+    {
+      "code": "KW-FA",
+      "name": "Al Farwānīyah",
+      "type": "Governorate",
+      "country": "KW"
+    },
+    {
+      "code": "KW-HA",
+      "name": "Ḩawallī",
+      "type": "Governorate",
+      "country": "KW"
+    },
+    {
+      "code": "KW-JA",
+      "name": "Al Jahrā’",
+      "type": "Governorate",
+      "country": "KW"
+    },
+    {
+      "code": "KW-KU",
+      "name": "Al ‘Āşimah",
+      "type": "Governorate",
+      "country": "KW"
+    },
+    {
+      "code": "KW-MU",
+      "name": "Mubārak al Kabīr",
+      "type": "Governorate",
+      "country": "KW"
+    }
+  ]
+}

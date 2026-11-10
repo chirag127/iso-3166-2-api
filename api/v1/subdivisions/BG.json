@@ -1,0 +1,175 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BG",
+  "count": 28,
+  "subdivisions": [
+    {
+      "code": "BG-01",
+      "name": "Blagoevgrad",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-02",
+      "name": "Burgas",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-03",
+      "name": "Varna",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-04",
+      "name": "Veliko Tarnovo",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-05",
+      "name": "Vidin",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-06",
+      "name": "Vratsa",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-07",
+      "name": "Gabrovo",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-08",
+      "name": "Dobrich",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-09",
+      "name": "Kardzhali",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-10",
+      "name": "Kyustendil",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-11",
+      "name": "Lovech",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-12",
+      "name": "Montana",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-13",
+      "name": "Pazardzhik",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-14",
+      "name": "Pernik",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-15",
+      "name": "Pleven",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-16",
+      "name": "Plovdiv",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-17",
+      "name": "Razgrad",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-18",
+      "name": "Ruse",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-19",
+      "name": "Silistra",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-20",
+      "name": "Sliven",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-21",
+      "name": "Smolyan",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-22",
+      "name": "Sofia (stolitsa)",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-23",
+      "name": "Sofia",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-24",
+      "name": "Stara Zagora",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-25",
+      "name": "Targovishte",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-26",
+      "name": "Haskovo",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-27",
+      "name": "Shumen",
+      "type": "District",
+      "country": "BG"
+    },
+    {
+      "code": "BG-28",
+      "name": "Yambol",
+      "type": "District",
+      "country": "BG"
+    }
+  ]
+}

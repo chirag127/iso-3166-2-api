@@ -1,0 +1,67 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "HT",
+  "count": 10,
+  "subdivisions": [
+    {
+      "code": "HT-AR",
+      "name": "Artibonite",
+      "type": "Department",
+      "country": "HT"
+    },
+    {
+      "code": "HT-CE",
+      "name": "Centre",
+      "type": "Department",
+      "country": "HT"
+    },
+    {
+      "code": "HT-GA",
+      "name": "Grande’Anse",
+      "type": "Department",
+      "country": "HT"
+    },
+    {
+      "code": "HT-ND",
+      "name": "Nord",
+      "type": "Department",
+      "country": "HT"
+    },
+    {
+      "code": "HT-NE",
+      "name": "Nord-Est",
+      "type": "Department",
+      "country": "HT"
+    },
+    {
+      "code": "HT-NI",
+      "name": "Nippes",
+      "type": "Department",
+      "country": "HT"
+    },
+    {
+      "code": "HT-NO",
+      "name": "Nord-Ouest",
+      "type": "Department",
+      "country": "HT"
+    },
+    {
+      "code": "HT-OU",
+      "name": "Ouest",
+      "type": "Department",
+      "country": "HT"
+    },
+    {
+      "code": "HT-SD",
+      "name": "Sud",
+      "type": "Department",
+      "country": "HT"
+    },
+    {
+      "code": "HT-SE",
+      "name": "Sud-Est",
+      "type": "Department",
+      "country": "HT"
+    }
+  ]
+}

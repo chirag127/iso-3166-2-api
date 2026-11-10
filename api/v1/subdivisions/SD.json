@@ -1,0 +1,115 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SD",
+  "count": 18,
+  "subdivisions": [
+    {
+      "code": "SD-DC",
+      "name": "Central Darfur",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-DE",
+      "name": "East Darfur",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-DN",
+      "name": "North Darfur",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-DS",
+      "name": "South Darfur",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-DW",
+      "name": "West Darfur",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-GD",
+      "name": "Gedaref",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-GK",
+      "name": "West Kordofan",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-GZ",
+      "name": "Gezira",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-KA",
+      "name": "Kassala",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-KH",
+      "name": "Khartoum",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-KN",
+      "name": "North Kordofan",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-KS",
+      "name": "South Kordofan",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-NB",
+      "name": "Blue Nile",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-NO",
+      "name": "Northern",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-NR",
+      "name": "River Nile",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-NW",
+      "name": "White Nile",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-RS",
+      "name": "Red Sea",
+      "type": "State",
+      "country": "SD"
+    },
+    {
+      "code": "SD-SI",
+      "name": "Sennar",
+      "type": "State",
+      "country": "SD"
+    }
+  ]
+}

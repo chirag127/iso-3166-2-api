@@ -1,0 +1,475 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "AZ",
+  "count": 78,
+  "subdivisions": [
+    {
+      "code": "AZ-ABS",
+      "name": "Abşeron",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-AGA",
+      "name": "Ağstafa",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-AGC",
+      "name": "Ağcabədi",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-AGM",
+      "name": "Ağdam",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-AGS",
+      "name": "Ağdaş",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-AGU",
+      "name": "Ağsu",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-AST",
+      "name": "Astara",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-BA",
+      "name": "Bakı",
+      "type": "Municipality",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-BAB",
+      "name": "Babək",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-BAL",
+      "name": "Balakən",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-BAR",
+      "name": "Bərdə",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-BEY",
+      "name": "Beyləqan",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-BIL",
+      "name": "Biləsuvar",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-CAB",
+      "name": "Cəbrayıl",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-CAL",
+      "name": "Cəlilabad",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-CUL",
+      "name": "Culfa",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-DAS",
+      "name": "Daşkəsən",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-FUZ",
+      "name": "Füzuli",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-GA",
+      "name": "Gəncə",
+      "type": "Municipality",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-GAD",
+      "name": "Gədəbəy",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-GOR",
+      "name": "Goranboy",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-GOY",
+      "name": "Göyçay",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-GYG",
+      "name": "Göygöl",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-HAC",
+      "name": "Hacıqabul",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-IMI",
+      "name": "İmişli",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-ISM",
+      "name": "İsmayıllı",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-KAL",
+      "name": "Kəlbəcər",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-KAN",
+      "name": "Kǝngǝrli",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-KUR",
+      "name": "Kürdəmir",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-LA",
+      "name": "Lənkəran",
+      "type": "Municipality",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-LAC",
+      "name": "Laçın",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-LAN",
+      "name": "Lənkəran",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-LER",
+      "name": "Lerik",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-MAS",
+      "name": "Masallı",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-MI",
+      "name": "Mingəçevir",
+      "type": "Municipality",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-NA",
+      "name": "Naftalan",
+      "type": "Municipality",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-NEF",
+      "name": "Neftçala",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-NV",
+      "name": "Naxçıvan",
+      "type": "Municipality",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-NX",
+      "name": "Naxçıvan",
+      "type": "Autonomous republic",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-OGU",
+      "name": "Oğuz",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-ORD",
+      "name": "Ordubad",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-QAB",
+      "name": "Qəbələ",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-QAX",
+      "name": "Qax",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-QAZ",
+      "name": "Qazax",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-QBA",
+      "name": "Quba",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-QBI",
+      "name": "Qubadlı",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-QOB",
+      "name": "Qobustan",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-QUS",
+      "name": "Qusar",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SA",
+      "name": "Şəki",
+      "type": "Municipality",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SAB",
+      "name": "Sabirabad",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SAD",
+      "name": "Sədərək",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SAH",
+      "name": "Şahbuz",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SAK",
+      "name": "Şəki",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SAL",
+      "name": "Salyan",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SAR",
+      "name": "Şərur",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SAT",
+      "name": "Saatlı",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SBN",
+      "name": "Şabran",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SIY",
+      "name": "Siyəzən",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SKR",
+      "name": "Şəmkir",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SM",
+      "name": "Sumqayıt",
+      "type": "Municipality",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SMI",
+      "name": "Şamaxı",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SMX",
+      "name": "Samux",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SR",
+      "name": "Şirvan",
+      "type": "Municipality",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-SUS",
+      "name": "Şuşa",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-TAR",
+      "name": "Tərtər",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-TOV",
+      "name": "Tovuz",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-UCA",
+      "name": "Ucar",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-XA",
+      "name": "Xankəndi",
+      "type": "Municipality",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-XAC",
+      "name": "Xaçmaz",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-XCI",
+      "name": "Xocalı",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-XIZ",
+      "name": "Xızı",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-XVD",
+      "name": "Xocavənd",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-YAR",
+      "name": "Yardımlı",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-YE",
+      "name": "Yevlax",
+      "type": "Municipality",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-YEV",
+      "name": "Yevlax",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-ZAN",
+      "name": "Zəngilan",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-ZAQ",
+      "name": "Zaqatala",
+      "type": "Rayon",
+      "country": "AZ"
+    },
+    {
+      "code": "AZ-ZAR",
+      "name": "Zərdab",
+      "type": "Rayon",
+      "country": "AZ"
+    }
+  ]
+}

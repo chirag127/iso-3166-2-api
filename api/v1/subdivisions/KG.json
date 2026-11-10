@@ -1,0 +1,61 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "KG",
+  "count": 9,
+  "subdivisions": [
+    {
+      "code": "KG-B",
+      "name": "Batken",
+      "type": "Region",
+      "country": "KG"
+    },
+    {
+      "code": "KG-C",
+      "name": "Chüy",
+      "type": "Region",
+      "country": "KG"
+    },
+    {
+      "code": "KG-GB",
+      "name": "Bishkek Shaary",
+      "type": "City",
+      "country": "KG"
+    },
+    {
+      "code": "KG-GO",
+      "name": "Osh Shaary",
+      "type": "City",
+      "country": "KG"
+    },
+    {
+      "code": "KG-J",
+      "name": "Jalal-Abad",
+      "type": "Region",
+      "country": "KG"
+    },
+    {
+      "code": "KG-N",
+      "name": "Naryn",
+      "type": "Region",
+      "country": "KG"
+    },
+    {
+      "code": "KG-O",
+      "name": "Osh",
+      "type": "Region",
+      "country": "KG"
+    },
+    {
+      "code": "KG-T",
+      "name": "Talas",
+      "type": "Region",
+      "country": "KG"
+    },
+    {
+      "code": "KG-Y",
+      "name": "Ysyk-Köl",
+      "type": "Region",
+      "country": "KG"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "RO",
+  "count": 42,
+  "subdivisions": [
+    {
+      "code": "RO-AB",
+      "name": "Alba",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-AG",
+      "name": "Argeș",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-AR",
+      "name": "Arad",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-B",
+      "name": "București",
+      "type": "Municipality",
+      "country": "RO"
+    },
+    {
+      "code": "RO-BC",
+      "name": "Bacău",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-BH",
+      "name": "Bihor",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-BN",
+      "name": "Bistrița-Năsăud",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-BR",
+      "name": "Brăila",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-BT",
+      "name": "Botoșani",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-BV",
+      "name": "Brașov",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-BZ",
+      "name": "Buzău",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-CJ",
+      "name": "Cluj",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-CL",
+      "name": "Călărași",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-CS",
+      "name": "Caraș-Severin",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-CT",
+      "name": "Constanța",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-CV",
+      "name": "Covasna",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-DB",
+      "name": "Dâmbovița",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-DJ",
+      "name": "Dolj",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-GJ",
+      "name": "Gorj",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-GL",
+      "name": "Galați",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-GR",
+      "name": "Giurgiu",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-HD",
+      "name": "Hunedoara",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-HR",
+      "name": "Harghita",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-IF",
+      "name": "Ilfov",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-IL",
+      "name": "Ialomița",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-IS",
+      "name": "Iași",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-MH",
+      "name": "Mehedinți",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-MM",
+      "name": "Maramureș",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-MS",
+      "name": "Mureș",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-NT",
+      "name": "Neamț",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-OT",
+      "name": "Olt",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-PH",
+      "name": "Prahova",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-SB",
+      "name": "Sibiu",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-SJ",
+      "name": "Sălaj",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-SM",
+      "name": "Satu Mare",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-SV",
+      "name": "Suceava",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-TL",
+      "name": "Tulcea",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-TM",
+      "name": "Timiș",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-TR",
+      "name": "Teleorman",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-VL",
+      "name": "Vâlcea",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-VN",
+      "name": "Vrancea",
+      "type": "Department",
+      "country": "RO"
+    },
+    {
+      "code": "RO-VS",
+      "name": "Vaslui",
+      "type": "Department",
+      "country": "RO"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SR",
+  "count": 10,
+  "subdivisions": [
+    {
+      "code": "SR-BR",
+      "name": "Brokopondo",
+      "type": "District",
+      "country": "SR"
+    },
+    {
+      "code": "SR-CM",
+      "name": "Commewijne",
+      "type": "District",
+      "country": "SR"
+    },
+    {
+      "code": "SR-CR",
+      "name": "Coronie",
+      "type": "District",
+      "country": "SR"
+    },
+    {
+      "code": "SR-MA",
+      "name": "Marowijne",
+      "type": "District",
+      "country": "SR"
+    },
+    {
+      "code": "SR-NI",
+      "name": "Nickerie",
+      "type": "District",
+      "country": "SR"
+    },
+    {
+      "code": "SR-PM",
+      "name": "Paramaribo",
+      "type": "District",
+      "country": "SR"
+    },
+    {
+      "code": "SR-PR",
+      "name": "Para",
+      "type": "District",
+      "country": "SR"
+    },
+    {
+      "code": "SR-SA",
+      "name": "Saramacca",
+      "type": "District",
+      "country": "SR"
+    },
+    {
+      "code": "SR-SI",
+      "name": "Sipaliwini",
+      "type": "District",
+      "country": "SR"
+    },
+    {
+      "code": "SR-WA",
+      "name": "Wanica",
+      "type": "District",
+      "country": "SR"
+    }
+  ]
+}

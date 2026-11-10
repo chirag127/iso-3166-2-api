@@ -1,0 +1,265 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "LV",
+  "count": 43,
+  "subdivisions": [
+    {
+      "code": "LV-002",
+      "name": "Aizkraukles novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-007",
+      "name": "Alūksnes novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-011",
+      "name": "Ādažu novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-015",
+      "name": "Balvu novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-016",
+      "name": "Bauskas novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-022",
+      "name": "Cēsu novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-026",
+      "name": "Dobeles novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-033",
+      "name": "Gulbenes novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-041",
+      "name": "Jelgavas novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-042",
+      "name": "Jēkabpils novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-047",
+      "name": "Krāslavas novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-050",
+      "name": "Kuldīgas novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-052",
+      "name": "Ķekavas novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-054",
+      "name": "Limbažu novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-056",
+      "name": "Līvānu novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-058",
+      "name": "Ludzas novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-059",
+      "name": "Madonas novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-062",
+      "name": "Mārupes novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-067",
+      "name": "Ogres novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-068",
+      "name": "Olaines novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-073",
+      "name": "Preiļu novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-077",
+      "name": "Rēzeknes novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-080",
+      "name": "Ropažu novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-087",
+      "name": "Salaspils novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-088",
+      "name": "Saldus novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-089",
+      "name": "Saulkrastu novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-091",
+      "name": "Siguldas novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-094",
+      "name": "Smiltenes novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-097",
+      "name": "Talsu novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-099",
+      "name": "Tukuma novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-101",
+      "name": "Valkas novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-102",
+      "name": "Varakļānu novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-106",
+      "name": "Ventspils novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-111",
+      "name": "Augšdaugavas novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-112",
+      "name": "Dienvidkurzemes Novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-113",
+      "name": "Valmieras Novads",
+      "type": "Municipality",
+      "country": "LV"
+    },
+    {
+      "code": "LV-DGV",
+      "name": "Daugavpils",
+      "type": "State city",
+      "country": "LV"
+    },
+    {
+      "code": "LV-JEL",
+      "name": "Jelgava",
+      "type": "State city",
+      "country": "LV"
+    },
+    {
+      "code": "LV-JUR",
+      "name": "Jūrmala",
+      "type": "State city",
+      "country": "LV"
+    },
+    {
+      "code": "LV-LPX",
+      "name": "Liepāja",
+      "type": "State city",
+      "country": "LV"
+    },
+    {
+      "code": "LV-REZ",
+      "name": "Rēzekne",
+      "type": "State city",
+      "country": "LV"
+    },
+    {
+      "code": "LV-RIX",
+      "name": "Rīga",
+      "type": "State city",
+      "country": "LV"
+    },
+    {
+      "code": "LV-VEN",
+      "name": "Ventspils",
+      "type": "State city",
+      "country": "LV"
+    }
+  ]
+}

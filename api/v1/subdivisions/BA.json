@@ -1,0 +1,25 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BA",
+  "count": 3,
+  "subdivisions": [
+    {
+      "code": "BA-BIH",
+      "name": "Federacija Bosne i Hercegovine",
+      "type": "Entity",
+      "country": "BA"
+    },
+    {
+      "code": "BA-BRC",
+      "name": "Brčko distrikt",
+      "type": "District with special status",
+      "country": "BA"
+    },
+    {
+      "code": "BA-SRP",
+      "name": "Republika Srpska",
+      "type": "Entity",
+      "country": "BA"
+    }
+  ]
+}

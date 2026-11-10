@@ -1,0 +1,67 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SS",
+  "count": 10,
+  "subdivisions": [
+    {
+      "code": "SS-BN",
+      "name": "Northern Bahr el Ghazal",
+      "type": "State",
+      "country": "SS"
+    },
+    {
+      "code": "SS-BW",
+      "name": "Western Bahr el Ghazal",
+      "type": "State",
+      "country": "SS"
+    },
+    {
+      "code": "SS-EC",
+      "name": "Central Equatoria",
+      "type": "State",
+      "country": "SS"
+    },
+    {
+      "code": "SS-EE",
+      "name": "Eastern Equatoria",
+      "type": "State",
+      "country": "SS"
+    },
+    {
+      "code": "SS-EW",
+      "name": "Western Equatoria",
+      "type": "State",
+      "country": "SS"
+    },
+    {
+      "code": "SS-JG",
+      "name": "Jonglei",
+      "type": "State",
+      "country": "SS"
+    },
+    {
+      "code": "SS-LK",
+      "name": "Lakes",
+      "type": "State",
+      "country": "SS"
+    },
+    {
+      "code": "SS-NU",
+      "name": "Upper Nile",
+      "type": "State",
+      "country": "SS"
+    },
+    {
+      "code": "SS-UY",
+      "name": "Unity",
+      "type": "State",
+      "country": "SS"
+    },
+    {
+      "code": "SS-WR",
+      "name": "Warrap",
+      "type": "State",
+      "country": "SS"
+    }
+  ]
+}

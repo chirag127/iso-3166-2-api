@@ -1,0 +1,475 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "TH",
+  "count": 78,
+  "subdivisions": [
+    {
+      "code": "TH-10",
+      "name": "Krung Thep Maha Nakhon",
+      "type": "Metropolitan administration",
+      "country": "TH"
+    },
+    {
+      "code": "TH-11",
+      "name": "Samut Prakan",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-12",
+      "name": "Nonthaburi",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-13",
+      "name": "Pathum Thani",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-14",
+      "name": "Phra Nakhon Si Ayutthaya",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-15",
+      "name": "Ang Thong",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-16",
+      "name": "Lop Buri",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-17",
+      "name": "Sing Buri",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-18",
+      "name": "Chai Nat",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-19",
+      "name": "Saraburi",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-20",
+      "name": "Chon Buri",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-21",
+      "name": "Rayong",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-22",
+      "name": "Chanthaburi",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-23",
+      "name": "Trat",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-24",
+      "name": "Chachoengsao",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-25",
+      "name": "Prachin Buri",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-26",
+      "name": "Nakhon Nayok",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-27",
+      "name": "Sa Kaeo",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-30",
+      "name": "Nakhon Ratchasima",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-31",
+      "name": "Buri Ram",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-32",
+      "name": "Surin",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-33",
+      "name": "Si Sa Ket",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-34",
+      "name": "Ubon Ratchathani",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-35",
+      "name": "Yasothon",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-36",
+      "name": "Chaiyaphum",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-37",
+      "name": "Amnat Charoen",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-38",
+      "name": "Bueng Kan",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-39",
+      "name": "Nong Bua Lam Phu",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-40",
+      "name": "Khon Kaen",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-41",
+      "name": "Udon Thani",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-42",
+      "name": "Loei",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-43",
+      "name": "Nong Khai",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-44",
+      "name": "Maha Sarakham",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-45",
+      "name": "Roi Et",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-46",
+      "name": "Kalasin",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-47",
+      "name": "Sakon Nakhon",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-48",
+      "name": "Nakhon Phanom",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-49",
+      "name": "Mukdahan",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-50",
+      "name": "Chiang Mai",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-51",
+      "name": "Lamphun",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-52",
+      "name": "Lampang",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-53",
+      "name": "Uttaradit",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-54",
+      "name": "Phrae",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-55",
+      "name": "Nan",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-56",
+      "name": "Phayao",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-57",
+      "name": "Chiang Rai",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-58",
+      "name": "Mae Hong Son",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-60",
+      "name": "Nakhon Sawan",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-61",
+      "name": "Uthai Thani",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-62",
+      "name": "Kamphaeng Phet",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-63",
+      "name": "Tak",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-64",
+      "name": "Sukhothai",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-65",
+      "name": "Phitsanulok",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-66",
+      "name": "Phichit",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-67",
+      "name": "Phetchabun",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-70",
+      "name": "Ratchaburi",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-71",
+      "name": "Kanchanaburi",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-72",
+      "name": "Suphan Buri",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-73",
+      "name": "Nakhon Pathom",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-74",
+      "name": "Samut Sakhon",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-75",
+      "name": "Samut Songkhram",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-76",
+      "name": "Phetchaburi",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-77",
+      "name": "Prachuap Khiri Khan",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-80",
+      "name": "Nakhon Si Thammarat",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-81",
+      "name": "Krabi",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-82",
+      "name": "Phangnga",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-83",
+      "name": "Phuket",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-84",
+      "name": "Surat Thani",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-85",
+      "name": "Ranong",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-86",
+      "name": "Chumphon",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-90",
+      "name": "Songkhla",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-91",
+      "name": "Satun",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-92",
+      "name": "Trang",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-93",
+      "name": "Phatthalung",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-94",
+      "name": "Pattani",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-95",
+      "name": "Yala",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-96",
+      "name": "Narathiwat",
+      "type": "Province",
+      "country": "TH"
+    },
+    {
+      "code": "TH-S",
+      "name": "Phatthaya",
+      "type": "Special administrative city",
+      "country": "TH"
+    }
+  ]
+}

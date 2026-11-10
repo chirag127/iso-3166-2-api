@@ -1,0 +1,139 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "LY",
+  "count": 22,
+  "subdivisions": [
+    {
+      "code": "LY-BA",
+      "name": "Banghāzī",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-BU",
+      "name": "Al Buţnān",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-DR",
+      "name": "Darnah",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-GT",
+      "name": "Ghāt",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-JA",
+      "name": "Al Jabal al Akhḑar",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-JG",
+      "name": "Al Jabal al Gharbī",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-JI",
+      "name": "Al Jafārah",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-JU",
+      "name": "Al Jufrah",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-KF",
+      "name": "Al Kufrah",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-MB",
+      "name": "Al Marqab",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-MI",
+      "name": "Mişrātah",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-MJ",
+      "name": "Al Marj",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-MQ",
+      "name": "Murzuq",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-NL",
+      "name": "Nālūt",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-NQ",
+      "name": "An Nuqāţ al Khams",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-SB",
+      "name": "Sabhā",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-SR",
+      "name": "Surt",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-TB",
+      "name": "Ţarābulus",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-WA",
+      "name": "Al Wāḩāt",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-WD",
+      "name": "Wādī al Ḩayāt",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-WS",
+      "name": "Wādī ash Shāţi’",
+      "type": "Popularate",
+      "country": "LY"
+    },
+    {
+      "code": "LY-ZA",
+      "name": "Az Zāwiyah",
+      "type": "Popularate",
+      "country": "LY"
+    }
+  ]
+}

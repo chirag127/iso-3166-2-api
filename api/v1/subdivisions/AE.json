@@ -1,0 +1,49 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "AE",
+  "count": 7,
+  "subdivisions": [
+    {
+      "code": "AE-AJ",
+      "name": "‘Ajmān",
+      "type": "Emirate",
+      "country": "AE"
+    },
+    {
+      "code": "AE-AZ",
+      "name": "Abū Z̧aby",
+      "type": "Emirate",
+      "country": "AE"
+    },
+    {
+      "code": "AE-DU",
+      "name": "Dubayy",
+      "type": "Emirate",
+      "country": "AE"
+    },
+    {
+      "code": "AE-FU",
+      "name": "Al Fujayrah",
+      "type": "Emirate",
+      "country": "AE"
+    },
+    {
+      "code": "AE-RK",
+      "name": "Ra’s al Khaymah",
+      "type": "Emirate",
+      "country": "AE"
+    },
+    {
+      "code": "AE-SH",
+      "name": "Ash Shāriqah",
+      "type": "Emirate",
+      "country": "AE"
+    },
+    {
+      "code": "AE-UQ",
+      "name": "Umm al Qaywayn",
+      "type": "Emirate",
+      "country": "AE"
+    }
+  ]
+}

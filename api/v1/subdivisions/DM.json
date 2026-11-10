@@ -1,0 +1,67 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "DM",
+  "count": 10,
+  "subdivisions": [
+    {
+      "code": "DM-02",
+      "name": "Saint Andrew",
+      "type": "Parish",
+      "country": "DM"
+    },
+    {
+      "code": "DM-03",
+      "name": "Saint David",
+      "type": "Parish",
+      "country": "DM"
+    },
+    {
+      "code": "DM-04",
+      "name": "Saint George",
+      "type": "Parish",
+      "country": "DM"
+    },
+    {
+      "code": "DM-05",
+      "name": "Saint John",
+      "type": "Parish",
+      "country": "DM"
+    },
+    {
+      "code": "DM-06",
+      "name": "Saint Joseph",
+      "type": "Parish",
+      "country": "DM"
+    },
+    {
+      "code": "DM-07",
+      "name": "Saint Luke",
+      "type": "Parish",
+      "country": "DM"
+    },
+    {
+      "code": "DM-08",
+      "name": "Saint Mark",
+      "type": "Parish",
+      "country": "DM"
+    },
+    {
+      "code": "DM-09",
+      "name": "Saint Patrick",
+      "type": "Parish",
+      "country": "DM"
+    },
+    {
+      "code": "DM-10",
+      "name": "Saint Paul",
+      "type": "Parish",
+      "country": "DM"
+    },
+    {
+      "code": "DM-11",
+      "name": "Saint Peter",
+      "type": "Parish",
+      "country": "DM"
+    }
+  ]
+}

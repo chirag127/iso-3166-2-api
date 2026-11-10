@@ -1,0 +1,349 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "US",
+  "count": 57,
+  "subdivisions": [
+    {
+      "code": "US-AK",
+      "name": "Alaska",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-AL",
+      "name": "Alabama",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-AR",
+      "name": "Arkansas",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-AS",
+      "name": "American Samoa",
+      "type": "Outlying area",
+      "country": "US"
+    },
+    {
+      "code": "US-AZ",
+      "name": "Arizona",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-CA",
+      "name": "California",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-CO",
+      "name": "Colorado",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-CT",
+      "name": "Connecticut",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-DC",
+      "name": "District of Columbia",
+      "type": "District",
+      "country": "US"
+    },
+    {
+      "code": "US-DE",
+      "name": "Delaware",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-FL",
+      "name": "Florida",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-GA",
+      "name": "Georgia",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-GU",
+      "name": "Guam",
+      "type": "Outlying area",
+      "country": "US"
+    },
+    {
+      "code": "US-HI",
+      "name": "Hawaii",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-IA",
+      "name": "Iowa",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-ID",
+      "name": "Idaho",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-IL",
+      "name": "Illinois",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-IN",
+      "name": "Indiana",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-KS",
+      "name": "Kansas",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-KY",
+      "name": "Kentucky",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-LA",
+      "name": "Louisiana",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-MA",
+      "name": "Massachusetts",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-MD",
+      "name": "Maryland",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-ME",
+      "name": "Maine",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-MI",
+      "name": "Michigan",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-MN",
+      "name": "Minnesota",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-MO",
+      "name": "Missouri",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-MP",
+      "name": "Northern Mariana Islands",
+      "type": "Outlying area",
+      "country": "US"
+    },
+    {
+      "code": "US-MS",
+      "name": "Mississippi",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-MT",
+      "name": "Montana",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-NC",
+      "name": "North Carolina",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-ND",
+      "name": "North Dakota",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-NE",
+      "name": "Nebraska",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-NH",
+      "name": "New Hampshire",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-NJ",
+      "name": "New Jersey",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-NM",
+      "name": "New Mexico",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-NV",
+      "name": "Nevada",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-NY",
+      "name": "New York",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-OH",
+      "name": "Ohio",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-OK",
+      "name": "Oklahoma",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-OR",
+      "name": "Oregon",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-PA",
+      "name": "Pennsylvania",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-PR",
+      "name": "Puerto Rico",
+      "type": "Outlying area",
+      "country": "US"
+    },
+    {
+      "code": "US-RI",
+      "name": "Rhode Island",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-SC",
+      "name": "South Carolina",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-SD",
+      "name": "South Dakota",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-TN",
+      "name": "Tennessee",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-TX",
+      "name": "Texas",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-UM",
+      "name": "United States Minor Outlying Islands",
+      "type": "Outlying area",
+      "country": "US"
+    },
+    {
+      "code": "US-UT",
+      "name": "Utah",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-VA",
+      "name": "Virginia",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-VI",
+      "name": "Virgin Islands, U.S.",
+      "type": "Outlying area",
+      "country": "US"
+    },
+    {
+      "code": "US-VT",
+      "name": "Vermont",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-WA",
+      "name": "Washington",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-WI",
+      "name": "Wisconsin",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-WV",
+      "name": "West Virginia",
+      "type": "State",
+      "country": "US"
+    },
+    {
+      "code": "US-WY",
+      "name": "Wyoming",
+      "type": "State",
+      "country": "US"
+    }
+  ]
+}

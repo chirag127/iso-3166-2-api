@@ -1,0 +1,103 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "MY",
+  "count": 16,
+  "subdivisions": [
+    {
+      "code": "MY-01",
+      "name": "Johor",
+      "type": "State",
+      "country": "MY"
+    },
+    {
+      "code": "MY-02",
+      "name": "Kedah",
+      "type": "State",
+      "country": "MY"
+    },
+    {
+      "code": "MY-03",
+      "name": "Kelantan",
+      "type": "State",
+      "country": "MY"
+    },
+    {
+      "code": "MY-04",
+      "name": "Melaka",
+      "type": "State",
+      "country": "MY"
+    },
+    {
+      "code": "MY-05",
+      "name": "Negeri Sembilan",
+      "type": "State",
+      "country": "MY"
+    },
+    {
+      "code": "MY-06",
+      "name": "Pahang",
+      "type": "State",
+      "country": "MY"
+    },
+    {
+      "code": "MY-07",
+      "name": "Pulau Pinang",
+      "type": "State",
+      "country": "MY"
+    },
+    {
+      "code": "MY-08",
+      "name": "Perak",
+      "type": "State",
+      "country": "MY"
+    },
+    {
+      "code": "MY-09",
+      "name": "Perlis",
+      "type": "State",
+      "country": "MY"
+    },
+    {
+      "code": "MY-10",
+      "name": "Selangor",
+      "type": "State",
+      "country": "MY"
+    },
+    {
+      "code": "MY-11",
+      "name": "Terengganu",
+      "type": "State",
+      "country": "MY"
+    },
+    {
+      "code": "MY-12",
+      "name": "Sabah",
+      "type": "State",
+      "country": "MY"
+    },
+    {
+      "code": "MY-13",
+      "name": "Sarawak",
+      "type": "State",
+      "country": "MY"
+    },
+    {
+      "code": "MY-14",
+      "name": "Wilayah Persekutuan Kuala Lumpur",
+      "type": "Federal territory",
+      "country": "MY"
+    },
+    {
+      "code": "MY-15",
+      "name": "Wilayah Persekutuan Labuan",
+      "type": "Federal territory",
+      "country": "MY"
+    },
+    {
+      "code": "MY-16",
+      "name": "Wilayah Persekutuan Putrajaya",
+      "type": "Federal territory",
+      "country": "MY"
+    }
+  ]
+}

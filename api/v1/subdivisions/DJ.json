@@ -1,0 +1,43 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "DJ",
+  "count": 6,
+  "subdivisions": [
+    {
+      "code": "DJ-AR",
+      "name": "Arta",
+      "type": "Region",
+      "country": "DJ"
+    },
+    {
+      "code": "DJ-AS",
+      "name": "Ali Sabieh",
+      "type": "Region",
+      "country": "DJ"
+    },
+    {
+      "code": "DJ-DI",
+      "name": "Dikhil",
+      "type": "Region",
+      "country": "DJ"
+    },
+    {
+      "code": "DJ-DJ",
+      "name": "Djibouti",
+      "type": "City",
+      "country": "DJ"
+    },
+    {
+      "code": "DJ-OB",
+      "name": "Obock",
+      "type": "Region",
+      "country": "DJ"
+    },
+    {
+      "code": "DJ-TA",
+      "name": "Tadjourah",
+      "type": "Region",
+      "country": "DJ"
+    }
+  ]
+}

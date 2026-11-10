@@ -1,0 +1,127 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "KZ",
+  "count": 20,
+  "subdivisions": [
+    {
+      "code": "KZ-10",
+      "name": "Abay oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-11",
+      "name": "Aqmola oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-15",
+      "name": "Aqtöbe oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-19",
+      "name": "Almaty oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-23",
+      "name": "Atyraū oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-27",
+      "name": "Batys Qazaqstan oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-31",
+      "name": "Zhambyl oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-33",
+      "name": "Zhetisū oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-35",
+      "name": "Qaraghandy oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-39",
+      "name": "Qostanay oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-43",
+      "name": "Qyzylorda oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-47",
+      "name": "Mangghystaū oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-55",
+      "name": "Pavlodar oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-59",
+      "name": "Soltüstik Qazaqstan oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-61",
+      "name": "Türkistan oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-62",
+      "name": "Ulytaū oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-63",
+      "name": "Shyghys Qazaqstan oblysy",
+      "type": "Region",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-71",
+      "name": "Astana",
+      "type": "City",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-75",
+      "name": "Almaty",
+      "type": "City",
+      "country": "KZ"
+    },
+    {
+      "code": "KZ-79",
+      "name": "Shymkent",
+      "type": "City",
+      "country": "KZ"
+    }
+  ]
+}

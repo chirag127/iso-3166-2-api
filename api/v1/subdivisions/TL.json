@@ -1,0 +1,85 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "TL",
+  "count": 13,
+  "subdivisions": [
+    {
+      "code": "TL-AL",
+      "name": "Aileu",
+      "type": "Municipality",
+      "country": "TL"
+    },
+    {
+      "code": "TL-AN",
+      "name": "Ainaro",
+      "type": "Municipality",
+      "country": "TL"
+    },
+    {
+      "code": "TL-BA",
+      "name": "Baucau",
+      "type": "Municipality",
+      "country": "TL"
+    },
+    {
+      "code": "TL-BO",
+      "name": "Bobonaro",
+      "type": "Municipality",
+      "country": "TL"
+    },
+    {
+      "code": "TL-CO",
+      "name": "Cova Lima",
+      "type": "Municipality",
+      "country": "TL"
+    },
+    {
+      "code": "TL-DI",
+      "name": "Díli",
+      "type": "Municipality",
+      "country": "TL"
+    },
+    {
+      "code": "TL-ER",
+      "name": "Ermera",
+      "type": "Municipality",
+      "country": "TL"
+    },
+    {
+      "code": "TL-LA",
+      "name": "Lautém",
+      "type": "Municipality",
+      "country": "TL"
+    },
+    {
+      "code": "TL-LI",
+      "name": "Liquiça",
+      "type": "Municipality",
+      "country": "TL"
+    },
+    {
+      "code": "TL-MF",
+      "name": "Manufahi",
+      "type": "Municipality",
+      "country": "TL"
+    },
+    {
+      "code": "TL-MT",
+      "name": "Manatuto",
+      "type": "Municipality",
+      "country": "TL"
+    },
+    {
+      "code": "TL-OE",
+      "name": "Oé-Cusse Ambeno",
+      "type": "Special administrative region",
+      "country": "TL"
+    },
+    {
+      "code": "TL-VI",
+      "name": "Viqueque",
+      "type": "Municipality",
+      "country": "TL"
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "MK",
+  "count": 80,
+  "subdivisions": [
+    {
+      "code": "MK-101",
+      "name": "Veles",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-102",
+      "name": "Gradsko",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-103",
+      "name": "Demir Kapija",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-104",
+      "name": "Kavadarci",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-105",
+      "name": "Lozovo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-106",
+      "name": "Negotino",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-107",
+      "name": "Rosoman",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-108",
+      "name": "Sveti Nikole",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-109",
+      "name": "Čaška",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-201",
+      "name": "Berovo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-202",
+      "name": "Vinica",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-203",
+      "name": "Delčevo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-204",
+      "name": "Zrnovci",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-205",
+      "name": "Karbinci",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-206",
+      "name": "Kočani",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-207",
+      "name": "Makedonska Kamenica",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-208",
+      "name": "Pehčevo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-209",
+      "name": "Probištip",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-210",
+      "name": "Češinovo-Obleševo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-211",
+      "name": "Štip",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-301",
+      "name": "Vevčani",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-303",
+      "name": "Debar",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-304",
+      "name": "Debrca",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-307",
+      "name": "Kičevo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-308",
+      "name": "Makedonski Brod",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-310",
+      "name": "Ohrid",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-311",
+      "name": "Plasnica",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-312",
+      "name": "Struga",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-313",
+      "name": "Centar Župa",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-401",
+      "name": "Bogdanci",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-402",
+      "name": "Bosilovo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-403",
+      "name": "Valandovo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-404",
+      "name": "Vasilevo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-405",
+      "name": "Gevgelija",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-406",
+      "name": "Dojran",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-407",
+      "name": "Konče",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-408",
+      "name": "Novo Selo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-409",
+      "name": "Radoviš",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-410",
+      "name": "Strumica",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-501",
+      "name": "Bitola",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-502",
+      "name": "Demir Hisar",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-503",
+      "name": "Dolneni",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-504",
+      "name": "Krivogaštani",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-505",
+      "name": "Kruševo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-506",
+      "name": "Mogila",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-507",
+      "name": "Novaci",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-508",
+      "name": "Prilep",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-509",
+      "name": "Resen",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-601",
+      "name": "Bogovinje",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-602",
+      "name": "Brvenica",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-603",
+      "name": "Vrapčište",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-604",
+      "name": "Gostivar",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-605",
+      "name": "Želino",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-606",
+      "name": "Jegunovce",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-607",
+      "name": "Mavrovo i Rostuše",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-608",
+      "name": "Tearce",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-609",
+      "name": "Tetovo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-701",
+      "name": "Kratovo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-702",
+      "name": "Kriva Palanka",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-703",
+      "name": "Kumanovo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-704",
+      "name": "Lipkovo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-705",
+      "name": "Rankovce",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-706",
+      "name": "Staro Nagoričane",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-801",
+      "name": "Aerodrom †",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-802",
+      "name": "Aračinovo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-803",
+      "name": "Butel †",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-804",
+      "name": "Gazi Baba †",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-805",
+      "name": "Gjorče Petrov †",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-806",
+      "name": "Zelenikovo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-807",
+      "name": "Ilinden",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-808",
+      "name": "Karpoš †",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-809",
+      "name": "Kisela Voda †",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-810",
+      "name": "Petrovec",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-811",
+      "name": "Saraj †",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-812",
+      "name": "Sopište",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-813",
+      "name": "Studeničani",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-814",
+      "name": "Centar †",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-815",
+      "name": "Čair †",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-816",
+      "name": "Čučer-Sandevo",
+      "type": "Municipality",
+      "country": "MK"
+    },
+    {
+      "code": "MK-817",
+      "name": "Šuto Orizari †",
+      "type": "Municipality",
+      "country": "MK"
+    }
+  ]
+}

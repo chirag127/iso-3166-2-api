@@ -1,0 +1,55 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "NE",
+  "count": 8,
+  "subdivisions": [
+    {
+      "code": "NE-1",
+      "name": "Agadez",
+      "type": "Region",
+      "country": "NE"
+    },
+    {
+      "code": "NE-2",
+      "name": "Diffa",
+      "type": "Region",
+      "country": "NE"
+    },
+    {
+      "code": "NE-3",
+      "name": "Dosso",
+      "type": "Region",
+      "country": "NE"
+    },
+    {
+      "code": "NE-4",
+      "name": "Maradi",
+      "type": "Region",
+      "country": "NE"
+    },
+    {
+      "code": "NE-5",
+      "name": "Tahoua",
+      "type": "Region",
+      "country": "NE"
+    },
+    {
+      "code": "NE-6",
+      "name": "Tillabéri",
+      "type": "Region",
+      "country": "NE"
+    },
+    {
+      "code": "NE-7",
+      "name": "Zinder",
+      "type": "Region",
+      "country": "NE"
+    },
+    {
+      "code": "NE-8",
+      "name": "Niamey",
+      "type": "Urban community",
+      "country": "NE"
+    }
+  ]
+}

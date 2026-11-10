@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ISO 3166-2 Subdivisions API — free static JSON of every country subdivision</title>
+<meta name="description" content="All 5,046 ISO 3166-2 country subdivisions across 200 countries as free static JSON. No authentication, no rate limit, no server.">
+<style>
+  :root {
+    --bg: #0d1117;
+    --fg: #e6edf3;
+    --muted: #9198a1;
+    --accent: #58a6ff;
+    --border: #30363d;
+    --card: #161b22;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.6;
+  }
+  main { max-width: 52rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+  h1 { font-size: 1.9rem; margin: 0 0 0.25rem; }
+  h2 { font-size: 1.25rem; margin-top: 2.5rem; border-bottom: 1px solid var(--border); padding-bottom: 0.3rem; }
+  p.lead { color: var(--muted); font-size: 1.05rem; }
+  a { color: var(--accent); }
+  code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.1em 0.35em;
+    font-size: 0.9em;
+  }
+  pre {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem;
+    overflow-x: auto;
+    font-size: 0.85rem;
+  }
+  table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  th, td { text-align: left; padding: 0.5rem 0.6rem; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; }
+  ul { padding-left: 1.25rem; }
+  li { margin-bottom: 0.4rem; }
+  .badge {
+    display: inline-block;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.15rem 0.7rem;
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-right: 0.4rem;
+  }
+  footer.hire-me {
+    margin-top: 3rem;
+    border-top: 1px solid var(--border);
+    padding-top: 1.5rem;
+  }
+  footer.hire-me h3 { margin: 0 0 0.5rem; }
+  footer.hire-me p { margin: 0.25rem 0; }
+  #output {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1rem;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.85rem;
+    white-space: pre-wrap;
+    min-height: 4rem;
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+<main>
+
+<h1>ISO 3166-2 Subdivisions API</h1>
+<p class="lead">
+  All 5,046 ISO 3166-2 country subdivisions — every state, province, region, district and
+  municipality across 200 countries — as free static JSON. No authentication. No server. No rate limit.
+</p>
+<p>
+  <span class="badge">5,046 subdivisions</span>
+  <span class="badge">200 countries</span>
+  <span class="badge">updated monthly</span>
+</p>
+
+<h2>Try it</h2>
+<pre>curl https://chirag127.github.io/iso-3166-2-api/api/v1/subdivisions/IN.json</pre>
+<p>Or fetch the first records right now:</p>
+<div id="output">Loading…</div>
+
+<h2>Endpoints</h2>
+<table>
+  <tr><th>Endpoint</th><th>Description</th><th>Size</th></tr>
+  <tr>
+    <td><code>/api/v1/subdivisions.json</code></td>
+    <td>All 5,046 records</td>
+    <td>~570 KB</td>
+  </tr>
+  <tr>
+    <td><code>/api/v1/subdivisions/index.json</code></td>
+    <td>Country index: file name and record count per country</td>
+    <td>~10 KB</td>
+  </tr>
+  <tr>
+    <td><code>/api/v1/subdivisions/{country}.json</code></td>
+    <td>One country per file, e.g. <code>IN.json</code> (36 records) or <code>US.json</code> (57 records)</td>
+    <td>200 files</td>
+  </tr>
+  <tr>
+    <td><code>/data/subdivisions.json</code></td>
+    <td>Same data as above (source of truth for the repo)</td>
+    <td>~570 KB</td>
+  </tr>
+</table>
+
+<h2>Fields</h2>
+<table>
+  <tr><th>Field</th><th>Example</th><th>Notes</th></tr>
+  <tr><td><code>code</code></td><td><code>IN-KA</code></td><td>ISO 3166-2 code: country prefix plus subdivision suffix</td></tr>
+  <tr><td><code>name</code></td><td><code>Karnātaka</code></td><td>Verbatim source name, diacritics included</td></tr>
+  <tr><td><code>type</code></td><td><code>State</code></td><td>109 distinct categories, verbatim from the source</td></tr>
+  <tr><td><code>country</code></td><td><code>IN</code></td><td>ISO 3166-1 alpha-2 code of the parent country</td></tr>
+</table>
+
+<h2>How it stays fresh</h2>
+<p>
+  The <code>update.yml</code> workflow runs monthly, fetches the Debian iso-codes derived
+  <a href="https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json">iso_3166-2.json</a>
+  database, regenerates the JSON and commits only when the data actually changed. GitHub Pages
+  serves the result. No server to run.
+</p>
+
+<h2>Data source and accuracy</h2>
+<p>
+  The source is the <a href="https://salsa.debian.org/iso-codes-team/iso-codes">iso-codes</a>
+  subdivision database as published by the
+  <a href="https://github.com/sokil/php-isocodes-db">php-isocodes-db</a> project, mirroring the
+  Debian <code>iso-codes</code> package and tracking the official ISO 3166-2 standard. All 5,046
+  entries are included: 1,181 provinces, 646 districts, 517 municipalities, 474 regions, 279 states
+  and 104 further categories, covering 200 parent countries.
+</p>
+
+<h2>Limits, stated plainly</h2>
+<ul>
+  <li>Subdivision <code>type</code> strings are the source's English labels and are not normalised — 109 distinct values.</li>
+  <li>Codes reflect the current ISO table only; retired codes are not included.</li>
+  <li>Names follow the ISO transliteration, so some differ from local spellings.</li>
+  <li>The ISO standard updates irregularly, so the monthly workflow may go many runs without a commit.</li>
+</ul>
+
+<footer class="hire-me">
+  <h3>Hire me</h3>
+  <p>Chirag Singhal — building free, open APIs and tools.</p>
+  <p>
+    <a href="mailto:chirag@oriz.in">chirag@oriz.in</a> ·
+    <a href="https://github.com/chirag127">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/chirag127/">LinkedIn</a> ·
+    <a href="https://x.com/singhal127">X</a> ·
+    <a href="https://www.youtube.com/@ChiragSinghal127">YouTube</a> ·
+    <a href="https://www.instagram.com/chiragsinghal127/">Instagram</a> ·
+    <a href="https://www.reddit.com/user/Far_Macaron_9910/">Reddit</a> ·
+    <a href="https://buymeacoffee.com/chirag127">Buy me a coffee</a>
+  </p>
+</footer>
+
+</main>
+
+<script>
+  fetch('api/v1/subdivisions/IN.json')
+    .then((r) => r.json())
+    .then((d) => {
+      document.getElementById('output').textContent = JSON.stringify(
+        d.subdivisions.slice(0, 3), null, 2
+      );
+    })
+    .catch(() => {
+      document.getElementById('output').textContent = 'Live fetch failed — try the curl command above.';
+    });
+</script>
+</body>
+</html>

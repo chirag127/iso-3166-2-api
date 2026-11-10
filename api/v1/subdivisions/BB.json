@@ -1,0 +1,73 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BB",
+  "count": 11,
+  "subdivisions": [
+    {
+      "code": "BB-01",
+      "name": "Christ Church",
+      "type": "Parish",
+      "country": "BB"
+    },
+    {
+      "code": "BB-02",
+      "name": "Saint Andrew",
+      "type": "Parish",
+      "country": "BB"
+    },
+    {
+      "code": "BB-03",
+      "name": "Saint George",
+      "type": "Parish",
+      "country": "BB"
+    },
+    {
+      "code": "BB-04",
+      "name": "Saint James",
+      "type": "Parish",
+      "country": "BB"
+    },
+    {
+      "code": "BB-05",
+      "name": "Saint John",
+      "type": "Parish",
+      "country": "BB"
+    },
+    {
+      "code": "BB-06",
+      "name": "Saint Joseph",
+      "type": "Parish",
+      "country": "BB"
+    },
+    {
+      "code": "BB-07",
+      "name": "Saint Lucy",
+      "type": "Parish",
+      "country": "BB"
+    },
+    {
+      "code": "BB-08",
+      "name": "Saint Michael",
+      "type": "Parish",
+      "country": "BB"
+    },
+    {
+      "code": "BB-09",
+      "name": "Saint Peter",
+      "type": "Parish",
+      "country": "BB"
+    },
+    {
+      "code": "BB-10",
+      "name": "Saint Philip",
+      "type": "Parish",
+      "country": "BB"
+    },
+    {
+      "code": "BB-11",
+      "name": "Saint Thomas",
+      "type": "Parish",
+      "country": "BB"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+openapi: 3.1.0
+info:
+  title: ISO 3166-2 Subdivisions API
+  version: 1.0.0
+  description: >-
+    All 5,046 ISO 3166-2 country subdivisions across 200 countries, served as free
+    static JSON from GitHub Pages. No authentication, no rate limit.
+  license:
+    name: MIT
+    identifier: MIT
+servers:
+  - url: https://chirag127.github.io/iso-3166-2-api
+    description: GitHub Pages
+paths:
+  /api/v1/subdivisions.json:
+    get:
+      summary: All subdivision records
+      description: Returns the complete dataset — 5,046 records across 200 countries.
+      responses:
+        "200":
+          description: The full subdivision table.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/SubdivisionCollection"
+  /api/v1/subdivisions/index.json:
+    get:
+      summary: Country index
+      description: >-
+        Lists the per-country files with their record counts, so clients can
+        fetch only the country they need.
+      responses:
+        "200":
+          description: The country index.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  generatedFrom:
+                    type: string
+                    format: uri
+                  countries:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/CountryEntry"
+  /api/v1/subdivisions/{country}:
+    get:
+      summary: One country's subdivisions
+      description: >-
+        All ISO 3166-2 entries for one ISO 3166-1 alpha-2 country code, e.g.
+        `IN` (36 records) or `US` (57 records).
+      parameters:
+        - name: country
+          in: path
+          required: true
+          description: Two-letter ISO 3166-1 alpha-2 country code.
+          schema:
+            type: string
+            pattern: "^[A-Z]{2}$"
+          example: IN
+      responses:
+        "200":
+          description: The subdivisions of one country.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/CountryCollection"
+  /data/subdivisions.json:
+    get:
+      summary: Source-of-truth copy
+      description: Identical to /api/v1/subdivisions.json.
+      responses:
+        "200":
+          description: The full subdivision table.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/SubdivisionCollection"
+components:
+  schemas:
+    Subdivision:
+      type: object
+      required: [code, name, type, country]
+      properties:
+        code:
+          type: string
+          description: ISO 3166-2 code, e.g. IN-KA.
+          example: IN-KA
+        name:
+          type: string
+          description: Subdivision name, verbatim from the source.
+          example: Karnātaka
+        type:
+          type: string
+          description: Subdivision category, e.g. State, Province, District.
+          example: State
+        country:
+          type: string
+          description: ISO 3166-1 alpha-2 code of the parent country.
+          example: IN
+    SubdivisionCollection:
+      type: object
+      properties:
+        generatedFrom:
+          type: string
+          format: uri
+        count:
+          type: integer
+          example: 5046
+        records:
+          type: array
+          items:
+            $ref: "#/components/schemas/Subdivision"
+    CountryCollection:
+      type: object
+      properties:
+        generatedFrom:
+          type: string
+          format: uri
+        country:
+          type: string
+          example: IN
+        count:
+          type: integer
+          example: 36
+        subdivisions:
+          type: array
+          items:
+            $ref: "#/components/schemas/Subdivision"
+    CountryEntry:
+      type: object
+      properties:
+        country:
+          type: string
+          example: AD
+        file:
+          type: string
+          example: subdivisions/AD.json
+        count:
+          type: integer
+          example: 7

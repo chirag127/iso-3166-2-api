@@ -1,0 +1,127 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "BT",
+  "count": 20,
+  "subdivisions": [
+    {
+      "code": "BT-11",
+      "name": "Paro",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-12",
+      "name": "Chhukha",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-13",
+      "name": "Haa",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-14",
+      "name": "Samtse",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-15",
+      "name": "Thimphu",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-21",
+      "name": "Tsirang",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-22",
+      "name": "Dagana",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-23",
+      "name": "Punakha",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-24",
+      "name": "Wangdue Phodrang",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-31",
+      "name": "Sarpang",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-32",
+      "name": "Trongsa",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-33",
+      "name": "Bumthang",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-34",
+      "name": "Zhemgang",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-41",
+      "name": "Trashigang",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-42",
+      "name": "Monggar",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-43",
+      "name": "Pema Gatshel",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-44",
+      "name": "Lhuentse",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-45",
+      "name": "Samdrup Jongkhar",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-GA",
+      "name": "Gasa",
+      "type": "District",
+      "country": "BT"
+    },
+    {
+      "code": "BT-TY",
+      "name": "Trashi Yangtse",
+      "type": "District",
+      "country": "BT"
+    }
+  ]
+}

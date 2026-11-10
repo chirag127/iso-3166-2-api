@@ -1,0 +1,157 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "KH",
+  "count": 25,
+  "subdivisions": [
+    {
+      "code": "KH-1",
+      "name": "Banteay Mean Choăy",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-10",
+      "name": "Kracheh",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-11",
+      "name": "Mondol Kiri",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-12",
+      "name": "Phnom Penh",
+      "type": "Autonomous municipality",
+      "country": "KH"
+    },
+    {
+      "code": "KH-13",
+      "name": "Preah Vihear",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-14",
+      "name": "Prey Veaeng",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-15",
+      "name": "Pousaat",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-16",
+      "name": "Rotanak Kiri",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-17",
+      "name": "Siem Reab",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-18",
+      "name": "Preah Sihanouk",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-19",
+      "name": "Stueng Traeng",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-2",
+      "name": "Baat Dambang",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-20",
+      "name": "Svaay Rieng",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-21",
+      "name": "Taakaev",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-22",
+      "name": "Otdar Mean Chey",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-23",
+      "name": "Kaeb",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-24",
+      "name": "Pailin",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-25",
+      "name": "Tbong Khmum",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-3",
+      "name": "Kampong Chaam",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-4",
+      "name": "Kampong Chhnang",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-5",
+      "name": "Kampong Spueu",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-6",
+      "name": "Kampong Thum",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-7",
+      "name": "Kampot",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-8",
+      "name": "Kandaal",
+      "type": "Province",
+      "country": "KH"
+    },
+    {
+      "code": "KH-9",
+      "name": "Kaoh Kong",
+      "type": "Province",
+      "country": "KH"
+    }
+  ]
+}

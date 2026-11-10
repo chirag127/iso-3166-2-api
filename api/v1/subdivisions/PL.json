@@ -1,0 +1,103 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "PL",
+  "count": 16,
+  "subdivisions": [
+    {
+      "code": "PL-02",
+      "name": "Dolnośląskie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-04",
+      "name": "Kujawsko-Pomorskie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-06",
+      "name": "Lubelskie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-08",
+      "name": "Lubuskie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-10",
+      "name": "Łódzkie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-12",
+      "name": "Małopolskie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-14",
+      "name": "Mazowieckie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-16",
+      "name": "Opolskie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-18",
+      "name": "Podkarpackie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-20",
+      "name": "Podlaskie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-22",
+      "name": "Pomorskie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-24",
+      "name": "Śląskie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-26",
+      "name": "Świętokrzyskie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-28",
+      "name": "Warmińsko-Mazurskie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-30",
+      "name": "Wielkopolskie",
+      "type": "Voivodship",
+      "country": "PL"
+    },
+    {
+      "code": "PL-32",
+      "name": "Zachodniopomorskie",
+      "type": "Voivodship",
+      "country": "PL"
+    }
+  ]
+}

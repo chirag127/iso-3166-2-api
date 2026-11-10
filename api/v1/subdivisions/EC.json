@@ -1,0 +1,151 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "EC",
+  "count": 24,
+  "subdivisions": [
+    {
+      "code": "EC-A",
+      "name": "Azuay",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-B",
+      "name": "Bolívar",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-C",
+      "name": "Carchi",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-D",
+      "name": "Orellana",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-E",
+      "name": "Esmeraldas",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-F",
+      "name": "Cañar",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-G",
+      "name": "Guayas",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-H",
+      "name": "Chimborazo",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-I",
+      "name": "Imbabura",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-L",
+      "name": "Loja",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-M",
+      "name": "Manabí",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-N",
+      "name": "Napo",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-O",
+      "name": "El Oro",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-P",
+      "name": "Pichincha",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-R",
+      "name": "Los Ríos",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-S",
+      "name": "Morona Santiago",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-SD",
+      "name": "Santo Domingo de los Tsáchilas",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-SE",
+      "name": "Santa Elena",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-T",
+      "name": "Tungurahua",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-U",
+      "name": "Sucumbíos",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-W",
+      "name": "Galápagos",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-X",
+      "name": "Cotopaxi",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-Y",
+      "name": "Pastaza",
+      "type": "Province",
+      "country": "EC"
+    },
+    {
+      "code": "EC-Z",
+      "name": "Zamora Chinchipe",
+      "type": "Province",
+      "country": "EC"
+    }
+  ]
+}

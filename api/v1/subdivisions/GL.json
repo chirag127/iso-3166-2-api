@@ -1,0 +1,37 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "GL",
+  "count": 5,
+  "subdivisions": [
+    {
+      "code": "GL-AV",
+      "name": "Avannaata Kommunia",
+      "type": "Municipality",
+      "country": "GL"
+    },
+    {
+      "code": "GL-KU",
+      "name": "Kommune Kujalleq",
+      "type": "Municipality",
+      "country": "GL"
+    },
+    {
+      "code": "GL-QE",
+      "name": "Qeqqata Kommunia",
+      "type": "Municipality",
+      "country": "GL"
+    },
+    {
+      "code": "GL-QT",
+      "name": "Kommune Qeqertalik",
+      "type": "Municipality",
+      "country": "GL"
+    },
+    {
+      "code": "GL-SM",
+      "name": "Kommuneqarfik Sermersooq",
+      "type": "Municipality",
+      "country": "GL"
+    }
+  ]
+}

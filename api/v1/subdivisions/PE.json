@@ -1,0 +1,163 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "PE",
+  "count": 26,
+  "subdivisions": [
+    {
+      "code": "PE-AMA",
+      "name": "Amazonas",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-ANC",
+      "name": "Ancash",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-APU",
+      "name": "Apurímac",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-ARE",
+      "name": "Arequipa",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-AYA",
+      "name": "Ayacucho",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-CAJ",
+      "name": "Cajamarca",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-CAL",
+      "name": "El Callao",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-CUS",
+      "name": "Cusco",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-HUC",
+      "name": "Huánuco",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-HUV",
+      "name": "Huancavelica",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-ICA",
+      "name": "Ica",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-JUN",
+      "name": "Junín",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-LAL",
+      "name": "La Libertad",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-LAM",
+      "name": "Lambayeque",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-LIM",
+      "name": "Lima",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-LMA",
+      "name": "Municipalidad Metropolitana de Lima",
+      "type": "Municipality",
+      "country": "PE"
+    },
+    {
+      "code": "PE-LOR",
+      "name": "Loreto",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-MDD",
+      "name": "Madre de Dios",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-MOQ",
+      "name": "Moquegua",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-PAS",
+      "name": "Pasco",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-PIU",
+      "name": "Piura",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-PUN",
+      "name": "Puno",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-SAM",
+      "name": "San Martín",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-TAC",
+      "name": "Tacna",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-TUM",
+      "name": "Tumbes",
+      "type": "Region",
+      "country": "PE"
+    },
+    {
+      "code": "PE-UCA",
+      "name": "Ucayali",
+      "type": "Region",
+      "country": "PE"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "MR",
+  "count": 15,
+  "subdivisions": [
+    {
+      "code": "MR-01",
+      "name": "Hodh ech Chargui",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-02",
+      "name": "Hodh el Gharbi",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-03",
+      "name": "Assaba",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-04",
+      "name": "Gorgol",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-05",
+      "name": "Brakna",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-06",
+      "name": "Trarza",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-07",
+      "name": "Adrar",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-08",
+      "name": "Dakhlet Nouâdhibou",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-09",
+      "name": "Tagant",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-10",
+      "name": "Guidimaka",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-11",
+      "name": "Tiris Zemmour",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-12",
+      "name": "Inchiri",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-13",
+      "name": "Nouakchott Ouest",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-14",
+      "name": "Nouakchott Nord",
+      "type": "Region",
+      "country": "MR"
+    },
+    {
+      "code": "MR-15",
+      "name": "Nouakchott Sud",
+      "type": "Region",
+      "country": "MR"
+    }
+  ]
+}

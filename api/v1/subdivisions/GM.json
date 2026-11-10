@@ -1,0 +1,43 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "GM",
+  "count": 6,
+  "subdivisions": [
+    {
+      "code": "GM-B",
+      "name": "Banjul",
+      "type": "City",
+      "country": "GM"
+    },
+    {
+      "code": "GM-L",
+      "name": "Lower River",
+      "type": "Division",
+      "country": "GM"
+    },
+    {
+      "code": "GM-M",
+      "name": "Central River",
+      "type": "Division",
+      "country": "GM"
+    },
+    {
+      "code": "GM-N",
+      "name": "North Bank",
+      "type": "Division",
+      "country": "GM"
+    },
+    {
+      "code": "GM-U",
+      "name": "Upper River",
+      "type": "Division",
+      "country": "GM"
+    },
+    {
+      "code": "GM-W",
+      "name": "Western",
+      "type": "Division",
+      "country": "GM"
+    }
+  ]
+}

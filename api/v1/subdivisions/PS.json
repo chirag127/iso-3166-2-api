@@ -1,0 +1,103 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "PS",
+  "count": 16,
+  "subdivisions": [
+    {
+      "code": "PS-BTH",
+      "name": "Bethlehem",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-DEB",
+      "name": "Deir El Balah",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-GZA",
+      "name": "Gaza",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-HBN",
+      "name": "Hebron",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-JEM",
+      "name": "Jerusalem",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-JEN",
+      "name": "Jenin",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-JRH",
+      "name": "Jericho and Al Aghwar",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-KYS",
+      "name": "Khan Yunis",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-NBS",
+      "name": "Nablus",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-NGZ",
+      "name": "North Gaza",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-QQA",
+      "name": "Qalqilya",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-RBH",
+      "name": "Ramallah",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-RFH",
+      "name": "Rafah",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-SLT",
+      "name": "Salfit",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-TBS",
+      "name": "Tubas",
+      "type": "Governorate",
+      "country": "PS"
+    },
+    {
+      "code": "PS-TKM",
+      "name": "Tulkarm",
+      "type": "Governorate",
+      "country": "PS"
+    }
+  ]
+}

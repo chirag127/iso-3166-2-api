@@ -1,0 +1,85 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SA",
+  "count": 13,
+  "subdivisions": [
+    {
+      "code": "SA-01",
+      "name": "Ar Riyāḑ",
+      "type": "Region",
+      "country": "SA"
+    },
+    {
+      "code": "SA-02",
+      "name": "Makkah al Mukarramah",
+      "type": "Region",
+      "country": "SA"
+    },
+    {
+      "code": "SA-03",
+      "name": "Al Madīnah al Munawwarah",
+      "type": "Region",
+      "country": "SA"
+    },
+    {
+      "code": "SA-04",
+      "name": "Ash Sharqīyah",
+      "type": "Region",
+      "country": "SA"
+    },
+    {
+      "code": "SA-05",
+      "name": "Al Qaşīm",
+      "type": "Region",
+      "country": "SA"
+    },
+    {
+      "code": "SA-06",
+      "name": "Ḩā'il",
+      "type": "Region",
+      "country": "SA"
+    },
+    {
+      "code": "SA-07",
+      "name": "Tabūk",
+      "type": "Region",
+      "country": "SA"
+    },
+    {
+      "code": "SA-08",
+      "name": "Al Ḩudūd ash Shamālīyah",
+      "type": "Region",
+      "country": "SA"
+    },
+    {
+      "code": "SA-09",
+      "name": "Jāzān",
+      "type": "Region",
+      "country": "SA"
+    },
+    {
+      "code": "SA-10",
+      "name": "Najrān",
+      "type": "Region",
+      "country": "SA"
+    },
+    {
+      "code": "SA-11",
+      "name": "Al Bāḩah",
+      "type": "Region",
+      "country": "SA"
+    },
+    {
+      "code": "SA-12",
+      "name": "Al Jawf",
+      "type": "Region",
+      "country": "SA"
+    },
+    {
+      "code": "SA-14",
+      "name": "'Asīr",
+      "type": "Region",
+      "country": "SA"
+    }
+  ]
+}

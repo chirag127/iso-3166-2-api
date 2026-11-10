@@ -1,0 +1,91 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "SY",
+  "count": 14,
+  "subdivisions": [
+    {
+      "code": "SY-DI",
+      "name": "Dimashq",
+      "type": "Province",
+      "country": "SY"
+    },
+    {
+      "code": "SY-DR",
+      "name": "Dar'ā",
+      "type": "Province",
+      "country": "SY"
+    },
+    {
+      "code": "SY-DY",
+      "name": "Dayr az Zawr",
+      "type": "Province",
+      "country": "SY"
+    },
+    {
+      "code": "SY-HA",
+      "name": "Al Ḩasakah",
+      "type": "Province",
+      "country": "SY"
+    },
+    {
+      "code": "SY-HI",
+      "name": "Ḩimş",
+      "type": "Province",
+      "country": "SY"
+    },
+    {
+      "code": "SY-HL",
+      "name": "Ḩalab",
+      "type": "Province",
+      "country": "SY"
+    },
+    {
+      "code": "SY-HM",
+      "name": "Ḩamāh",
+      "type": "Province",
+      "country": "SY"
+    },
+    {
+      "code": "SY-ID",
+      "name": "Idlib",
+      "type": "Province",
+      "country": "SY"
+    },
+    {
+      "code": "SY-LA",
+      "name": "Al Lādhiqīyah",
+      "type": "Province",
+      "country": "SY"
+    },
+    {
+      "code": "SY-QU",
+      "name": "Al Qunayţirah",
+      "type": "Province",
+      "country": "SY"
+    },
+    {
+      "code": "SY-RA",
+      "name": "Ar Raqqah",
+      "type": "Province",
+      "country": "SY"
+    },
+    {
+      "code": "SY-RD",
+      "name": "Rīf Dimashq",
+      "type": "Province",
+      "country": "SY"
+    },
+    {
+      "code": "SY-SU",
+      "name": "As Suwaydā'",
+      "type": "Province",
+      "country": "SY"
+    },
+    {
+      "code": "SY-TA",
+      "name": "Ţarţūs",
+      "type": "Province",
+      "country": "SY"
+    }
+  ]
+}

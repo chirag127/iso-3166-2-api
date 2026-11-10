@@ -1,0 +1,103 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "PW",
+  "count": 16,
+  "subdivisions": [
+    {
+      "code": "PW-002",
+      "name": "Aimeliik",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-004",
+      "name": "Airai",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-010",
+      "name": "Angaur",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-050",
+      "name": "Hatohobei",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-100",
+      "name": "Kayangel",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-150",
+      "name": "Koror",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-212",
+      "name": "Melekeok",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-214",
+      "name": "Ngaraard",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-218",
+      "name": "Ngarchelong",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-222",
+      "name": "Ngardmau",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-224",
+      "name": "Ngatpang",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-226",
+      "name": "Ngchesar",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-227",
+      "name": "Ngeremlengui",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-228",
+      "name": "Ngiwal",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-350",
+      "name": "Peleliu",
+      "type": "State",
+      "country": "PW"
+    },
+    {
+      "code": "PW-370",
+      "name": "Sonsorol",
+      "type": "State",
+      "country": "PW"
+    }
+  ]
+}

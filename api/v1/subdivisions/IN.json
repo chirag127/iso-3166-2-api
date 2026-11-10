@@ -1,0 +1,223 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "IN",
+  "count": 36,
+  "subdivisions": [
+    {
+      "code": "IN-AN",
+      "name": "Andaman and Nicobar Islands",
+      "type": "Union territory",
+      "country": "IN"
+    },
+    {
+      "code": "IN-AP",
+      "name": "Andhra Pradesh",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-AR",
+      "name": "Arunāchal Pradesh",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-AS",
+      "name": "Assam",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-BR",
+      "name": "Bihār",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-CG",
+      "name": "Chhattīsgarh",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-CH",
+      "name": "Chandīgarh",
+      "type": "Union territory",
+      "country": "IN"
+    },
+    {
+      "code": "IN-DH",
+      "name": "Dādra and Nagar Haveli and Damān and Diu",
+      "type": "Union territory",
+      "country": "IN"
+    },
+    {
+      "code": "IN-DL",
+      "name": "Delhi",
+      "type": "Union territory",
+      "country": "IN"
+    },
+    {
+      "code": "IN-GA",
+      "name": "Goa",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-GJ",
+      "name": "Gujarāt",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-HP",
+      "name": "Himāchal Pradesh",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-HR",
+      "name": "Haryāna",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-JH",
+      "name": "Jhārkhand",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-JK",
+      "name": "Jammu and Kashmīr",
+      "type": "Union territory",
+      "country": "IN"
+    },
+    {
+      "code": "IN-KA",
+      "name": "Karnātaka",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-KL",
+      "name": "Kerala",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-LA",
+      "name": "Ladākh",
+      "type": "Union territory",
+      "country": "IN"
+    },
+    {
+      "code": "IN-LD",
+      "name": "Lakshadweep",
+      "type": "Union territory",
+      "country": "IN"
+    },
+    {
+      "code": "IN-MH",
+      "name": "Mahārāshtra",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-ML",
+      "name": "Meghālaya",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-MN",
+      "name": "Manipur",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-MP",
+      "name": "Madhya Pradesh",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-MZ",
+      "name": "Mizoram",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-NL",
+      "name": "Nāgāland",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-OD",
+      "name": "Odisha",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-PB",
+      "name": "Punjab",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-PY",
+      "name": "Puducherry",
+      "type": "Union territory",
+      "country": "IN"
+    },
+    {
+      "code": "IN-RJ",
+      "name": "Rājasthān",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-SK",
+      "name": "Sikkim",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-TN",
+      "name": "Tamil Nādu",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-TR",
+      "name": "Tripura",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-TS",
+      "name": "Telangāna",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-UK",
+      "name": "Uttarākhand",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-UP",
+      "name": "Uttar Pradesh",
+      "type": "State",
+      "country": "IN"
+    },
+    {
+      "code": "IN-WB",
+      "name": "West Bengal",
+      "type": "State",
+      "country": "IN"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "WF",
+  "count": 3,
+  "subdivisions": [
+    {
+      "code": "WF-AL",
+      "name": "Alo",
+      "type": "Administrative precinct",
+      "country": "WF"
+    },
+    {
+      "code": "WF-SG",
+      "name": "Sigave",
+      "type": "Administrative precinct",
+      "country": "WF"
+    },
+    {
+      "code": "WF-UV",
+      "name": "Uvea",
+      "type": "Administrative precinct",
+      "country": "WF"
+    }
+  ]
+}

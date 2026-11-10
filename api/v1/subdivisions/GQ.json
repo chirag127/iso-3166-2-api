@@ -1,0 +1,67 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "GQ",
+  "count": 10,
+  "subdivisions": [
+    {
+      "code": "GQ-AN",
+      "name": "Annobon",
+      "type": "Province",
+      "country": "GQ"
+    },
+    {
+      "code": "GQ-BN",
+      "name": "Bioko Nord",
+      "type": "Province",
+      "country": "GQ"
+    },
+    {
+      "code": "GQ-BS",
+      "name": "Bioko Sud",
+      "type": "Province",
+      "country": "GQ"
+    },
+    {
+      "code": "GQ-C",
+      "name": "Région Continentale",
+      "type": "Region",
+      "country": "GQ"
+    },
+    {
+      "code": "GQ-CS",
+      "name": "Centro Sud",
+      "type": "Province",
+      "country": "GQ"
+    },
+    {
+      "code": "GQ-DJ",
+      "name": "Djibloho",
+      "type": "Province",
+      "country": "GQ"
+    },
+    {
+      "code": "GQ-I",
+      "name": "Région Insulaire",
+      "type": "Region",
+      "country": "GQ"
+    },
+    {
+      "code": "GQ-KN",
+      "name": "Kié-Ntem",
+      "type": "Province",
+      "country": "GQ"
+    },
+    {
+      "code": "GQ-LI",
+      "name": "Littoral",
+      "type": "Province",
+      "country": "GQ"
+    },
+    {
+      "code": "GQ-WN",
+      "name": "Wele-Nzas",
+      "type": "Province",
+      "country": "GQ"
+    }
+  ]
+}

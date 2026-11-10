@@ -1,0 +1,73 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "OM",
+  "count": 11,
+  "subdivisions": [
+    {
+      "code": "OM-BJ",
+      "name": "Janūb al Bāţinah",
+      "type": "Governorate",
+      "country": "OM"
+    },
+    {
+      "code": "OM-BS",
+      "name": "Shamāl al Bāţinah",
+      "type": "Governorate",
+      "country": "OM"
+    },
+    {
+      "code": "OM-BU",
+      "name": "Al Buraymī",
+      "type": "Governorate",
+      "country": "OM"
+    },
+    {
+      "code": "OM-DA",
+      "name": "Ad Dākhilīyah",
+      "type": "Governorate",
+      "country": "OM"
+    },
+    {
+      "code": "OM-MA",
+      "name": "Masqaţ",
+      "type": "Governorate",
+      "country": "OM"
+    },
+    {
+      "code": "OM-MU",
+      "name": "Musandam",
+      "type": "Governorate",
+      "country": "OM"
+    },
+    {
+      "code": "OM-SJ",
+      "name": "Janūb ash Sharqīyah",
+      "type": "Governorate",
+      "country": "OM"
+    },
+    {
+      "code": "OM-SS",
+      "name": "Shamāl ash Sharqīyah",
+      "type": "Governorate",
+      "country": "OM"
+    },
+    {
+      "code": "OM-WU",
+      "name": "Al Wusţá",
+      "type": "Governorate",
+      "country": "OM"
+    },
+    {
+      "code": "OM-ZA",
+      "name": "Az̧ Z̧āhirah",
+      "type": "Governorate",
+      "country": "OM"
+    },
+    {
+      "code": "OM-ZU",
+      "name": "Z̧ufār",
+      "type": "Governorate",
+      "country": "OM"
+    }
+  ]
+}

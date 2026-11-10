@@ -1,0 +1,151 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "CV",
+  "count": 24,
+  "subdivisions": [
+    {
+      "code": "CV-B",
+      "name": "Ilhas de Barlavento",
+      "type": "Geographical region",
+      "country": "CV"
+    },
+    {
+      "code": "CV-BR",
+      "name": "Brava",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-BV",
+      "name": "Boa Vista",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-CA",
+      "name": "Santa Catarina",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-CF",
+      "name": "Santa Catarina do Fogo",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-CR",
+      "name": "Santa Cruz",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-MA",
+      "name": "Maio",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-MO",
+      "name": "Mosteiros",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-PA",
+      "name": "Paul",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-PN",
+      "name": "Porto Novo",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-PR",
+      "name": "Praia",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-RB",
+      "name": "Ribeira Brava",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-RG",
+      "name": "Ribeira Grande",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-RS",
+      "name": "Ribeira Grande de Santiago",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-S",
+      "name": "Ilhas de Sotavento",
+      "type": "Geographical region",
+      "country": "CV"
+    },
+    {
+      "code": "CV-SD",
+      "name": "São Domingos",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-SF",
+      "name": "São Filipe",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-SL",
+      "name": "Sal",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-SM",
+      "name": "São Miguel",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-SO",
+      "name": "São Lourenço dos Órgãos",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-SS",
+      "name": "São Salvador do Mundo",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-SV",
+      "name": "São Vicente",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-TA",
+      "name": "Tarrafal",
+      "type": "Municipality",
+      "country": "CV"
+    },
+    {
+      "code": "CV-TS",
+      "name": "Tarrafal de São Nicolau",
+      "type": "Municipality",
+      "country": "CV"
+    }
+  ]
+}

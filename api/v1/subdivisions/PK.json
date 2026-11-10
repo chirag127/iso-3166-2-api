@@ -1,0 +1,49 @@
+{
+  "generatedFrom": "https://raw.githubusercontent.com/sokil/php-isocodes-db/master/databases/iso_3166-2.json",
+  "country": "PK",
+  "count": 7,
+  "subdivisions": [
+    {
+      "code": "PK-BA",
+      "name": "Balochistan",
+      "type": "Province",
+      "country": "PK"
+    },
+    {
+      "code": "PK-GB",
+      "name": "Gilgit-Baltistan",
+      "type": "Pakistan administered area",
+      "country": "PK"
+    },
+    {
+      "code": "PK-IS",
+      "name": "Islamabad",
+      "type": "Federal capital territory",
+      "country": "PK"
+    },
+    {
+      "code": "PK-JK",
+      "name": "Azad Jammu and Kashmir",
+      "type": "Pakistan administered area",
+      "country": "PK"
+    },
+    {
+      "code": "PK-KP",
+      "name": "Khyber Pakhtunkhwa",
+      "type": "Province",
+      "country": "PK"
+    },
+    {
+      "code": "PK-PB",
+      "name": "Punjab",
+      "type": "Province",
+      "country": "PK"
+    },
+    {
+      "code": "PK-SD",
+      "name": "Sindh",
+      "type": "Province",
+      "country": "PK"
+    }
+  ]
+}
